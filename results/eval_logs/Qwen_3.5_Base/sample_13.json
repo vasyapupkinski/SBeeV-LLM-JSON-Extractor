@@ -1,0 +1,14 @@
+{
+  "model": "Qwen 3.5 (Base)",
+  "gold": {
+    "company": "노타(Nota)",
+    "position": "Senior AI Engineer",
+    "tech_stack": [],
+    "experience": "7년 이상",
+    "location": "서울특별시 강남구 테헤란로 521 파르나스 타워 16층",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": null,
+  "latency": 2.4452357292175293
+}

@@ -1,0 +1,26 @@
+{
+  "model": "SBV-LLM (DoRA)",
+  "gold": {
+    "company": "에이베러",
+    "position": "백엔드 개발자(AI Agent) - 디스터",
+    "tech_stack": [
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "experience": "3년 이상",
+    "location": "서울 강남구",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "에이베러",
+    "position": "백엔드 개발자(AI Agent) - 디스터",
+    "tech_stack": [
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "experience": "3년 이상",
+    "location": "서울 강남구 강남대로 364, 12층 패스트파이브"
+  },
+  "latency": 1.6449615955352783
+}

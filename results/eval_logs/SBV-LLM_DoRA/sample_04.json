@@ -1,0 +1,53 @@
+{
+  "model": "SBV-LLM (DoRA)",
+  "gold": {
+    "company": "혜움",
+    "position": "AI Native Engineer (백엔드 기반/7년+)",
+    "tech_stack": [
+      "AWS",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "RESTful API"
+    ],
+    "experience": "7년 이상",
+    "location": "서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "혜움",
+    "position": "AI Native Engineer (백엔드 기반/7년+)",
+    "tech_stack": [
+      "AWS",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "RESTful API"
+    ],
+    "experience": "7년 이상",
+    "location": "서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층",
+    "salary_range": null,
+    "employment_type": null,
+    "main_tasks": [
+      "클라우드 운영 및 안정화",
+      "시스템 레거시 현대화",
+      "외부 시스템 연동 설계 및 구현",
+      "장애 대응 프로세스 정립"
+    ],
+    "requirements": [
+      "AWS/GCP 실무 경험",
+      "Docker/Kubernetes 운영 경험",
+      "RESTful API 개발 경험",
+      "시스템 레거시 개선 경험",
+      "관련 경력 합산 7년 이상"
+    ],
+    "preferred_qualifications": [],
+    "benefits": [
+      "스톡옵션",
+      "건강검진지원",
+      "자기계발지원"
+    ]
+  },
+  "latency": 3.77760648727417
+}

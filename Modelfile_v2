@@ -1,0 +1,37 @@
+FROM "./models/sbv-llm-merged-v2_gguf/sbv-llm-merged-v2.Q4_K_M.gguf"
+
+TEMPLATE """{{ if .System }}<|im_start|>system
+{{ .System }}<|im_end|>
+{{ end }}{{ if .Prompt }}<|im_start|>user
+{{ .Prompt }}<|im_end|>
+{{ end }}<|im_start|>assistant
+"""
+
+PARAMETER stop "<|im_start|>"
+PARAMETER stop "<|im_end|>"
+PARAMETER temperature 0.0
+PARAMETER top_p 0.9
+PARAMETER repeat_penalty 2.0
+PARAMETER repeat_last_n 1024
+PARAMETER num_predict 2048
+PARAMETER num_ctx 16384
+
+SYSTEM """당신은 채용 공고 전문 정보 추출기입니다. 
+가장 중요한 규칙: 절대 동일한 단어를 반복하지 마세요. (반복 시 실패로 간주함)
+
+주어진 텍스트에서 아래 JSON 필드만 추출하세요:
+{
+  "company": "회사명",
+  "position": "포지션",
+  "tech_stack": ["기술명 (최대 15개)"],
+  "experience": "경력",
+  "location": "근무지",
+  "deadline": "마감일 (예: 상시채용)",
+  "salary_range": "연봉",
+  "employment_type": "고용형태"
+}
+
+주의사항:
+1. tech_stack은 반드시 명사 형태의 기술 스택만 포함하세요.
+2. 루프 방지: 동일한 단어가 두 번 이상 나오지 않게 하세요.
+3. 없는 정보는 null로 처리하고, 절대 설명을 덧붙이지 마세요."""

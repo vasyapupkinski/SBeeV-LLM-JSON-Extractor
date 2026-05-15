@@ -1,0 +1,25 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "에스디티",
+    "position": "연구기획 매니저",
+    "tech_stack": [],
+    "experience": "신입-경력 4년",
+    "location": "서울 강남구 테헤란로44길 5 대아빌딩 10층",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "에스디티",
+    "position": "연구기획 매니저",
+    "tech_stack": [
+      "양자컴퓨팅",
+      "양자 클라우드",
+      "양자 통신",
+      "양자 센싱"
+    ],
+    "experience": "신입-경력 4년",
+    "location": "서울 강남구 테헤란로44길 5 대아빌딩 10층"
+  },
+  "latency": 2.1418545246124268
+}

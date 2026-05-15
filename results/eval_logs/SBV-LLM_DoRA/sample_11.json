@@ -1,0 +1,51 @@
+{
+  "model": "SBV-LLM (DoRA)",
+  "gold": {
+    "company": "업스테이지",
+    "position": "AI Engineer - LLM Serving Platform",
+    "tech_stack": [],
+    "experience": "3년 이상",
+    "location": "리모트근무",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "업스테이지",
+    "position": "AI Engineer - LLM Serving Platform",
+    "tech_stack": [
+      "vLLM",
+      "SGLang",
+      "Kubernetes",
+      "AWS",
+      "Azure"
+    ],
+    "experience": "3년 이상",
+    "location": "경기",
+    "salary_range": null,
+    "employment_type": null,
+    "main_tasks": [
+      "대규모 GPU 클러스터 환경에서 LLM 서빙 플랫폼을 설계·개발·운영합니다",
+      "대규모 트래픽을 효율적으로 처리하기 위한 라우팅·스케줄링 로직을 구현합니다",
+      "오픈소스 추론 런타임에 자체 확장 기능을 구현하며 높은 안정성과 성능을 확보합니다",
+      "최신 LLM 서빙 아키텍처를 프로덕션에 도입·운영합니다",
+      "모니터링 및 관측 가능성 체계를 구축하고 높은 가용성의 서비스를 운영합니다"
+    ],
+    "requirements": [
+      "3년 이상의 AI 모델 서빙 경험",
+      "최신 LLM 아키텍처 및 서빙 기술에 대한 깊은 이해",
+      "실시간 AI 모델 추론 서비스 개발/운영 경험",
+      "클라우드 서비스를 이용한 제품 개발/운영 경험",
+      "Kubernetes 기반 워크로드를 프로덕션에서 운영해 본 경험",
+      "하나 이상의 프로그래밍 언어에 대한 높은 수준의 이해",
+      "한국어 및 영어 능통자"
+    ],
+    "preferred_qualifications": [],
+    "benefits": [
+      "커피·스낵바",
+      "건강검진지원",
+      "단체보험",
+      "편의시설"
+    ]
+  },
+  "latency": 5.011489391326904
+}

@@ -1,0 +1,14 @@
+{
+  "model": "Qwen 3.5 (Base)",
+  "gold": {
+    "company": "에스디티",
+    "position": "임베디드 하드웨어 플랫폼 개발",
+    "tech_stack": [],
+    "experience": "3-8년",
+    "location": "서울 강남구",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": null,
+  "latency": 2.134675979614258
+}

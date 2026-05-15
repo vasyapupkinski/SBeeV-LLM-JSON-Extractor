@@ -1,0 +1,39 @@
+{
+  "model": "SBV-LLM (DoRA)",
+  "gold": {
+    "company": "아마존(Amazon)",
+    "position": "Telecom Operations Engineer, Amazon Connect",
+    "tech_stack": [],
+    "experience": "3년 이상",
+    "location": "서울특별시 강남구 테헤란로 231 (역삼동, 센터필드 서관 12층)",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "Amazon",
+    "position": "Telecom Operations Engineer, Amazon Connect",
+    "tech_stack": [],
+    "experience": "3년 이상",
+    "location": "서울특별시 강남구 테헤란로 231 (센터필드 서관 12층)",
+    "salary_range": null,
+    "employment_type": null,
+    "main_tasks": [
+      "Support and expand the Amazon Connect telecom infrastructure handling thousands of concurrent customer calls",
+      "Expand infrastructure to new global regions and support existing implementations",
+      "Innovate telecom network operations through tooling and processes to improve customer productivity",
+      "Participate in deep-dive troubleshooting and conduct technical post-mortem discussions to identify root causes of complex issues",
+      "Design and deliver scalable, resilient telecom systems while maintaining customer focus",
+      "Build tools and solutions across thousands of devices to improve and streamline processes at massive scale",
+      "Work with customers to help them get the best experience using Amazon Connect"
+    ],
+    "requirements": [
+      "3+ years of network and operating system support experience",
+      "Bachelor's degree in computer science or equivalent, or 3+ years of technical support experience",
+      "3+ years of Telephony related experience, i.e. SIP, RTP, VoIP, open source voice services",
+      "Fluent in Korean and English"
+    ],
+    "preferred_qualifications": [],
+    "benefits": []
+  },
+  "latency": 4.605733394622803
+}

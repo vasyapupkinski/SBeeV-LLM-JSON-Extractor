@@ -1,0 +1,20 @@
+{
+  "model": "SBV-LLM (DoRA)",
+  "gold": {
+    "company": "에스디티",
+    "position": "연구기획 매니저",
+    "tech_stack": [],
+    "experience": "신입-경력 4년",
+    "location": "서울 강남구 테헤란로44길 5 대아빌딩 10층",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "에스디티",
+    "position": "연구기획 매니저",
+    "tech_stack": [],
+    "experience": "신입-경력 4년",
+    "location": "서울 강남구 테헤란로44길 5 대아빌딩 10층"
+  },
+  "latency": 1.473522663116455
+}

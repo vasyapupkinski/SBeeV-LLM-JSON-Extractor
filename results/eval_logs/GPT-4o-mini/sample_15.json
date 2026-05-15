@@ -1,0 +1,36 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "팀리부뜨",
+    "position": "AI-Native Full Stack Engineer",
+    "tech_stack": [
+      "React",
+      "TypeScript",
+      "Python",
+      "FastAPI",
+      "Go",
+      "AWS",
+      "Docker"
+    ],
+    "experience": "신입-경력 4년",
+    "location": "부산 남구 용소로19번길 34, 오션빌 201호(대연동)(선행기술연구소)",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "팀리부뜨",
+    "position": "AI-Native Full Stack Engineer",
+    "tech_stack": [
+      "React",
+      "TypeScript",
+      "Python",
+      "FastAPI",
+      "Go",
+      "AWS",
+      "Docker"
+    ],
+    "experience": "신입-경력 4년",
+    "location": "부산 남구 용소로19번길 34, 오션빌 201호(대연동)(선행기술연구소)"
+  },
+  "latency": 2.152155637741089
+}

@@ -1,0 +1,25 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "노타(Nota)",
+    "position": "Senior AI Engineer",
+    "tech_stack": [],
+    "experience": "7년 이상",
+    "location": "서울특별시 강남구 테헤란로 521 파르나스 타워 16층",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "노타(Nota)",
+    "position": "Senior AI Engineer",
+    "tech_stack": [
+      "Computer Vision",
+      "Multimodal AI",
+      "AI 시스템 설계",
+      "모델 성능 개선"
+    ],
+    "experience": "7년 이상",
+    "location": "서울특별시 강남구 테헤란로 521 파르나스 타워 16층"
+  },
+  "latency": 1.6569576263427734
+}

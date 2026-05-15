@@ -1,0 +1,14 @@
+{
+  "model": "Qwen 3.5 (Base)",
+  "gold": {
+    "company": "업스테이지",
+    "position": "AI Engineer - LLM Serving Platform",
+    "tech_stack": [],
+    "experience": "3년 이상",
+    "location": "리모트근무",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": null,
+  "latency": 2.0118377208709717
+}

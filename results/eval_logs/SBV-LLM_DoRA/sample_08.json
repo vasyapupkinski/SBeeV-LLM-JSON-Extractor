@@ -1,0 +1,93 @@
+{
+  "model": "SBV-LLM (DoRA)",
+  "gold": {
+    "company": "다우기술",
+    "position": "Web Application PM/PL",
+    "tech_stack": [
+      "Java(Spring Boot)",
+      "Mybatis/JPA",
+      "QueryDSL",
+      "Python",
+      "React",
+      "Vue.js",
+      "Next.js",
+      "Vanilla JavaScript",
+      "Postgre",
+      "MySQL",
+      "Oracle",
+      "Redis",
+      "RabbitMQ",
+      "Kafka",
+      "Jira",
+      "Redmine",
+      "Slack",
+      "Figma",
+      "Notion",
+      "AWS",
+      "GCP",
+      "NCP",
+      "K8s",
+      "Docker",
+      "LLMs",
+      "ClaudeCode"
+    ],
+    "experience": "7-15년",
+    "location": "경기도 성남시 수정구 금토로 69 다우디지털스퀘어",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "다우기술",
+    "position": "Web Application PM/PL",
+    "tech_stack": [
+      "Java",
+      "Spring Boot",
+      "Mybatis",
+      "JPA",
+      "QueryDSL",
+      "Python",
+      "React",
+      "Vue.js",
+      "Next.js",
+      "JavaScript",
+      "Postgre",
+      "MySQL",
+      "Oracle",
+      "Redis",
+      "RabbitMQ",
+      "Kafka",
+      "AWS",
+      "GCP",
+      "NCP",
+      "K8s",
+      "Docker",
+      "ClaudeCode",
+      "LLMs",
+      "GitHub"
+    ],
+    "experience": "7~15년",
+    "location": "경기도 성남시 수정구 금토로 69 다우디지털스퀘어",
+    "salary_range": null,
+    "employment_type": null,
+    "main_tasks": [
+      "프로젝트 리더",
+      "웹서비스 개발",
+      "AI 기반 개발 공정 자동화",
+      "서비스 방향성 검토"
+    ],
+    "requirements": [
+      "관련 경험이 있는 분 (7~15년/ 책임급)",
+      "PM/PL 다수 경험",
+      "웹서비스 기획 협업 및 제안 경험 보유",
+      "AI 활용 웹서비스 개발 경험"
+    ],
+    "preferred_qualifications": [],
+    "benefits": [
+      "자기계발지원",
+      "복지포인트",
+      "대출지원",
+      "연봉상위1%"
+    ]
+  },
+  "latency": 4.390168905258179
+}

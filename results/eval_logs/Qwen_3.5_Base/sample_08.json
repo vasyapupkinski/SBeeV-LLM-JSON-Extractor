@@ -1,0 +1,41 @@
+{
+  "model": "Qwen 3.5 (Base)",
+  "gold": {
+    "company": "다우기술",
+    "position": "Web Application PM/PL",
+    "tech_stack": [
+      "Java(Spring Boot)",
+      "Mybatis/JPA",
+      "QueryDSL",
+      "Python",
+      "React",
+      "Vue.js",
+      "Next.js",
+      "Vanilla JavaScript",
+      "Postgre",
+      "MySQL",
+      "Oracle",
+      "Redis",
+      "RabbitMQ",
+      "Kafka",
+      "Jira",
+      "Redmine",
+      "Slack",
+      "Figma",
+      "Notion",
+      "AWS",
+      "GCP",
+      "NCP",
+      "K8s",
+      "Docker",
+      "LLMs",
+      "ClaudeCode"
+    ],
+    "experience": "7-15년",
+    "location": "경기도 성남시 수정구 금토로 69 다우디지털스퀘어",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": null,
+  "latency": 4.07239294052124
+}

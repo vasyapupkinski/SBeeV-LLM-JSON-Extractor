@@ -1,0 +1,25 @@
+{
+  "model": "Qwen 3.5 (Base)",
+  "gold": {
+    "company": "넥스트증권",
+    "position": "Data Engineer(컨텐츠플랫폼개발)",
+    "tech_stack": [
+      "Python",
+      "Go",
+      "Kotlin",
+      "SQL",
+      "Apache Kafka",
+      "Apache Spark",
+      "Databricks",
+      "AWS",
+      "PostgreSQL",
+      "Oracle"
+    ],
+    "experience": "7년 이상",
+    "location": "서울 영등포구 국제금융로 10, 3IFC 15층",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": null,
+  "latency": 2.559112310409546
+}

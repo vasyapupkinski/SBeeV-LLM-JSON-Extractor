@@ -1,0 +1,2350 @@
+[
+  {
+    "file_name": "353806.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "빗썸",
+      "position": "Wallet Security Engineer (블록체인)",
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Java",
+        "Kotlin",
+        "Rust"
+      ],
+      "experience": "신입 이상",
+      "location": "서울시 강남구 테헤란로 124, 삼원타워 14~18F",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"빗썸\", \"position\": \"Wallet Security Engineer (블록체인)\", \"tech_stack\": [\"Python\", \"Go\", \"Java\", \"Kotlin\", \"Rust\"], \"experience\": \"신입 이상\", \"location\": \"서울시 강남구 테헤란로 124, 삼원타워 14~18F\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "353808.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "빗썸",
+      "position": "Senior Backend Engineer (블록체인)",
+      "tech_stack": [
+        "Java",
+        "Kotlin",
+        "Spring Boot",
+        "MySQL",
+        "Redis",
+        "Kafka"
+      ],
+      "experience": "8년 이상",
+      "location": "서울시 강남구 테헤란로 124, 삼원타워 14~18F",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"빗썸\", \"position\": \"Senior Backend Engineer (블록체인)\", \"tech_stack\": [\"Java\", \"Kotlin\", \"Spring Boot\", \"MySQL\", \"Redis\", \"Kafka\"], \"experience\": \"8년 이상\", \"location\": \"서울시 강남구 테헤란로 124, 삼원타워 14~18F\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "353810.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "빗썸",
+      "position": "Research Engineer (블록체인)",
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Rust",
+        "C++"
+      ],
+      "experience": "신입 이상",
+      "location": "서울시 강남구 테헤란로 124, 삼원타워 14~18F",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"빗썸\", \"position\": \"Research Engineer (블록체인)\", \"tech_stack\": [\"Python\", \"Go\", \"Rust\", \"C++\"], \"experience\": \"신입 이상\", \"location\": \"서울시 강남구 테헤란로 124, 삼원타워 14~18F\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "353818.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "빗썸",
+      "position": "Backend 개발자 (3년 이상)",
+      "tech_stack": [
+        "Java",
+        "Kotlin",
+        "Spring Boot",
+        "RESTful API",
+        "RDBMS",
+        "Redis",
+        "AWS",
+        "Git",
+        "JPA",
+        "QueryDSL"
+      ],
+      "experience": "3년 이상",
+      "location": "서울시 강남구 테헤란로 124, 삼원타워 14~18F",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"빗썸\", \"position\": \"Backend 개발자 (3년 이상)\", \"tech_stack\": [\"Java\", \"Kotlin\", \"Spring Boot\", \"RESTful API\", \"RDBMS\", \"Redis\", \"AWS\", \"Git\", \"JPA\", \"QueryDSL\"], \"experience\": \"3년 이상\", \"location\": \"서울시 강남구 테헤란로 124, 삼원타워 14~18F\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "353819.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "빗썸",
+      "position": "Backend Engineering 팀장 (블록체인)",
+      "tech_stack": [
+        "Java",
+        "Kotlin",
+        "Spring Boot"
+      ],
+      "experience": "8-16년",
+      "location": "서울시 강남구 테헤란로 124, 삼원타워 14~18F",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"빗썸\", \"position\": \"Backend Engineering 팀장 (블록체인)\", \"tech_stack\": [\"Java\", \"Kotlin\", \"Spring Boot\"], \"experience\": \"8-16년\", \"location\": \"서울시 강남구 테헤란로 124, 삼원타워 14~18F\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "353826.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "에이베러",
+      "position": "백엔드 개발자(AI Agent) - 디스터",
+      "tech_stack": [
+        "TypeScript",
+        "PostgreSQL"
+      ],
+      "experience": "3년 이상",
+      "location": "서울 강남구 강남대로 364, 12층 패스트파이브",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"에이베러\", \"position\": \"백엔드 개발자(AI Agent) - 디스터\", \"tech_stack\": [\"TypeScript\", \"PostgreSQL\"], \"experience\": \"3년 이상\", \"location\": \"서울 강남구 강남대로 364, 12층 패스트파이브\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "353835.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "싸이터",
+      "position": "인프라 엔지니어(DevOps)",
+      "tech_stack": [
+        "Kubernetes",
+        "Ansible",
+        "Terraform",
+        "CI/CD",
+        "Shell Script",
+        "OpenSearch",
+        "MySQL",
+        "VLAN",
+        "RAID",
+        "iDRAC",
+        "IPMI",
+        "systemd",
+        "journalctl"
+      ],
+      "experience": "3년 이상",
+      "location": "서울 금천구 벚꽃로36길 30, 901~908호",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"싸이터\", \"position\": \"인프라 엔지니어(DevOps)\", \"tech_stack\": [\"Kubernetes\", \"Ansible\", \"Terraform\", \"CI/CD\", \"Shell Script\", \"OpenSearch\", \"MySQL\", \"VLAN\", \"RAID\", \"iDRAC\", \"IPMI\", \"systemd\", \"journalctl\"], \"experience\": \"3년 이상\", \"location\": \"서울 금천구 벚꽃로36길 30, 901~908호\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "353839.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "싸이터",
+      "position": "QA 엔지니어",
+      "tech_stack": [
+        "Bash",
+        "Python"
+      ],
+      "experience": "3년 이상",
+      "location": "서울 금천구 벚꽃로36길 30, 901~908호",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"싸이터\", \"position\": \"QA 엔지니어\", \"tech_stack\": [\"Bash\", \"Python\"], \"experience\": \"3년 이상\", \"location\": \"서울 금천구 벚꽃로36길 30, 901~908호\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "353860.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "미리디",
+      "position": "Product Engineer",
+      "tech_stack": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "PostgreSQL"
+      ],
+      "experience": "1년 이상",
+      "location": "서울 구로구",
+      "deadline": "2026-05-29",
+      "salary_range": null,
+      "employment_type": "계약직"
+    },
+    "raw_output": "{\"company\": \"미리디\", \"position\": \"Product Engineer\", \"tech_stack\": [\"TypeScript\", \"React\", \"Next.js\", \"PostgreSQL\"], \"experience\": \"1년 이상\", \"location\": \"서울 구로구\", \"deadline\": \"2026-05-29\", \"salary_range\": null, \"employment_type\": \"계약직\"}",
+    "error": null
+  },
+  {
+    "file_name": "353907.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "GC메디아이",
+      "position": "DevOps Engineer (4~9년)",
+      "tech_stack": [
+        "Azure",
+        "AWS",
+        "GCP",
+        "Python",
+        "Go",
+        "Bash",
+        "Kubernetes",
+        "Apache Kafka",
+        "Nginx",
+        "Grafana",
+        "Prometheus"
+      ],
+      "experience": "4-9년",
+      "location": "서울 성동구 왕십리로 241, LF층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"GC메디아이\", \"position\": \"DevOps Engineer (4~9년)\", \"tech_stack\": [\"Azure\", \"AWS\", \"GCP\", \"Python\", \"Go\", \"Bash\", \"Kubernetes\", \"Apache Kafka\", \"Nginx\", \"Grafana\", \"Prometheus\"], \"experience\": \"4-9년\", \"location\": \"서울 성동구 왕십리로 241, LF층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "353919.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "미트박스글로벌",
+      "position": "Front-end 개발자",
+      "tech_stack": [
+        "Vue",
+        "Nuxt",
+        "React",
+        "Next",
+        "JavaScript",
+        "TypeScript",
+        "RESTful API",
+        "Git",
+        "CI/CD",
+        "UI/UX",
+        "디자인 시스템",
+        "상태 관리"
+      ],
+      "experience": "3년 이상",
+      "location": "서울 강남구 테헤란로34길 22, 미트박스글로벌빌딩",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"미트박스글로벌\", \"position\": \"Front-end 개발자\", \"tech_stack\": [\"Vue\", \"Nuxt\", \"React\", \"Next\", \"JavaScript\", \"TypeScript\", \"RESTful API\", \"Git\", \"CI/CD\", \"UI/UX\", \"디자인 시스템\", \"상태 관리\"], \"experience\": \"3년 이상\", \"location\": \"서울 강남구 테헤란로34길 22, 미트박스글로벌빌딩\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "353940.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "슈퍼센트",
+      "position": "데이터 사이언티스트",
+      "tech_stack": [
+        "Python",
+        "SQL",
+        "pandas",
+        "scikit-learn",
+        "numpy",
+        "XGBoost",
+        "LightGBM",
+        "TensorFlow",
+        "PyTorch",
+        "Apache Spark",
+        "Git",
+        "Docker",
+        "Kubernetes",
+        "GCP",
+        "Vertex AI",
+        "BigQuery",
+        "Tableau",
+        "Looker",
+        "Power BI"
+      ],
+      "experience": "3-35년",
+      "location": "서울 송파구 올림픽로 300, 롯데월드타워 9층 슈퍼센트",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"슈퍼센트\", \"position\": \"데이터 사이언티스트\", \"tech_stack\": [\"Python\", \"SQL\", \"pandas\", \"scikit-learn\", \"numpy\", \"XGBoost\", \"LightGBM\", \"TensorFlow\", \"PyTorch\", \"Apache Spark\", \"Git\", \"Docker\", \"Kubernetes\", \"GCP\", \"Vertex AI\", \"BigQuery\", \"Tableau\", \"Looker\", \"Power BI\"], \"experience\": \"3-35년\", \"location\": \"서울 송파구 올림픽로 300, 롯데월드타워 9층 슈퍼센트\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "353953.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "보살핌",
+      "position": "프로덕트 엔지니어(Lead 급)",
+      "tech_stack": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "TailwindCSS",
+        "NestJS",
+        "Prisma",
+        "Jets",
+        "Ruby",
+        "Kotlin",
+        "PostgreSQL",
+        "GCP",
+        "AWS",
+        "Docker",
+        "Redis"
+      ],
+      "experience": "5-15년",
+      "location": "서울 강남구 역삼로 172, 마루 360",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"보살핌\", \"position\": \"프로덕트 엔지니어(Lead 급)\", \"tech_stack\": [\"Next.js\", \"React\", \"TypeScript\", \"TailwindCSS\", \"NestJS\", \"Prisma\", \"Jets\", \"Ruby\", \"Kotlin\", \"PostgreSQL\", \"GCP\", \"AWS\", \"Docker\", \"Redis\"], \"experience\": \"5-15년\", \"location\": \"서울 강남구 역삼로 172, 마루 360\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354013.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "인핸스(Enhans)",
+      "position": "Backend Engineer (5년 이상)",
+      "tech_stack": [
+        "Spring Boot",
+        "Fast API",
+        "SQL DB",
+        "SaprkSQL"
+      ],
+      "experience": "5년 이상",
+      "location": "서울 서초구 서초중앙로8길 89-17",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"인핸스(Enhans)\", \"position\": \"Backend Engineer (5년 이상)\", \"tech_stack\": [\"Spring Boot\", \"Fast API\", \"SQL DB\", \"SaprkSQL\"], \"experience\": \"5년 이상\", \"location\": \"서울 서초구 서초중앙로8길 89-17\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354018.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "브이디로보틱스",
+      "position": "시니어 백엔드 개발자 (로봇 통합 미들웨어 코어 개발)",
+      "tech_stack": [
+        "Java",
+        "Spring Boot",
+        "Python",
+        "Node.js",
+        "Go",
+        "AWS",
+        "GCP",
+        "Kafka",
+        "Redis",
+        "RESTful API",
+        "WebSocket",
+        "MQTT"
+      ],
+      "experience": "5년 이상",
+      "location": "서울시 금천구 가산디지털1로 5 대륭테크노타운 20차 1414호~1418호",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": "정규직"
+    },
+    "raw_output": "{\"company\": \"브이디로보틱스\", \"position\": \"시니어 백엔드 개발자 (로봇 통합 미들웨어 코어 개발)\", \"tech_stack\": [\"Java\", \"Spring Boot\", \"Python\", \"Node.js\", \"Go\", \"AWS\", \"GCP\", \"Kafka\", \"Redis\", \"RESTful API\", \"WebSocket\", \"MQTT\"], \"experience\": \"5년 이상\", \"location\": \"서울시 금천구 가산디지털1로 5 대륭테크노타운 20차 1414호~1418호\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": \"정규직\"}",
+    "error": null
+  },
+  {
+    "file_name": "354019.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "브이디로보틱스",
+      "position": "R&D 총괄 테크니컬 PM (로봇 플랫폼 미들웨어 기획 및 정부과제 리드)",
+      "tech_stack": [],
+      "experience": "7년 이상",
+      "location": "서울 금천구",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": "정규직"
+    },
+    "raw_output": "{\"company\": \"브이디로보틱스\", \"position\": \"R&D 총괄 테크니컬 PM (로봇 플랫폼 미들웨어 기획 및 정부과제 리드)\", \"tech_stack\": [], \"experience\": \"7년 이상\", \"location\": \"서울 금천구\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": \"정규직\"}",
+    "error": null
+  },
+  {
+    "file_name": "354023.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "티냅스",
+      "position": "Applied AI Engineer",
+      "tech_stack": [
+        "LLM",
+        "NLP",
+        "ML",
+        "DL",
+        "Python",
+        "AWS",
+        "NVIDIA GTC",
+        "Snowflake",
+        "NVIDIA",
+        "NVIDIA GTC 2026",
+        "NVIDIA GTC 2026 AWS Startup Pitch",
+        "Snowflake Startup Challenge",
+        "NVIDIA GTC 2026 AWS Startup Pitch Top 6",
+        "Snowflake Startup Challenge Top 10",
+        "NVIDIA GTC 2026 AWS Startup Pitch",
+        "Snowflake Startup Challenge"
+      ],
+      "experience": "5-11년",
+      "location": "서울 강남구 강남대로94길 69, 5층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"티냅스\", \"position\": \"Applied AI Engineer\", \"tech_stack\": [\"LLM\", \"NLP\", \"ML\", \"DL\", \"Python\", \"AWS\", \"NVIDIA GTC\", \"Snowflake\", \"NVIDIA\", \"NVIDIA GTC 2026\", \"NVIDIA GTC 2026 AWS Startup Pitch\", \"Snowflake Startup Challenge\", \"NVIDIA GTC 2026 AWS Startup Pitch Top 6\", \"Snowflake Startup Challenge Top 10\", \"NVIDIA GTC 2026 AWS Startup Pitch\", \"Snowflake Startup Challenge\"], \"experience\": \"5-11년\", \"location\": \"서울 강남구 강남대로94길 69, 5층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354025.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "티냅스",
+      "position": "AI Evaluation & Policy Lead",
+      "tech_stack": [
+        "AI",
+        "LLM"
+      ],
+      "experience": "5-12년",
+      "location": "서울 강남구 강남대로94길 69, 5층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"티냅스\", \"position\": \"AI Evaluation & Policy Lead\", \"tech_stack\": [\"AI\", \"LLM\"], \"experience\": \"5-12년\", \"location\": \"서울 강남구 강남대로94길 69, 5층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354026.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "티냅스",
+      "position": "Platform Engineer",
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Rust",
+        "C++",
+        "NVIDIA NeMo",
+        "NIM",
+        "AWS"
+      ],
+      "experience": "6년 이상",
+      "location": "서울 강남구 강남대로94길 69, 5층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"티냅스\", \"position\": \"Platform Engineer\", \"tech_stack\": [\"Python\", \"Go\", \"Rust\", \"C++\", \"NVIDIA NeMo\", \"NIM\", \"AWS\"], \"experience\": \"6년 이상\", \"location\": \"서울 강남구 강남대로94길 69, 5층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354044.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "카운트다운에이아이",
+      "position": "풀스택 개발자",
+      "tech_stack": [
+        "Python",
+        "React",
+        "PostgreSQL",
+        "Figma"
+      ],
+      "experience": "2년 이상 ~ 5년 이하",
+      "location": "서울 강남구 강남대로 372",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"카운트다운에이아이\", \"position\": \"풀스택 개발자\", \"tech_stack\": [\"Python\", \"React\", \"PostgreSQL\", \"Figma\"], \"experience\": \"2년 이상 ~ 5년 이하\", \"location\": \"서울 강남구 강남대로 372\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354046.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "카운트다운에이아이",
+      "position": "프론트엔드 개발자",
+      "tech_stack": [
+        "React",
+        "Figma",
+        "Redux",
+        "Recoil"
+      ],
+      "experience": "2년 이상 ~ 5년 이하",
+      "location": "서울 강남구 강남대로 372",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"카운트다운에이아이\", \"position\": \"프론트엔드 개발자\", \"tech_stack\": [\"React\", \"Figma\", \"Redux\", \"Recoil\"], \"experience\": \"2년 이상 ~ 5년 이하\", \"location\": \"서울 강남구 강남대로 372\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354048.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "와이큐",
+      "position": "AI FDE(Forward Deployed Engineer, AX 매니저)",
+      "tech_stack": [
+        "Claude Code",
+        "OpenAI Codex",
+        "Google Antigravity",
+        "Cursor",
+        "LLM API",
+        "OpenAI",
+        "Anthropic Claude",
+        "Google AI"
+      ],
+      "experience": "신입-경력 8년",
+      "location": "서울 종로구 율곡로 33, 안국빌딩 11층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"와이큐\", \"position\": \"AI FDE(Forward Deployed Engineer, AX 매니저)\", \"tech_stack\": [\"Claude Code\", \"OpenAI Codex\", \"Google Antigravity\", \"Cursor\", \"LLM API\", \"OpenAI\", \"Anthropic Claude\", \"Google AI\"], \"experience\": \"신입-경력 8년\", \"location\": \"서울 종로구 율곡로 33, 안국빌딩 11층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354177.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "바비톡",
+      "position": "Data Scientist",
+      "tech_stack": [
+        "AWS S3",
+        "Glue",
+        "Athena",
+        "Quicksight",
+        "Amplitude",
+        "Claude",
+        "Gemini",
+        "OpenClaw"
+      ],
+      "experience": "5년 이상",
+      "location": "서울특별시 서초구 강남대로363, 363타워 11층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"바비톡\", \"position\": \"Data Scientist\", \"tech_stack\": [\"AWS S3\", \"Glue\", \"Athena\", \"Quicksight\", \"Amplitude\", \"Claude\", \"Gemini\", \"OpenClaw\"], \"experience\": \"5년 이상\", \"location\": \"서울특별시 서초구 강남대로363, 363타워 11층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354192.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "토스씨엑스",
+      "position": "Information Security Manager (정보보안 정책/기획 담당)",
+      "tech_stack": null,
+      "experience": "3-8년",
+      "location": "서울 구로구 경인로 662, 12,13층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"토스씨엑스\", \"position\": \"Information Security Manager (정보보안 정책/기획 담당)\", \"tech_stack\": null, \"experience\": \"3-8년\", \"location\": \"서울 구로구 경인로 662, 12,13층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354194.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "아정네트웍스",
+      "position": "QA Engineer (4년이상 ~ 6년이하)",
+      "tech_stack": [
+        "Confluence",
+        "JIRA",
+        "SQL",
+        "셀레니움"
+      ],
+      "experience": "4년이상 ~ 6년이하",
+      "location": "서울특별시 강남구 역삼1동 테헤란로 124 삼원타워 19층, 아정네트웍스",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"아정네트웍스\", \"position\": \"QA Engineer (4년이상 ~ 6년이하)\", \"tech_stack\": [\"Confluence\", \"JIRA\", \"SQL\", \"셀레니움\"], \"experience\": \"4년이상 ~ 6년이하\", \"location\": \"서울특별시 강남구 역삼1동 테헤란로 124 삼원타워 19층, 아정네트웍스\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354196.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "똑똑한개발자",
+      "position": "AI Agent Engineer",
+      "tech_stack": [
+        "LLM",
+        "Agent",
+        "Claude Agent SDK",
+        "LangChain",
+        "LangGraph"
+      ],
+      "experience": "3-5년",
+      "location": "서울 마포구 홍익로5안길 28, 5층 똑똑한개발자",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": "계약직"
+    },
+    "raw_output": "{\"company\": \"똑똑한개발자\", \"position\": \"AI Agent Engineer\", \"tech_stack\": [\"LLM\", \"Agent\", \"Claude Agent SDK\", \"LangChain\", \"LangGraph\"], \"experience\": \"3-5년\", \"location\": \"서울 마포구 홍익로5안길 28, 5층 똑똑한개발자\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": \"계약직\"}",
+    "error": null
+  },
+  {
+    "file_name": "354203.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "SDT",
+      "position": "임베디드 하드웨어 플랫폼 개발",
+      "tech_stack": [
+        "PCB 설계",
+        "하드웨어 회로 설계",
+        "제품 인증",
+        "기술문서 작성",
+        "프로토 타입 제작",
+        "테스트"
+      ],
+      "experience": "3년 이상",
+      "location": "서울 강남구 테헤란로44길 5 대아빌딩 10층",
+      "deadline": "2026.06.10",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"SDT\", \"position\": \"임베디드 하드웨어 플랫폼 개발\", \"tech_stack\": [\"PCB 설계\", \"하드웨어 회로 설계\", \"제품 인증\", \"기술문서 작성\", \"프로토 타입 제작\", \"테스트\"], \"experience\": \"3년 이상\", \"location\": \"서울 강남구 테헤란로44길 5 대아빌딩 10층\", \"deadline\": \"2026.06.10\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354205.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "똑똑한개발자",
+      "position": "Product Builder",
+      "tech_stack": [
+        "LLM",
+        "Agent",
+        "Automation",
+        "ChatGPT",
+        "Claude",
+        "Prompt"
+      ],
+      "experience": "3-5년",
+      "location": "서울 마포구 홍익로5안길 28, 5층 똑똑한개발자",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": "계약직"
+    },
+    "raw_output": "{\"company\": \"똑똑한개발자\", \"position\": \"Product Builder\", \"tech_stack\": [\"LLM\", \"Agent\", \"Automation\", \"ChatGPT\", \"Claude\", \"Prompt\"], \"experience\": \"3-5년\", \"location\": \"서울 마포구 홍익로5안길 28, 5층 똑똑한개발자\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": \"계약직\"}",
+    "error": null
+  },
+  {
+    "file_name": "354208.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "원더윅스컴퍼니(맘맘)",
+      "position": "Backend Engineer",
+      "tech_stack": [
+        "Python"
+      ],
+      "experience": "3-8년",
+      "location": "서울 강남구 테헤란로52길 17, ES타워 8층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"원더윅스컴퍼니(맘맘)\", \"position\": \"Backend Engineer\", \"tech_stack\": [\"Python\"], \"experience\": \"3-8년\", \"location\": \"서울 강남구 테헤란로52길 17, ES타워 8층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354219.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "하이퍼이지",
+      "position": "Forward Deploy Engineer (FDE)",
+      "tech_stack": [
+        "GitHub",
+        "Python",
+        "TypeScript",
+        "Docker",
+        "PostgreSQL"
+      ],
+      "experience": "신입-경력 4년",
+      "location": "경기 성남시 수정구 대왕판교로 815 메타버스 허브",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"하이퍼이지\", \"position\": \"Forward Deploy Engineer (FDE)\", \"tech_stack\": [\"GitHub\", \"Python\", \"TypeScript\", \"Docker\", \"PostgreSQL\"], \"experience\": \"신입-경력 4년\", \"location\": \"경기 성남시 수정구 대왕판교로 815 메타버스 허브\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354221.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "지피에이코리아",
+      "position": "개발팀 팀장",
+      "tech_stack": [
+        "앱",
+        "SDK",
+        "API",
+        "AWS",
+        "GCP"
+      ],
+      "experience": "5년 이상",
+      "location": "서울 강남구 삼성로96길 14, 중아빌딩 10층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"지피에이코리아\", \"position\": \"개발팀 팀장\", \"tech_stack\": [\"앱\", \"SDK\", \"API\", \"AWS\", \"GCP\"], \"experience\": \"5년 이상\", \"location\": \"서울 강남구 삼성로96길 14, 중아빌딩 10층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354226.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "에프피티소프트웨어코리아",
+      "position": "IT 컨설턴트(보험/금융)",
+      "tech_stack": null,
+      "experience": "10-19년",
+      "location": "서울 영등포구 여의공원로 115, 3층, 7층 (세우빌딩)",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": "계약직"
+    },
+    "raw_output": "{\"company\": \"에프피티소프트웨어코리아\", \"position\": \"IT 컨설턴트(보험/금융)\", \"tech_stack\": null, \"experience\": \"10-19년\", \"location\": \"서울 영등포구 여의공원로 115, 3층, 7층 (세우빌딩)\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": \"계약직\"}",
+    "error": null
+  },
+  {
+    "file_name": "354230.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "씨메스로보틱스",
+      "position": "2D Vision & Foundation Model Engineer",
+      "tech_stack": [
+        "PyTorch",
+        "Triton Inference Server",
+        "TensorRT",
+        "ONNX",
+        "DDP",
+        "FSDP",
+        "MLflow",
+        "W&B"
+      ],
+      "experience": "신입-경력 10년",
+      "location": "강남구 도산대로 318 SB타워 8층",
+      "deadline": "2026.05.31",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"씨메스로보틱스\", \"position\": \"2D Vision & Foundation Model Engineer\", \"tech_stack\": [\"PyTorch\", \"Triton Inference Server\", \"TensorRT\", \"ONNX\", \"DDP\", \"FSDP\", \"MLflow\", \"W&B\"], \"experience\": \"신입-경력 10년\", \"location\": \"강남구 도산대로 318 SB타워 8층\", \"deadline\": \"2026.05.31\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354232.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "씨메스로보틱스",
+      "position": "3D Vision & Robot Guidance Engineer",
+      "tech_stack": [
+        "RGB-D",
+        "Point Cloud",
+        "SLAM",
+        "Multi-view Geometry",
+        "3D Reconstruction",
+        "Visual SLAM",
+        "LiDAR SLAM",
+        "Gaussian Splatting",
+        "NeRF",
+        "Neural Rendering",
+        "Point Cloud Registration",
+        "ICP",
+        "Object Pose Estimation",
+        "Python",
+        "C++"
+      ],
+      "experience": "신입-경력 10년",
+      "location": "강남구 도산대로 318 SB타워 8층",
+      "deadline": "2026.05.31",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"씨메스로보틱스\", \"position\": \"3D Vision & Robot Guidance Engineer\", \"tech_stack\": [\"RGB-D\", \"Point Cloud\", \"SLAM\", \"Multi-view Geometry\", \"3D Reconstruction\", \"Visual SLAM\", \"LiDAR SLAM\", \"Gaussian Splatting\", \"NeRF\", \"Neural Rendering\", \"Point Cloud Registration\", \"ICP\", \"Object Pose Estimation\", \"Python\", \"C++\"], \"experience\": \"신입-경력 10년\", \"location\": \"강남구 도산대로 318 SB타워 8층\", \"deadline\": \"2026.05.31\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354241.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "컨트롤엠(Ctrl-M)",
+      "position": "AI 솔루션 시니어 백엔드 개발자",
+      "tech_stack": [
+        "Python",
+        "AWS",
+        "Docker",
+        "S3"
+      ],
+      "experience": "6-10년",
+      "location": "서울 강남구 강남대로 364, 패스트파이브 강남2호점",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"컨트롤엠(Ctrl-M)\", \"position\": \"AI 솔루션 시니어 백엔드 개발자\", \"tech_stack\": [\"Python\", \"AWS\", \"Docker\", \"S3\"], \"experience\": \"6-10년\", \"location\": \"서울 강남구 강남대로 364, 패스트파이브 강남2호점\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354247.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "쿤텍",
+      "position": "테스트 코드 자동화 개발 엔지니어 (QA)",
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Java",
+        "Shell",
+        "CI/CD"
+      ],
+      "experience": "3년 ~ 20년 이하",
+      "location": "경기 성남시 수정구 창업로 54, LH기업성장센터 가동 609호",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"쿤텍\", \"position\": \"테스트 코드 자동화 개발 엔지니어 (QA)\", \"tech_stack\": [\"Python\", \"JavaScript\", \"Java\", \"Shell\", \"CI/CD\"], \"experience\": \"3년 ~ 20년 이하\", \"location\": \"경기 성남시 수정구 창업로 54, LH기업성장센터 가동 609호\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354262.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "키즈노트",
+      "position": "데이터 엔지니어링 리드",
+      "tech_stack": [
+        "Apache Iceberg",
+        "Polaris",
+        "Unity Catalog",
+        "ClickHouse",
+        "StarRocks",
+        "Datadog",
+        "Airflow",
+        "Dagster",
+        "Spark",
+        "Superset",
+        "Streamlit",
+        "FastAPI",
+        "Python",
+        "SQL"
+      ],
+      "experience": "12년 이상",
+      "location": "경기도 성남시 분당구 판교역로 235 (H스퀘어, N동) 4층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"키즈노트\", \"position\": \"데이터 엔지니어링 리드\", \"tech_stack\": [\"Apache Iceberg\", \"Polaris\", \"Unity Catalog\", \"ClickHouse\", \"StarRocks\", \"Datadog\", \"Airflow\", \"Dagster\", \"Spark\", \"Superset\", \"Streamlit\", \"FastAPI\", \"Python\", \"SQL\"], \"experience\": \"12년 이상\", \"location\": \"경기도 성남시 분당구 판교역로 235 (H스퀘어, N동) 4층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354263.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "라이프엑스",
+      "position": "Senior Backend Engineer",
+      "tech_stack": [
+        "Node.js",
+        "NestJS",
+        "Socket",
+        "HTML5",
+        "CSS3",
+        "SASS",
+        "Typescript",
+        "React",
+        "React-Native",
+        "Electron",
+        "Swift",
+        "Kotlin",
+        "AWS RDS",
+        "Mysql",
+        "Jenkins",
+        "AWS Code Deploy",
+        "AWS Elastic beanstalk",
+        "AWS S3",
+        "AWS EFS",
+        "AWS ECS",
+        "Github Actions",
+        "AWS CloudWatch",
+        "Sentry",
+        "ELK",
+        "Python",
+        "C#"
+      ],
+      "experience": "10년 이상",
+      "location": "서울 강남구 봉은사로82길 21, YK 빌딩",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"라이프엑스\", \"position\": \"Senior Backend Engineer\", \"tech_stack\": [\"Node.js\", \"NestJS\", \"Socket\", \"HTML5\", \"CSS3\", \"SASS\", \"Typescript\", \"React\", \"React-Native\", \"Electron\", \"Swift\", \"Kotlin\", \"AWS RDS\", \"Mysql\", \"Jenkins\", \"AWS Code Deploy\", \"AWS Elastic beanstalk\", \"AWS S3\", \"AWS EFS\", \"AWS ECS\", \"Github Actions\", \"AWS CloudWatch\", \"Sentry\", \"ELK\", \"Python\", \"C#\"], \"experience\": \"10년 이상\", \"location\": \"서울 강남구 봉은사로82길 21, YK 빌딩\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354269.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "레몬베이스",
+      "position": "QA Manager (QA 매니저)",
+      "tech_stack": [],
+      "experience": "3-10년",
+      "location": "서울 성동구 아차산로 68, 6층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"레몬베이스\", \"position\": \"QA Manager (QA 매니저)\", \"tech_stack\": [], \"experience\": \"3-10년\", \"location\": \"서울 성동구 아차산로 68, 6층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354270.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "온택트헬스",
+      "position": "Senior MLOps 엔지니어",
+      "tech_stack": [
+        "Triton Inference Server",
+        "MLflow",
+        "Airflow",
+        "Python",
+        "Go"
+      ],
+      "experience": "5년 이상",
+      "location": "서울 서대문구",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"온택트헬스\", \"position\": \"Senior MLOps 엔지니어\", \"tech_stack\": [\"Triton Inference Server\", \"MLflow\", \"Airflow\", \"Python\", \"Go\"], \"experience\": \"5년 이상\", \"location\": \"서울 서대문구\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354312.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "씨메스로보틱스",
+      "position": "데이터 정리 및 분석 지원",
+      "tech_stack": [
+        "Excel"
+      ],
+      "experience": "신입-경력 3년",
+      "location": "강남구 도산대로 318 SB타워 8층",
+      "deadline": "2026.05.31",
+      "salary_range": null,
+      "employment_type": "계약직"
+    },
+    "raw_output": "{\"company\": \"씨메스로보틱스\", \"position\": \"데이터 정리 및 분석 지원\", \"tech_stack\": [\"Excel\"], \"experience\": \"신입-경력 3년\", \"location\": \"강남구 도산대로 318 SB타워 8층\", \"deadline\": \"2026.05.31\", \"salary_range\": null, \"employment_type\": \"계약직\"}",
+    "error": null
+  },
+  {
+    "file_name": "354337.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "쿠팡",
+      "position": "Technical Program Manager (Coupang Pay)",
+      "tech_stack": [],
+      "experience": "4-15년",
+      "location": "서울 송파구",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"쿠팡\", \"position\": \"Technical Program Manager (Coupang Pay)\", \"tech_stack\": [], \"experience\": \"4-15년\", \"location\": \"서울 송파구\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354348.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "브이피피랩",
+      "position": "AI/Data Team Lead(재생에너지 예측 모델 및 MLOps 리딩)",
+      "tech_stack": [
+        "Python",
+        "Scikit-Learn",
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "experience": "5-20년",
+      "location": "서울 강남구 역삼로 168, 팁스타운 S6",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"브이피피랩\", \"position\": \"AI/Data Team Lead(재생에너지 예측 모델 및 MLOps 리딩)\", \"tech_stack\": [\"Python\", \"Scikit-Learn\", \"TensorFlow\", \"PyTorch\"], \"experience\": \"5-20년\", \"location\": \"서울 강남구 역삼로 168, 팁스타운 S6\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354351.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "쿤텍",
+      "position": "AX 전환용 개발자 (사내 자동화/AI 활용)",
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "OpenAI",
+        "API",
+        "LLM",
+        "SaaS",
+        "ERP",
+        "CRM",
+        "MS365",
+        "SaaS",
+        "API",
+        "Llama",
+        "OpenAI",
+        "Python",
+        "JavaScript"
+      ],
+      "experience": "5년 이상",
+      "location": "경기 성남시 수정구 창업로 54, LH기업성장센터, 가동 609호",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"쿤텍\", \"position\": \"AX 전환용 개발자 (사내 자동화/AI 활용)\", \"tech_stack\": [\"Python\", \"JavaScript\", \"OpenAI\", \"API\", \"LLM\", \"SaaS\", \"ERP\", \"CRM\", \"MS365\", \"SaaS\", \"API\", \"Llama\", \"OpenAI\", \"Python\", \"JavaScript\"], \"experience\": \"5년 이상\", \"location\": \"경기 성남시 수정구 창업로 54, LH기업성장센터, 가동 609호\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354362.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "니어스랩",
+      "position": "기술전략 매니저",
+      "tech_stack": [],
+      "experience": "7년 이상",
+      "location": "서울시 송파구 정의로8길 9 AJ빌딩 본관 3층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"니어스랩\", \"position\": \"기술전략 매니저\", \"tech_stack\": [], \"experience\": \"7년 이상\", \"location\": \"서울시 송파구 정의로8길 9 AJ빌딩 본관 3층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354377.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "혜움",
+      "position": "AI Engineer",
+      "tech_stack": [
+        "LLM",
+        "RAG",
+        "MCP",
+        "Agent Framework",
+        "Claude",
+        "GPT",
+        "Gemini",
+        "HITL"
+      ],
+      "experience": "4년 이상",
+      "location": "서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"혜움\", \"position\": \"AI Engineer\", \"tech_stack\": [\"LLM\", \"RAG\", \"MCP\", \"Agent Framework\", \"Claude\", \"GPT\", \"Gemini\", \"HITL\"], \"experience\": \"4년 이상\", \"location\": \"서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354379.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "혜움",
+      "position": "AI Native Engineer (FE기반/7년+)",
+      "tech_stack": [
+        "Vue",
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "AWS"
+      ],
+      "experience": "7년 이상",
+      "location": "서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"혜움\", \"position\": \"AI Native Engineer (FE기반/7년+)\", \"tech_stack\": [\"Vue\", \"React\", \"JavaScript\", \"HTML\", \"CSS\", \"AWS\"], \"experience\": \"7년 이상\", \"location\": \"서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354382.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "혜움",
+      "position": "AI Native Engineer (데이터엔지니어링 기반/7년+)",
+      "tech_stack": [
+        "RDB",
+        "NoSQL",
+        "BigQuery",
+        "Airflow",
+        "Composer"
+      ],
+      "experience": "7년 이상",
+      "location": "서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"혜움\", \"position\": \"AI Native Engineer (데이터엔지니어링 기반/7년+)\", \"tech_stack\": [\"RDB\", \"NoSQL\", \"BigQuery\", \"Airflow\", \"Composer\"], \"experience\": \"7년 이상\", \"location\": \"서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354385.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "혜움",
+      "position": "AI Native Engineer (백엔드 기반/7년+)",
+      "tech_stack": [
+        "AWS",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "RESTful API"
+      ],
+      "experience": "7년 이상",
+      "location": "서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7/8층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"혜움\", \"position\": \"AI Native Engineer (백엔드 기반/7년+)\", \"tech_stack\": [\"AWS\", \"GCP\", \"Docker\", \"Kubernetes\", \"RESTful API\"], \"experience\": \"7년 이상\", \"location\": \"서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7/8층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354401.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "빌드업코리아",
+      "position": "SIOS 핵심 시스템 CTO 및 PM급 엔지니어",
+      "tech_stack": [
+        "Python",
+        "Go",
+        "C++",
+        "Java",
+        "Docker",
+        "Kubernetes",
+        "Kafka",
+        "RabbitMQ",
+        "PostgreSQL",
+        "MongoDB",
+        "InfluxDB"
+      ],
+      "experience": "3-8년",
+      "location": "서울 마포구 매봉산로 37, DMC산학협력연구센터 403호",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": "계약직"
+    },
+    "raw_output": "{\"company\": \"빌드업코리아\", \"position\": \"SIOS 핵심 시스템 CTO 및 PM급 엔지니어\", \"tech_stack\": [\"Python\", \"Go\", \"C++\", \"Java\", \"Docker\", \"Kubernetes\", \"Kafka\", \"RabbitMQ\", \"PostgreSQL\", \"MongoDB\", \"InfluxDB\"], \"experience\": \"3-8년\", \"location\": \"서울 마포구 매봉산로 37, DMC산학협력연구센터 403호\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": \"계약직\"}",
+    "error": null
+  },
+  {
+    "file_name": "354403.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "아이넥스코퍼레이션",
+      "position": "Medical Vision AI Engineer",
+      "tech_stack": [
+        "Python",
+        "PyTorch",
+        "OpenCV",
+        "YOLO",
+        "TensorRT",
+        "ONNX",
+        "Docker",
+        "Linux",
+        "Git",
+        "Weights & Biases"
+      ],
+      "experience": "신입-경력 4년",
+      "location": "서울 강남구 테헤란로108길 22, 2층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"아이넥스코퍼레이션\", \"position\": \"Medical Vision AI Engineer\", \"tech_stack\": [\"Python\", \"PyTorch\", \"OpenCV\", \"YOLO\", \"TensorRT\", \"ONNX\", \"Docker\", \"Linux\", \"Git\", \"Weights & Biases\"], \"experience\": \"신입-경력 4년\", \"location\": \"서울 강남구 테헤란로108길 22, 2층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354422.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "퓨잇",
+      "position": "인공지능 개발자 (서비스 개발 중심)",
+      "tech_stack": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Git",
+        "API",
+        "MLOps",
+        "RAG",
+        "LLM",
+        "Computer Vision",
+        "Object Detection",
+        "MLOps"
+      ],
+      "experience": "1-5년",
+      "location": "서울 강서구 마곡중앙8로 14, 4층 413호",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"퓨잇\", \"position\": \"인공지능 개발자 (서비스 개발 중심)\", \"tech_stack\": [\"Python\", \"TensorFlow\", \"PyTorch\", \"AWS\", \"GCP\", \"Azure\", \"Git\", \"API\", \"MLOps\", \"RAG\", \"LLM\", \"Computer Vision\", \"Object Detection\", \"MLOps\"], \"experience\": \"1-5년\", \"location\": \"서울 강서구 마곡중앙8로 14, 4층 413호\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354424.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "서치독",
+      "position": "AI/ML 개발자 3년 이상 (AI 기반 건설/제조 등 도면 분석)",
+      "tech_stack": [
+        "Linux",
+        "Docker",
+        "CI/CD"
+      ],
+      "experience": "3년 이상",
+      "location": "경기 성남시 분당구 대왕판교로 660, 패스트파이브 115",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"서치독\", \"position\": \"AI/ML 개발자 3년 이상 (AI 기반 건설/제조 등 도면 분석)\", \"tech_stack\": [\"Linux\", \"Docker\", \"CI/CD\"], \"experience\": \"3년 이상\", \"location\": \"경기 성남시 분당구 대왕판교로 660, 패스트파이브 115\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354437.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "휴이노",
+      "position": "Firmware Engineer",
+      "tech_stack": [
+        "ARM Cortex-M",
+        "BLE",
+        "UART",
+        "I2C",
+        "SPI",
+        "JTAG",
+        "SWD",
+        "Logic Analyzer",
+        "Oscilloscope"
+      ],
+      "experience": "3년 이상",
+      "location": "서울시 강남구 압구정로 79길19, 3,4층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"휴이노\", \"position\": \"Firmware Engineer\", \"tech_stack\": [\"ARM Cortex-M\", \"BLE\", \"UART\", \"I2C\", \"SPI\", \"JTAG\", \"SWD\", \"Logic Analyzer\", \"Oscilloscope\"], \"experience\": \"3년 이상\", \"location\": \"서울시 강남구 압구정로 79길19, 3,4층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354494.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "퍼플아카데미",
+      "position": "프론트엔드 개발자 2년 이상 (계약직)",
+      "tech_stack": [
+        "React",
+        "Next.js",
+        "React Native",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Android Studio",
+        "Xcode",
+        "Google Play Console",
+        "App Store Connect"
+      ],
+      "experience": "2년 이상",
+      "location": "서울시 양천구 목동동로 233-1 7층 702호",
+      "deadline": "2026.07.09",
+      "salary_range": null,
+      "employment_type": "계약직"
+    },
+    "raw_output": "{\"company\": \"퍼플아카데미\", \"position\": \"프론트엔드 개발자 2년 이상 (계약직)\", \"tech_stack\": [\"React\", \"Next.js\", \"React Native\", \"TypeScript\", \"JavaScript\", \"HTML\", \"CSS\", \"Android Studio\", \"Xcode\", \"Google Play Console\", \"App Store Connect\"], \"experience\": \"2년 이상\", \"location\": \"서울시 양천구 목동동로 233-1 7층 702호\", \"deadline\": \"2026.07.09\", \"salary_range\": null, \"employment_type\": \"계약직\"}",
+    "error": null
+  },
+  {
+    "file_name": "354496.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "에이아이커넥트",
+      "position": "Flutter 앱개발자",
+      "tech_stack": [
+        "Flutter",
+        "Dart",
+        "RESTful API",
+        "Git",
+        "Swagger"
+      ],
+      "experience": "신입-경력 2년",
+      "location": "서울 금천구 서부샛길 606, B동 426호",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"에이아이커넥트\", \"position\": \"Flutter 앱개발자\", \"tech_stack\": [\"Flutter\", \"Dart\", \"RESTful API\", \"Git\", \"Swagger\"], \"experience\": \"신입-경력 2년\", \"location\": \"서울 금천구 서부샛길 606, B동 426호\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354498.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "스카이칩스",
+      "position": "반도체 Test 엔지니어",
+      "tech_stack": [
+        "C",
+        "C++",
+        "Python"
+      ],
+      "experience": "5년 이상",
+      "location": "경기 수원시 권선구 효원로266번길 11",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"스카이칩스\", \"position\": \"반도체 Test 엔지니어\", \"tech_stack\": [\"C\", \"C++\", \"Python\"], \"experience\": \"5년 이상\", \"location\": \"경기 수원시 권선구 효원로266번길 11\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354505.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "하이로컬",
+      "position": "온비다이스 경량화 IoT 하드웨어 연동 개발자",
+      "tech_stack": [
+        "Python",
+        "C++",
+        "Rust",
+        "WebRTC",
+        "Linux"
+      ],
+      "experience": "5년 이상",
+      "location": "서울 송파구 문정동 644, 문정현대지식산업센터 A동 1004호",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"하이로컬\", \"position\": \"온비다이스 경량화 IoT 하드웨어 연동 개발자\", \"tech_stack\": [\"Python\", \"C++\", \"Rust\", \"WebRTC\", \"Linux\"], \"experience\": \"5년 이상\", \"location\": \"서울 송파구 문정동 644, 문정현대지식산업센터 A동 1004호\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354520.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "티오더",
+      "position": "오더플랫폼 PM(Product Manager)",
+      "tech_stack": [],
+      "experience": "4년 이상",
+      "location": "서울시 영등포구 여의대로 108 파크원타워2 46층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"티오더\", \"position\": \"오더플랫폼 PM(Product Manager)\", \"tech_stack\": [], \"experience\": \"4년 이상\", \"location\": \"서울시 영등포구 여의대로 108 파크원타워2 46층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354521.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "티오더",
+      "position": "시니어 PM (통합인증·회원 플랫폼)",
+      "tech_stack": [
+        "SSO",
+        "API",
+        "간편로그인"
+      ],
+      "experience": "5년 이상",
+      "location": "서울시 영등포구 여의대로 108 파크원타워2 46층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"티오더\", \"position\": \"시니어 PM (통합인증·회원 플랫폼)\", \"tech_stack\": [\"SSO\", \"API\", \"간편로그인\"], \"experience\": \"5년 이상\", \"location\": \"서울시 영등포구 여의대로 108 파크원타워2 46층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354546.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "라플라스테크놀로지스",
+      "position": "프론트라인 엔지니어 (Frontline Engineer)",
+      "tech_stack": [
+        "React",
+        "k8s",
+        "Gitops",
+        "SQL",
+        "Fast API"
+      ],
+      "experience": "5-10년",
+      "location": "경기 성남시 분당구 정자일로 95 네이버 1784",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"라플라스테크놀로지스\", \"position\": \"프론트라인 엔지니어 (Frontline Engineer)\", \"tech_stack\": [\"React\", \"k8s\", \"Gitops\", \"SQL\", \"Fast API\"], \"experience\": \"5-10년\", \"location\": \"경기 성남시 분당구 정자일로 95 네이버 1784\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354548.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "에비드넷",
+      "position": "CDM 기반 연구지원 및 병원 네트워크 운영 담당자",
+      "tech_stack": [
+        "Python",
+        "R",
+        "SAS",
+        "SQL"
+      ],
+      "experience": "1-5년",
+      "location": "서울특별시 강남구 강남대로 292, 3층(뱅뱅빌딩)",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"에비드넷\", \"position\": \"CDM 기반 연구지원 및 병원 네트워크 운영 담당자\", \"tech_stack\": [\"Python\", \"R\", \"SAS\", \"SQL\"], \"experience\": \"1-5년\", \"location\": \"서울특별시 강남구 강남대로 292, 3층(뱅뱅빌딩)\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354571.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "휴먼퍼포먼스랩",
+      "position": "3D AI 파이프라인 및 서빙 엔지니어",
+      "tech_stack": [
+        "Python",
+        "C++",
+        "GNN",
+        "AI 모델 서빙",
+        "서버 인프라"
+      ],
+      "experience": "3-8년",
+      "location": "서울 서대문구 이화여대길 52, 연구협력관",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"휴먼퍼포먼스랩\", \"position\": \"3D AI 파이프라인 및 서빙 엔지니어\", \"tech_stack\": [\"Python\", \"C++\", \"GNN\", \"AI 모델 서빙\", \"서버 인프라\"], \"experience\": \"3-8년\", \"location\": \"서울 서대문구 이화여대길 52, 연구협력관\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354598.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "원더굿라이프",
+      "position": "엑셀 산식 개발자 (금융 견적 산식 모델링)",
+      "tech_stack": [
+        "JavaScript",
+        "TypeScript",
+        "재무함수",
+        "API",
+        "DB"
+      ],
+      "experience": "1-5년",
+      "location": "경기 구리시 인창2로 13, 근린생활시설동 207호",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"원더굿라이프\", \"position\": \"엑셀 산식 개발자 (금융 견적 산식 모델링)\", \"tech_stack\": [\"JavaScript\", \"TypeScript\", \"재무함수\", \"API\", \"DB\"], \"experience\": \"1-5년\", \"location\": \"경기 구리시 인창2로 13, 근린생활시설동 207호\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354616.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "리빌더에이아이(리빌더AI)",
+      "position": "QA 엔지니어",
+      "tech_stack": [
+        "JIRA",
+        "GitHub"
+      ],
+      "experience": "5-15년",
+      "location": "경기도 성남시 분당구 정자일로 95, 4층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"리빌더에이아이(리빌더AI)\", \"position\": \"QA 엔지니어\", \"tech_stack\": [\"JIRA\", \"GitHub\"], \"experience\": \"5-15년\", \"location\": \"경기도 성남시 분당구 정자일로 95, 4층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354671.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "헤이딜러",
+      "position": "백엔드 개발자 (python)",
+      "tech_stack": [
+        "python",
+        "django",
+        "docker",
+        "AWS"
+      ],
+      "experience": "4-8년",
+      "location": "서울 서초구 서초대로74길 14, 8층, 헤이딜러",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"헤이딜러\", \"position\": \"백엔드 개발자 (python)\", \"tech_stack\": [\"python\", \"django\", \"docker\", \"AWS\"], \"experience\": \"4-8년\", \"location\": \"서울 서초구 서초대로74길 14, 8층, 헤이딜러\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354685.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "휴윈",
+      "position": "SW 개발 엔지니어",
+      "tech_stack": [
+        "C#",
+        "C++",
+        "Visual Studio",
+        "WinForm"
+      ],
+      "experience": "신입-경력 8년",
+      "location": "경기 성남시 분당구 성남대로331번길 8, 4층 403호 휴윈",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"휴윈\", \"position\": \"SW 개발 엔지니어\", \"tech_stack\": [\"C#\", \"C++\", \"Visual Studio\", \"WinForm\"], \"experience\": \"신입-경력 8년\", \"location\": \"경기 성남시 분당구 성남대로331번길 8, 4층 403호 휴윈\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354744.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "노타(Nota)",
+      "position": "Senior AI Engineer",
+      "tech_stack": [
+        "Computer Vision",
+        "Vision-Language Model",
+        "VLM",
+        "AI",
+        "Computer Vision"
+      ],
+      "experience": "7년 이상",
+      "location": "서울특별시 강남구 테헤란로 521 파르나스 타워 16층 Nota",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"노타(Nota)\", \"position\": \"Senior AI Engineer\", \"tech_stack\": [\"Computer Vision\", \"Vision-Language Model\", \"VLM\", \"AI\", \"Computer Vision\"], \"experience\": \"7년 이상\", \"location\": \"서울특별시 강남구 테헤란로 521 파르나스 타워 16층 Nota\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354775.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "핵클(Hackle)",
+      "position": "Cloud Infrastructure Engineer",
+      "tech_stack": [
+        "AWS",
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "CloudFormation",
+        "Prometheus",
+        "Grafana",
+        "ELK",
+        "Java",
+        "Go",
+        "Rust",
+        "Python"
+      ],
+      "experience": "5-10년",
+      "location": "서울 서초구 강남대로 241, 5층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"핵클(Hackle)\", \"position\": \"Cloud Infrastructure Engineer\", \"tech_stack\": [\"AWS\", \"Kubernetes\", \"Docker\", \"Terraform\", \"CloudFormation\", \"Prometheus\", \"Grafana\", \"ELK\", \"Java\", \"Go\", \"Rust\", \"Python\"], \"experience\": \"5-10년\", \"location\": \"서울 서초구 강남대로 241, 5층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354801.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "세이지",
+      "position": "프론트엔드 개발자",
+      "tech_stack": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Linux",
+        "Windows",
+        "Git",
+        "Notion",
+        "Azure DevOps"
+      ],
+      "experience": "4년 이상",
+      "location": "서울 강남구 강남대로 374 케이스퀘어강남2 3층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"세이지\", \"position\": \"프론트엔드 개발자\", \"tech_stack\": [\"JavaScript\", \"TypeScript\", \"React\", \"Linux\", \"Windows\", \"Git\", \"Notion\", \"Azure DevOps\"], \"experience\": \"4년 이상\", \"location\": \"서울 강남구 강남대로 374 케이스퀘어강남2 3층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354807.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "딥오토",
+      "position": "AI Engineer",
+      "tech_stack": [
+        "PyTorch",
+        "Python",
+        "Hadoop",
+        "Spark",
+        "OpenCV"
+      ],
+      "experience": "신입-경력 3년",
+      "location": "서울 강남구 테헤란로 216, 신웅타워 7층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"딥오토\", \"position\": \"AI Engineer\", \"tech_stack\": [\"PyTorch\", \"Python\", \"Hadoop\", \"Spark\", \"OpenCV\"], \"experience\": \"신입-경력 3년\", \"location\": \"서울 강남구 테헤란로 216, 신웅타워 7층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354812.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "다겸",
+      "position": "비전 AI 데이터사이언티스트 (전문연구요원 가능)",
+      "tech_stack": [
+        "PyTorch",
+        "Tensorflow",
+        "C#",
+        "Python",
+        "OpenCV"
+      ],
+      "experience": "신입",
+      "location": "서울 금천구",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"다겸\", \"position\": \"비전 AI 데이터사이언티스트 (전문연구요원 가능)\", \"tech_stack\": [\"PyTorch\", \"Tensorflow\", \"C#\", \"Python\", \"OpenCV\"], \"experience\": \"신입\", \"location\": \"서울 금천구\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354815.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "다겸",
+      "position": "ML Engineer (전문연구요원 가능)",
+      "tech_stack": [
+        "PyTorch",
+        "TensorFlow",
+        "C#",
+        "Python",
+        "OpenCV",
+        "FastAPI"
+      ],
+      "experience": "신입 이상",
+      "location": "서울 금천구",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"다겸\", \"position\": \"ML Engineer (전문연구요원 가능)\", \"tech_stack\": [\"PyTorch\", \"TensorFlow\", \"C#\", \"Python\", \"OpenCV\", \"FastAPI\"], \"experience\": \"신입 이상\", \"location\": \"서울 금천구\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354816.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "딥오토",
+      "position": "Backend Engineer (AI Platform)",
+      "tech_stack": [
+        "Azure",
+        "Python",
+        "Rust",
+        "SQL",
+        "TypeScript",
+        "AWS",
+        "NoSQL",
+        "GCP",
+        "Golang",
+        "Kubernetes",
+        "Grafana"
+      ],
+      "experience": "신입-경력 3년",
+      "location": "서울 강남구 테헤란로 216, 신웅타워 7층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"딥오토\", \"position\": \"Backend Engineer (AI Platform)\", \"tech_stack\": [\"Azure\", \"Python\", \"Rust\", \"SQL\", \"TypeScript\", \"AWS\", \"NoSQL\", \"GCP\", \"Golang\", \"Kubernetes\", \"Grafana\"], \"experience\": \"신입-경력 3년\", \"location\": \"서울 강남구 테헤란로 216, 신웅타워 7층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354817.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "다겸",
+      "position": "기술지원 필드 엔지니어",
+      "tech_stack": [
+        "시리얼 통신",
+        "RS-232",
+        "RS-485",
+        "머신비전",
+        "PLC"
+      ],
+      "experience": "2년 이상",
+      "location": "서울 금천구",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"다겸\", \"position\": \"기술지원 필드 엔지니어\", \"tech_stack\": [\"시리얼 통신\", \"RS-232\", \"RS-485\", \"머신비전\", \"PLC\"], \"experience\": \"2년 이상\", \"location\": \"서울 금천구\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354851.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "유닛블랙",
+      "position": "풀스택 개발자(프로덕트/백오피스 운영)",
+      "tech_stack": [
+        "TypeScript",
+        "React",
+        "Framer",
+        "AWS",
+        "Github CI",
+        "ArgoCD",
+        "Elasticsearch",
+        "Fluentbit",
+        "Kibana",
+        "Claude Code",
+        "Github PR",
+        "Graphite"
+      ],
+      "experience": "4-8년",
+      "location": "서울시 강남구 테헤란로70길 12 H타워 2층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"유닛블랙\", \"position\": \"풀스택 개발자(프로덕트/백오피스 운영)\", \"tech_stack\": [\"TypeScript\", \"React\", \"Framer\", \"AWS\", \"Github CI\", \"ArgoCD\", \"Elasticsearch\", \"Fluentbit\", \"Kibana\", \"Claude Code\", \"Github PR\", \"Graphite\"], \"experience\": \"4-8년\", \"location\": \"서울시 강남구 테헤란로70길 12 H타워 2층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354868.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "S2W",
+      "position": "AI Platform Engineer (SAIP)",
+      "tech_stack": [
+        "Kubernetes",
+        "Python",
+        "Linux",
+        "Docker",
+        "CI/CD",
+        "Java",
+        "MongoDB",
+        "PyTorch",
+        "FastAPI",
+        "Hadoop",
+        "ElasticSearch",
+        "RabbitMQ",
+        "HBase",
+        "Kubeflow",
+        "FastAPI"
+      ],
+      "experience": "4년 이상",
+      "location": "경기도 성남시 분당구 판교역로192번길 12, 3층 (삼평동, 판교미래에셋센터)",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"S2W\", \"position\": \"AI Platform Engineer (SAIP)\", \"tech_stack\": [\"Kubernetes\", \"Python\", \"Linux\", \"Docker\", \"CI/CD\", \"Java\", \"MongoDB\", \"PyTorch\", \"FastAPI\", \"Hadoop\", \"ElasticSearch\", \"RabbitMQ\", \"HBase\", \"Kubeflow\", \"FastAPI\"], \"experience\": \"4년 이상\", \"location\": \"경기도 성남시 분당구 판교역로192번길 12, 3층 (삼평동, 판교미래에셋센터)\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354875.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "인크로스",
+      "position": "Front-end개발",
+      "tech_stack": [
+        "Vue 3",
+        "TypeScript",
+        "JavaScript",
+        "Vite",
+        "Pinia",
+        "TanStack Query",
+        "SCSS",
+        "CSS",
+        "Vitest",
+        "Playwright",
+        "Sentry",
+        "GitLab",
+        "Slack",
+        "Jira",
+        "Figma"
+      ],
+      "experience": "4-6년",
+      "location": "서울 관악구 남부순환로1926 경동제약빌딩 3,5,8층",
+      "deadline": "2026.06.13",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"인크로스\", \"position\": \"Front-end개발\", \"tech_stack\": [\"Vue 3\", \"TypeScript\", \"JavaScript\", \"Vite\", \"Pinia\", \"TanStack Query\", \"SCSS\", \"CSS\", \"Vitest\", \"Playwright\", \"Sentry\", \"GitLab\", \"Slack\", \"Jira\", \"Figma\"], \"experience\": \"4-6년\", \"location\": \"서울 관악구 남부순환로1926 경동제약빌딩 3,5,8층\", \"deadline\": \"2026.06.13\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354908.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "엘리스",
+      "position": "클라우드 서포트 엔지니어",
+      "tech_stack": [
+        "Linux",
+        "Python",
+        "NVIDIA GPU",
+        "CUDA",
+        "NCCL",
+        "dmesg",
+        "GPU"
+      ],
+      "experience": "3-10년",
+      "location": "서울 강남구 테헤란로 445, 7층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"엘리스\", \"position\": \"클라우드 서포트 엔지니어\", \"tech_stack\": [\"Linux\", \"Python\", \"NVIDIA GPU\", \"CUDA\", \"NCCL\", \"dmesg\", \"GPU\"], \"experience\": \"3-10년\", \"location\": \"서울 강남구 테헤란로 445, 7층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354910.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "혜움",
+      "position": "AI Engineer (System Orchestration)",
+      "tech_stack": [
+        "LangGraph",
+        "CrewAI",
+        "LLM",
+        "MCP",
+        "RAG"
+      ],
+      "experience": "7년 이상",
+      "location": "서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"혜움\", \"position\": \"AI Engineer (System Orchestration)\", \"tech_stack\": [\"LangGraph\", \"CrewAI\", \"LLM\", \"MCP\", \"RAG\"], \"experience\": \"7년 이상\", \"location\": \"서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354915.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "로브로스",
+      "position": "Principal Humanoid Whole-Body Control RL Engineer",
+      "tech_stack": [
+        "Reinforcement Learning",
+        "PPO",
+        "SAC",
+        "Robotics",
+        "Computer Science",
+        "Dynamics",
+        "Control",
+        "LLM",
+        "Python",
+        "PyTorch",
+        "C++",
+        "Linux",
+        "Git",
+        "Docker"
+      ],
+      "experience": "신입-경력 5년",
+      "location": "서울 성동구 연무장5가길 25, 605호",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"로브로스\", \"position\": \"Principal Humanoid Whole-Body Control RL Engineer\", \"tech_stack\": [\"Reinforcement Learning\", \"PPO\", \"SAC\", \"Robotics\", \"Computer Science\", \"Dynamics\", \"Control\", \"LLM\", \"Python\", \"PyTorch\", \"C++\", \"Linux\", \"Git\", \"Docker\"], \"experience\": \"신입-경력 5년\", \"location\": \"서울 성동구 연무장5가길 25, 605호\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354916.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "로브로스",
+      "position": "Robotics ML Deployment Engineer",
+      "tech_stack": [
+        "PyTorch",
+        "Python",
+        "C++"
+      ],
+      "experience": "신입-경력 4년",
+      "location": "서울 성동구 연무장5가길 25, 605호",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"로브로스\", \"position\": \"Robotics ML Deployment Engineer\", \"tech_stack\": [\"PyTorch\", \"Python\", \"C++\"], \"experience\": \"신입-경력 4년\", \"location\": \"서울 성동구 연무장5가길 25, 605호\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354929.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "마임하임",
+      "position": "AI 데이터 분석 및 딥러닝 알고리즘 엔지니어",
+      "tech_stack": [
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "experience": "3년 이상",
+      "location": "경기 성남시 수정구 대왕판교로 815",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"마임하임\", \"position\": \"AI 데이터 분석 및 딥러닝 알고리즘 엔지니어\", \"tech_stack\": [\"PyTorch\", \"TensorFlow\"], \"experience\": \"3년 이상\", \"location\": \"경기 성남시 수정구 대왕판교로 815\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354931.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "마임하임",
+      "position": "모바일 앱 및 결제 플랫폼 API 연동 개발자",
+      "tech_stack": [
+        "Flutter",
+        "React Native",
+        "REST API",
+        "SDK"
+      ],
+      "experience": "3년 이상",
+      "location": "경기 성남시 수정구 대왕판교로 815",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"마임하임\", \"position\": \"모바일 앱 및 결제 플랫폼 API 연동 개발자\", \"tech_stack\": [\"Flutter\", \"React Native\", \"REST API\", \"SDK\"], \"experience\": \"3년 이상\", \"location\": \"경기 성남시 수정구 대왕판교로 815\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354940.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "현대캐피탈",
+      "position": "AI Platform Engineer",
+      "tech_stack": [
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "Python",
+        "C++",
+        "Go"
+      ],
+      "experience": "8-16년",
+      "location": "서울 중구 세종대로 14 그랜드센트럴 A동",
+      "deadline": "2026.06.30",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"현대캐피탈\", \"position\": \"AI Platform Engineer\", \"tech_stack\": [\"Linux\", \"Docker\", \"Kubernetes\", \"Python\", \"C++\", \"Go\"], \"experience\": \"8-16년\", \"location\": \"서울 중구 세종대로 14 그랜드센트럴 A동\", \"deadline\": \"2026.06.30\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354946.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "서브원",
+      "position": "Data Analytics Engineer",
+      "tech_stack": [
+        "Python",
+        "SQL",
+        "Data Analysis",
+        "Tableau",
+        "AWS",
+        "CRM",
+        "SQL 서버",
+        "CRM 소프트웨어",
+        "EDA",
+        "ML"
+      ],
+      "experience": "6-13년",
+      "location": "서울 종로구 새문안로 76, 콘코디언빌딩 6~8층, 10층, 10층",
+      "deadline": "2026.05.31",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"서브원\", \"position\": \"Data Analytics Engineer\", \"tech_stack\": [\"Python\", \"SQL\", \"Data Analysis\", \"Tableau\", \"AWS\", \"CRM\", \"SQL 서버\", \"CRM 소프트웨어\", \"EDA\", \"ML\"], \"experience\": \"6-13년\", \"location\": \"서울 종로구 새문안로 76, 콘코디언빌딩 6~8층, 10층, 10층\", \"deadline\": \"2026.05.31\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354958.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "더씨에스알",
+      "position": "생성형 AI(Gen AI) Engineer",
+      "tech_stack": [
+        "Python",
+        "FastAPI",
+        "LangChain",
+        "LlamaIndex",
+        "LLaMA",
+        "Vector DB",
+        "FastAPI"
+      ],
+      "experience": "1-5년",
+      "location": "서울 서초구 서초중앙로22길 80, 백아빌딩 3층 더씨에스알",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"더씨에스알\", \"position\": \"생성형 AI(Gen AI) Engineer\", \"tech_stack\": [\"Python\", \"FastAPI\", \"LangChain\", \"LlamaIndex\", \"LLaMA\", \"Vector DB\", \"FastAPI\"], \"experience\": \"1-5년\", \"location\": \"서울 서초구 서초중앙로22길 80, 백아빌딩 3층 더씨에스알\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354965.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "루미다",
+      "position": "피지컬 AI 미디어 제어 소프트웨어 개발자",
+      "tech_stack": [
+        "C/C++",
+        "Windows",
+        "TCP/IP",
+        "Serial",
+        "Socket"
+      ],
+      "experience": "10년 이상",
+      "location": "서울 강남구 논현로 733, 5층",
+      "deadline": "2026.07.13",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"루미다\", \"position\": \"피지컬 AI 미디어 제어 소프트웨어 개발자\", \"tech_stack\": [\"C/C++\", \"Windows\", \"TCP/IP\", \"Serial\", \"Socket\"], \"experience\": \"10년 이상\", \"location\": \"서울 강남구 논현로 733, 5층\", \"deadline\": \"2026.07.13\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354979.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "에이버튼",
+      "position": "IT 인프라 엔지니어(시니어)",
+      "tech_stack": [
+        "Confluence",
+        "JIRA",
+        "Slack",
+        "Azure",
+        "Linux",
+        "AWS",
+        "VM웨어",
+        "Jenkins",
+        "VPN",
+        "GCP",
+        "DLP",
+        "Perforce"
+      ],
+      "experience": "7년 이상",
+      "location": "경기 성남시 분당구 판교로 323, 벤처포럼벤처타워 3층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"에이버튼\", \"position\": \"IT 인프라 엔지니어(시니어)\", \"tech_stack\": [\"Confluence\", \"JIRA\", \"Slack\", \"Azure\", \"Linux\", \"AWS\", \"VM웨어\", \"Jenkins\", \"VPN\", \"GCP\", \"DLP\", \"Perforce\"], \"experience\": \"7년 이상\", \"location\": \"경기 성남시 분당구 판교로 323, 벤처포럼벤처타워 3층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354986.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "케인",
+      "position": "풀스택 엔지니어",
+      "tech_stack": [
+        "Node.js",
+        "React",
+        "Vue.js"
+      ],
+      "experience": "3-8년",
+      "location": "서울 강남구 논현로151길 41",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"케인\", \"position\": \"풀스택 엔지니어\", \"tech_stack\": [\"Node.js\", \"React\", \"Vue.js\"], \"experience\": \"3-8년\", \"location\": \"서울 강남구 논현로151길 41\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354988.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "티시스아이티",
+      "position": "IFRS17 담당자",
+      "tech_stack": [
+        "SQL",
+        "C"
+      ],
+      "experience": "5-12년",
+      "location": "서울 중구 남대문로 15",
+      "deadline": "2026.06.30",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"티시스아이티\", \"position\": \"IFRS17 담당자\", \"tech_stack\": [\"SQL\", \"C\"], \"experience\": \"5-12년\", \"location\": \"서울 중구 남대문로 15\", \"deadline\": \"2026.06.30\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "354993.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "러너소프트",
+      "position": "홀덤 게임 DB 관리 및 인프라 관리자",
+      "tech_stack": [
+        "ClickHouse",
+        "SQL",
+        "Analytics Engineering"
+      ],
+      "experience": "3-5년",
+      "location": "서울 강남구 삼성로100길 12, 5층 러너소프트",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"러너소프트\", \"position\": \"홀덤 게임 DB 관리 및 인프라 관리자\", \"tech_stack\": [\"ClickHouse\", \"SQL\", \"Analytics Engineering\"], \"experience\": \"3-5년\", \"location\": \"서울 강남구 삼성로100길 12, 5층 러너소프트\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "355001.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "짐싸(ZIMSSA)",
+      "position": "백엔드 시니어 개발자(10년 이상)",
+      "tech_stack": [
+        "Spring boot",
+        "Java",
+        "Jpa",
+        "RDB",
+        "NoSQL",
+        "AI"
+      ],
+      "experience": "10년 이상",
+      "location": "서울 성동구 상원길 19, 2층 짐싸",
+      "deadline": "2026.05.31",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"짐싸(ZIMSSA)\", \"position\": \"백엔드 시니어 개발자(10년 이상)\", \"tech_stack\": [\"Spring boot\", \"Java\", \"Jpa\", \"RDB\", \"NoSQL\", \"AI\"], \"experience\": \"10년 이상\", \"location\": \"서울 성동구 상원길 19, 2층 짐싸\", \"deadline\": \"2026.05.31\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "355006.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "클래스어라운드",
+      "position": "백엔드 개발자(Nest.js)",
+      "tech_stack": [
+        "TypeScript",
+        "Nest.js",
+        "TypeORM",
+        "Redis",
+        "AWS",
+        "Git"
+      ],
+      "experience": "2-7년",
+      "location": "서울 강남구 언주로106길 41, 2층",
+      "deadline": "2026.05.13",
+      "salary_range": null,
+      "employment_type": "계약직"
+    },
+    "raw_output": "{\"company\": \"클래스어라운드\", \"position\": \"백엔드 개발자(Nest.js)\", \"tech_stack\": [\"TypeScript\", \"Nest.js\", \"TypeORM\", \"Redis\", \"AWS\", \"Git\"], \"experience\": \"2-7년\", \"location\": \"서울 강남구 언주로106길 41, 2층\", \"deadline\": \"2026.05.13\", \"salary_range\": null, \"employment_type\": \"계약직\"}",
+    "error": null
+  },
+  {
+    "file_name": "355012.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "도프텍",
+      "position": "AI Research/Engineering",
+      "tech_stack": [
+        "PyTorch",
+        "TensorFlow",
+        "Python"
+      ],
+      "experience": "1-10년",
+      "location": "서울 중구 통일로 86, 401",
+      "deadline": "2026.05.31",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"도프텍\", \"position\": \"AI Research/Engineering\", \"tech_stack\": [\"PyTorch\", \"TensorFlow\", \"Python\"], \"experience\": \"1-10년\", \"location\": \"서울 중구 통일로 86, 401\", \"deadline\": \"2026.05.31\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "355015.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "랭디",
+      "position": "백엔드 개발자(3~5년)",
+      "tech_stack": [
+        "JDK 21",
+        "Spring Boot 3",
+        "Kotlin",
+        "JPA",
+        "QueryDSL",
+        "Redis",
+        "Git"
+      ],
+      "experience": "3-5년",
+      "location": "관악구 남부순환로 1922 4층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"랭디\", \"position\": \"백엔드 개발자(3~5년)\", \"tech_stack\": [\"JDK 21\", \"Spring Boot 3\", \"Kotlin\", \"JPA\", \"QueryDSL\", \"Redis\", \"Git\"], \"experience\": \"3-5년\", \"location\": \"관악구 남부순환로 1922 4층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "355021.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "뱅크샐러드",
+      "position": "데이터 애널리스트 (Data Analyst, 건강 PA)",
+      "tech_stack": [
+        "Snowflake",
+        "Metabase",
+        "Amplitude",
+        "Python",
+        "SQL",
+        "pandas",
+        "scikit-learn",
+        "KoNLPy",
+        "LLM",
+        "pandas",
+        "scikit-learn",
+        "KoNLPy",
+        "LLM"
+      ],
+      "experience": "7년 이상",
+      "location": "서울 마포구",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"뱅크샐러드\", \"position\": \"데이터 애널리스트 (Data Analyst, 건강 PA)\", \"tech_stack\": [\"Snowflake\", \"Metabase\", \"Amplitude\", \"Python\", \"SQL\", \"pandas\", \"scikit-learn\", \"KoNLPy\", \"LLM\", \"pandas\", \"scikit-learn\", \"KoNLPy\", \"LLM\"], \"experience\": \"7년 이상\", \"location\": \"서울 마포구\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "355033.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "브이엔티지",
+      "position": "AI 기반 개발자 플랫폼 엔지니어",
+      "tech_stack": [
+        "React",
+        "Node.js",
+        "TypeScript"
+      ],
+      "experience": "3년 이상",
+      "location": "서울 마포구 양화로 45 세아타워 3,6층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"브이엔티지\", \"position\": \"AI 기반 개발자 플랫폼 엔지니어\", \"tech_stack\": [\"React\", \"Node.js\", \"TypeScript\"], \"experience\": \"3년 이상\", \"location\": \"서울 마포구 양화로 45 세아타워 3,6층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "355045.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "애자일소다",
+      "position": "생성형 AI 데이터 사이언티스트",
+      "tech_stack": [
+        "LLM",
+        "RAG",
+        "Python",
+        "Prompt Engineering",
+        "AI Agent 프레임워크",
+        "ML"
+      ],
+      "experience": "3년 이상",
+      "location": "서울시 강남구 선릉로 525 인포스톰빌딩 3층",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"애자일소다\", \"position\": \"생성형 AI 데이터 사이언티스트\", \"tech_stack\": [\"LLM\", \"RAG\", \"Python\", \"Prompt Engineering\", \"AI Agent 프레임워크\", \"ML\"], \"experience\": \"3년 이상\", \"location\": \"서울시 강남구 선릉로 525 인포스톰빌딩 3층\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  },
+  {
+    "file_name": "355050.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "스트라드비젼",
+      "position": "Technical Data Project Manager",
+      "tech_stack": [
+        "Jira",
+        "Confluence",
+        "Microsoft Office"
+      ],
+      "experience": "3-8년",
+      "location": "서울 강남구 역삼로3길 19, 하나진빌딩",
+      "deadline": "상시채용",
+      "salary_range": null,
+      "employment_type": null
+    },
+    "raw_output": "{\"company\": \"스트라드비젼\", \"position\": \"Technical Data Project Manager\", \"tech_stack\": [\"Jira\", \"Confluence\", \"Microsoft Office\"], \"experience\": \"3-8년\", \"location\": \"서울 강남구 역삼로3길 19, 하나진빌딩\", \"deadline\": \"상시채용\", \"salary_range\": null, \"employment_type\": null}",
+    "error": null
+  }
+]

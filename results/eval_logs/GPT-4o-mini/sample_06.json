@@ -1,0 +1,48 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "바이옴에이츠",
+    "position": "백엔드 엔지니어",
+    "tech_stack": [
+      "Git",
+      "MySQL",
+      "Java",
+      "Python",
+      "AWS",
+      "NoSQL",
+      "Docker",
+      "RDBMS",
+      "PostgreSQL",
+      "GCP",
+      "Spring Boot",
+      "Kubernetes",
+      "FastAPI"
+    ],
+    "experience": "5년 이상",
+    "location": "경기도 과천시",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "바이옴에이츠",
+    "position": "백엔드 엔지니어",
+    "tech_stack": [
+      "Java",
+      "Spring Boot",
+      "Python",
+      "FastAPI",
+      "MySQL",
+      "PostgreSQL",
+      "AWS",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "NoSQL",
+      "RDBMS",
+      "Git"
+    ],
+    "experience": "5년 이상의 서버 개발 경력",
+    "location": "경기도 과천시"
+  },
+  "latency": 2.0516068935394287
+}

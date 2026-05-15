@@ -1,0 +1,26 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "에이베러",
+    "position": "백엔드 개발자(AI Agent) - 디스터",
+    "tech_stack": [
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "experience": "3년 이상",
+    "location": "서울 강남구",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "에이베러",
+    "position": "백엔드 개발자(AI Agent)",
+    "tech_stack": [
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "experience": "3년 이상",
+    "location": "서울 강남구"
+  },
+  "latency": 1.3465180397033691
+}

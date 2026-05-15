@@ -1,0 +1,64 @@
+{
+  "model": "SBV-LLM (DoRA)",
+  "gold": {
+    "company": "보맵",
+    "position": "풀스택 개발자",
+    "tech_stack": [
+      "Java",
+      "Spring",
+      "Vue",
+      "React",
+      "Kafka",
+      "Redis",
+      "AWS"
+    ],
+    "experience": "3년 이상",
+    "location": "서울 서초구",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "보맵",
+    "position": "풀스택 개발자 (3년 이상)",
+    "tech_stack": [
+      "Java",
+      "Spring",
+      "Vue",
+      "React",
+      "Kafka",
+      "Redis",
+      "AWS"
+    ],
+    "experience": "3-15년",
+    "location": "서울시 서초구 강남대로 311",
+    "salary_range": null,
+    "employment_type": null,
+    "main_tasks": [
+      "보맵플래너 관리자 시스템 및 사내 운영 시스템 개발",
+      "백엔드와 프론트엔드 단독 설계 및 구현",
+      "사용자와 소통하며 빠르게 가치를 만드는 개발",
+      "안정적인 시스템 운영",
+      "개발 파이프라인 혁신 참여"
+    ],
+    "requirements": [
+      "풀스택 개발 실무 경험 3년 이상",
+      "Java, Spring 프레임워크 이해 및 실전 경험",
+      "Vue 또는 React 기반 프론트엔드 개발 경험",
+      "시스템 단독 설계 및 완성 역량",
+      "AI 에이전트 활용 능력"
+    ],
+    "preferred_qualifications": [
+      "AI를 통한 생산성 혁신에 깊은 관심을 가진 사람",
+      "반복 작업을 자동화하는 데 희열을 느끼는 사람",
+      "작은 팀에서 큰 임팩트를 만들고 싶은 사람"
+    ],
+    "benefits": [
+      "식대지원",
+      "커피·스낵바",
+      "건강검진지원",
+      "출산휴가",
+      "육아휴직"
+    ]
+  },
+  "latency": 2.8719091415405273
+}

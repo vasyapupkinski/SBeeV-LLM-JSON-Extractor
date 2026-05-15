@@ -1,0 +1,34 @@
+# API Keys & Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.pytest_cache/
+unsloth_compiled_cache/
+
+# Data & Large Files (원본 데이터 및 로그는 용량이 크므로 제외)
+data/raw/
+results_v2/eval_logs/
+!results_v2/final_benchmark.json
+
+# Model Files (GGUF, LoRA weights 등 대용량 바이너리 제외)
+models/
+*.gguf
+*.bin
+*.pt
+*.pth
+*.safetensors
+checkpoint-*/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp

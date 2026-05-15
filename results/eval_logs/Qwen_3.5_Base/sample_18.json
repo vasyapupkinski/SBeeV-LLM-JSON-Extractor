@@ -1,0 +1,14 @@
+{
+  "model": "Qwen 3.5 (Base)",
+  "gold": {
+    "company": "아마존(Amazon)",
+    "position": "Telecom Operations Engineer, Amazon Connect",
+    "tech_stack": [],
+    "experience": "3년 이상",
+    "location": "서울특별시 강남구 테헤란로 231 (역삼동, 센터필드 서관 12층)",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": null,
+  "latency": 2.0401365756988525
+}

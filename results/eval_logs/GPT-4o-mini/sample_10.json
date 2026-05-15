@@ -1,0 +1,28 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "크래블",
+    "position": "S/W 개발자(Android SDK, java, kotlin)",
+    "tech_stack": [
+      "Android",
+      "Java",
+      "Kotlin"
+    ],
+    "experience": "3-20년",
+    "location": "서울특별시 성동구 성수일로 10 서울숲 ITCT 1602호",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "크래블",
+    "position": "S/W 개발자(Android SDK, java, kotlin)",
+    "tech_stack": [
+      "Android",
+      "Java",
+      "Kotlin"
+    ],
+    "experience": "경력 3-20년",
+    "location": "서울특별시 성동구 성수일로 10 서울숲 ITCT 1602호"
+  },
+  "latency": 1.6514394283294678
+}

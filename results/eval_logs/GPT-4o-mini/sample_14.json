@@ -1,0 +1,43 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "아임웹",
+    "position": "Back-end Engineer (Marketing Product)",
+    "tech_stack": [
+      "Node.js",
+      "NestJS",
+      "Kotlin",
+      "Spring Boot",
+      "Aurora PostgreSQL",
+      "Aurora MySQL",
+      "Redis",
+      "Valkey",
+      "OpenSearch",
+      "AWS (EKS, ECS, RDS, MSK 등)",
+      "ArgoCD"
+    ],
+    "experience": "5년 이상",
+    "location": "서울 강남구",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "아임웹",
+    "position": "Back-end Engineer (Marketing Product)",
+    "tech_stack": [
+      "Node.js",
+      "NestJS",
+      "Kotlin",
+      "Spring Boot",
+      "Aurora PostgreSQL",
+      "Aurora MySQL",
+      "Redis",
+      "Valkey",
+      "OpenSearch",
+      "AWS (EKS, ECS, RDS, MSK 등)"
+    ],
+    "experience": "5년 이상의 백엔드 개발 경력",
+    "location": "서울 강남구"
+  },
+  "latency": 2.1283206939697266
+}

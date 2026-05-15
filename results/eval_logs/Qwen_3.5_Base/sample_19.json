@@ -1,0 +1,17 @@
+{
+  "model": "Qwen 3.5 (Base)",
+  "gold": {
+    "company": "에이베러",
+    "position": "백엔드 개발자(AI Agent) - 디스터",
+    "tech_stack": [
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "experience": "3년 이상",
+    "location": "서울 강남구",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": null,
+  "latency": 1.9634535312652588
+}

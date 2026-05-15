@@ -1,0 +1,27 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "에스디티",
+    "position": "임베디드 하드웨어 플랫폼 개발",
+    "tech_stack": [],
+    "experience": "3-8년",
+    "location": "서울 강남구",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "에스디티",
+    "position": "임베디드 하드웨어 플랫폼 개발 (3년 이상)",
+    "tech_stack": [
+      "하드웨어 회로 설계",
+      "PCB 설계",
+      "제품 인증",
+      "양산화",
+      "기술문서 작성",
+      "프로토 타입 제작"
+    ],
+    "experience": "3-8년",
+    "location": "서울 강남구 테헤란로44길 5 대아빌딩 10층"
+  },
+  "latency": 2.385720729827881
+}

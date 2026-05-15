@@ -1,0 +1,36 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "보맵",
+    "position": "풀스택 개발자",
+    "tech_stack": [
+      "Java",
+      "Spring",
+      "Vue",
+      "React",
+      "Kafka",
+      "Redis",
+      "AWS"
+    ],
+    "experience": "3년 이상",
+    "location": "서울 서초구",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "보맵",
+    "position": "풀스택 개발자 (3년 이상)",
+    "tech_stack": [
+      "Java",
+      "Spring",
+      "Vue",
+      "React",
+      "Kafka",
+      "Redis",
+      "AWS"
+    ],
+    "experience": "3년 이상",
+    "location": "서울 서초구"
+  },
+  "latency": 1.913794755935669
+}
