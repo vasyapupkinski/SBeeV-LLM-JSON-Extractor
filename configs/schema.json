@@ -1,0 +1,60 @@
+{
+  "type": "object",
+  "properties": {
+    "company": {
+      "type": "string",
+      "description": "회사명 (필수)"
+    },
+    "position": {
+      "type": "string",
+      "description": "채용 포지션 (필수)"
+    },
+    "tech_stack": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "기술 스택. 없으면 빈 배열 []"
+    },
+    "experience": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "경력 요건. 없으면 null"
+    },
+    "location": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "근무 지역. 없으면 null"
+    },
+    "salary_range": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "연봉 범위. 없으면 null"
+    },
+    "employment_type": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "고용 형태 (정규직, 계약직, 인턴 등). 없으면 null"
+    },
+    "deadline": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "마감일 (예: 2026-12-31 또는 상시채용). 없으면 null"
+    }
+  },
+  "required": [
+    "company",
+    "position",
+    "tech_stack"
+  ]
+}

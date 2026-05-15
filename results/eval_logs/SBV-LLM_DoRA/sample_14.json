@@ -1,0 +1,67 @@
+{
+  "model": "SBV-LLM (DoRA)",
+  "gold": {
+    "company": "아임웹",
+    "position": "Back-end Engineer (Marketing Product)",
+    "tech_stack": [
+      "Node.js",
+      "NestJS",
+      "Kotlin",
+      "Spring Boot",
+      "Aurora PostgreSQL",
+      "Aurora MySQL",
+      "Redis",
+      "Valkey",
+      "OpenSearch",
+      "AWS (EKS, ECS, RDS, MSK 등)",
+      "ArgoCD"
+    ],
+    "experience": "5년 이상",
+    "location": "서울 강남구",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "아임웹",
+    "position": "Back-end Engineer (Marketing Product)",
+    "tech_stack": [
+      "Node.js",
+      "NestJS",
+      "Kotlin",
+      "Spring Boot",
+      "Aurora PostgreSQL",
+      "Aurora MySQL",
+      "Redis",
+      "Valkey",
+      "OpenSearch",
+      "AWS",
+      "Kafka"
+    ],
+    "experience": "5년 이상",
+    "location": "서울시 강남구 테헤란로 501 VPLEX 14층 아임웹 강남 오피스",
+    "salary_range": null,
+    "employment_type": null,
+    "main_tasks": [
+      "백엔드 시스템을 설계하고 개발하며 운영한다",
+      "확장 가능한 시스템을 개발하고 운영한다",
+      "신규 요구사항을 도메인 관점에서 정의하고 DB 모델 및 API 구조 설계를 주도한다",
+      "주요 지표를 기반으로 병목을 정의하고 성능을 최적화한다",
+      "장애 원인을 구조적으로 분석하고 시스템을 개선한다"
+    ],
+    "requirements": [
+      "5년 이상의 백엔드 개발 경력",
+      "하나 이상의 언어에 대한 전문성",
+      "AI 기반 코딩 도구를 실무에 활용하는 경험",
+      "RDBMS의 특성을 이해하고 트랜잭션·인덱스·쿼리 성능을 고려한 설계 경험",
+      "Kafka, Redis 등 메시징·캐시 시스템을 활용한 아키텍처 설계 경험",
+      "모니터링·로깅 도구를 활용해 서비스 상태를 관측하고 개선한 경험"
+    ],
+    "preferred_qualifications": [],
+    "benefits": [
+      "커피·스낵바",
+      "식대지원",
+      "보너스"
+    ]
+  },
+  "latency": 5.6063315868377686
+}

@@ -1,0 +1,30 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "투모로로보틱스",
+    "position": "Physical AI Researcher",
+    "tech_stack": [],
+    "experience": "신입-경력 6년",
+    "location": "서울 강남구 역삼로 114, 7층",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "투모로로보틱스",
+    "position": "Physical AI Researcher",
+    "tech_stack": [
+      "PyTorch",
+      "JAX",
+      "VLA",
+      "Dexterous Hands",
+      "Reinforcement Learning",
+      "Multimodal",
+      "LLM",
+      "Diffusion Models",
+      "HPC"
+    ],
+    "experience": "신입-경력 6년",
+    "location": "서울 강남구 역삼로 114, 7층"
+  },
+  "latency": 2.387444257736206
+}

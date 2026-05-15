@@ -1,0 +1,28 @@
+{
+  "model": "Qwen 3.5 (Base)",
+  "gold": {
+    "company": "바이옴에이츠",
+    "position": "백엔드 엔지니어",
+    "tech_stack": [
+      "Git",
+      "MySQL",
+      "Java",
+      "Python",
+      "AWS",
+      "NoSQL",
+      "Docker",
+      "RDBMS",
+      "PostgreSQL",
+      "GCP",
+      "Spring Boot",
+      "Kubernetes",
+      "FastAPI"
+    ],
+    "experience": "5년 이상",
+    "location": "경기도 과천시",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": null,
+  "latency": 2.7173027992248535
+}

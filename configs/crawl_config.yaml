@@ -1,0 +1,16 @@
+# 크롤링 설정
+crawler:
+  user_agent: "SBV-LLM-Research-Bot/1.0 (portfolio project)"
+  delay_seconds: 2.0
+  max_concurrent: 1
+  respect_robots_txt: true
+  timeout_seconds: 30
+  max_retries: 3
+
+# 수집 소스
+sources:
+  wanted:
+    base_url: "https://www.wanted.co.kr"
+    list_url: "https://www.wanted.co.kr/wdlist/518"  # IT/개발
+    target_count: 1000
+    output_dir: "data/raw/wanted"

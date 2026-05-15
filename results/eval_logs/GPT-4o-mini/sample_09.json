@@ -1,0 +1,24 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "니어스랩",
+    "position": "시니어 항공 및 로보틱스 엔지니어 (SW Platform)",
+    "tech_stack": [
+      "C++"
+    ],
+    "experience": "7년 이상",
+    "location": "서울 송파구",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "니어스랩",
+    "position": "시니어 항공 및 로보틱스 엔지니어 (SW Platform)",
+    "tech_stack": [
+      "C++"
+    ],
+    "experience": "경력 7년 이상",
+    "location": "서울 송파구"
+  },
+  "latency": 1.5596404075622559
+}

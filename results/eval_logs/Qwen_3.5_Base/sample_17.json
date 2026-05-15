@@ -1,0 +1,14 @@
+{
+  "model": "Qwen 3.5 (Base)",
+  "gold": {
+    "company": "투모로로보틱스",
+    "position": "Physical AI Researcher",
+    "tech_stack": [],
+    "experience": "신입-경력 6년",
+    "location": "서울 강남구 역삼로 114, 7층",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": null,
+  "latency": 1.7203059196472168
+}

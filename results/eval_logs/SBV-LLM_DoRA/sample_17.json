@@ -1,0 +1,45 @@
+{
+  "model": "SBV-LLM (DoRA)",
+  "gold": {
+    "company": "투모로로보틱스",
+    "position": "Physical AI Researcher",
+    "tech_stack": [],
+    "experience": "신입-경력 6년",
+    "location": "서울 강남구 역삼로 114, 7층",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "투모로로보틱스",
+    "position": "Physical AI Researcher",
+    "tech_stack": [
+      "PyTorch",
+      "JAX"
+    ],
+    "experience": "신입-경력 6년",
+    "location": "서울 강남구 역삼로 114, 7층",
+    "salary_range": null,
+    "employment_type": null,
+    "main_tasks": [
+      "Vision-Language-Action 데이터를 활용한 행동정책 모델 구현",
+      "로봇 파운데이션 모델(RFM)을 위한 정책 학습, 표현 학습 및 멀티모달 인식 연구",
+      "최신 연구 논문 분석 및 baseline 재현",
+      "휴머노이드 플랫폼 및 시뮬레이션 환경에서의 모델·알고리즘 ablation study",
+      "연구 성과의 논문화 및 오픈소스화"
+    ],
+    "requirements": [
+      "인공지능/로봇공학 관련 분야 석사 또는 박사 학위 소지자 (또는 동등한 수준의 연구 경험)",
+      "PyTorch 또는 JAX 기반 모델 구현 능력 및 Multi-GPU 모델 학습 경험",
+      "VLA, Dexterous Hands, Reinforcement Learning, Multimodal, LLM, Diffusion Models, HPC 중 하나 이상의 분야에서 강점 보유"
+    ],
+    "preferred_qualifications": [],
+    "benefits": [
+      "보너스",
+      "식대지원",
+      "커피·스낵바",
+      "스톡옵션",
+      "자기계발지원"
+    ]
+  },
+  "latency": 4.441171646118164
+}

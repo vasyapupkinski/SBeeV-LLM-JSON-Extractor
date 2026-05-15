@@ -1,0 +1,29 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "업스테이지",
+    "position": "AI Engineer - LLM Serving Platform",
+    "tech_stack": [],
+    "experience": "3년 이상",
+    "location": "리모트근무",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "업스테이지",
+    "position": "AI Engineer - LLM Serving Platform",
+    "tech_stack": [
+      "AWS",
+      "Azure",
+      "Kubernetes",
+      "Golang",
+      "Python",
+      "Typescript",
+      "Java",
+      "C/C++"
+    ],
+    "experience": "3년 이상의 AI 모델 서빙 경험",
+    "location": "리모트근무"
+  },
+  "latency": 1.8144209384918213
+}

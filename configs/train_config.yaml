@@ -1,0 +1,40 @@
+# 학습 하이퍼파라미터
+model:
+  base_model: "Qwen/Qwen3.5-9B"
+  fallback_model: "Qwen/Qwen3.5-9B-Instruct"
+
+quantization:
+  load_in_4bit: true
+  bnb_4bit_quant_type: "nf4"
+  bnb_4bit_compute_dtype: "bfloat16"
+  bnb_4bit_use_double_quant: true
+
+lora:
+  r: 16
+  lora_alpha: 32
+  # 정보 검색/추출 태스크에 핵심적인 Attention 레이어 4개만 타겟팅 (MLP 제외)
+  target_modules: ["q_proj", "k_proj", "v_proj", "o_proj"]
+  lora_dropout: 0
+  use_dora: true
+
+training:
+  max_seq_length: 1024
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 4
+  num_train_epochs: 2 # 3에서 2로 타협 (과적합 방지 및 시간 단축)
+  learning_rate: 2.0e-4
+  weight_decay: 0.01
+  warmup_ratio: 0.03
+  optimizer: "paged_adamw_8bit"
+  lr_scheduler_type: "cosine"
+  fp16: false
+  bf16: true
+  logging_steps: 10
+  save_strategy: "epoch"
+
+dora:
+  use_dora: true # 05_train_dora.py에서 true, 06_train_lora.py에서 false
+
+export:
+  gguf_quantization: "q4_k_m"
+  output_dir: "models"

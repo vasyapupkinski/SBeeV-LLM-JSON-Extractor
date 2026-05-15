@@ -1,0 +1,72 @@
+{
+  "model": "SBV-LLM (DoRA)",
+  "gold": {
+    "company": "바이옴에이츠",
+    "position": "백엔드 엔지니어",
+    "tech_stack": [
+      "Git",
+      "MySQL",
+      "Java",
+      "Python",
+      "AWS",
+      "NoSQL",
+      "Docker",
+      "RDBMS",
+      "PostgreSQL",
+      "GCP",
+      "Spring Boot",
+      "Kubernetes",
+      "FastAPI"
+    ],
+    "experience": "5년 이상",
+    "location": "경기도 과천시",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "바이옴에이츠",
+    "position": "백엔드 엔지니어",
+    "tech_stack": [
+      "Git",
+      "MySQL",
+      "Java",
+      "Python",
+      "AWS",
+      "NoSQL",
+      "Docker",
+      "RDBMS",
+      "PostgreSQL",
+      "GCP",
+      "Spring Boot",
+      "Kubernetes",
+      "FastAPI"
+    ],
+    "experience": "5년 이상",
+    "location": "경기도 과천시 과천대로 7길 33 A동 1208호",
+    "salary_range": null,
+    "employment_type": null,
+    "main_tasks": [
+      "REST API 설계·개발",
+      "마이크로서비스 아키텍처 구축 및 운영",
+      "레이어드 아키텍처 구축 및 운영",
+      "데이터베이스 스키마 설계 및 쿼리 최적화",
+      "클라우드 인프라 구축 및 배포 파이프라인 관리",
+      "서비스 성능 모니터링 및 최적화"
+    ],
+    "requirements": [
+      "5년 이상의 서버 개발 경력",
+      "Java(Spring Boot) 또는 Python(FastAPI) 기반 실서비스 운영 경험",
+      "RESTful API 설계 및 개발 경험",
+      "MySQL 또는 PostgreSQL 등 RDBMS 설계 및 쿼리 최적화 경험",
+      "AWS 또는 GCP 환경에서의 배포·운영 경험",
+      "서비스 인프라를 직접 구축·운영한 경험 (클라우드 환경)",
+      "Git 기반 협업 경험"
+    ],
+    "preferred_qualifications": [],
+    "benefits": [
+      "스톡옵션",
+      "의료비지원"
+    ]
+  },
+  "latency": 4.8131630420684814
+}

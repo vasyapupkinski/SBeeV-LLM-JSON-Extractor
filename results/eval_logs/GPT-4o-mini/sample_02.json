@@ -1,0 +1,42 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "넥스트증권",
+    "position": "Data Engineer(컨텐츠플랫폼개발)",
+    "tech_stack": [
+      "Python",
+      "Go",
+      "Kotlin",
+      "SQL",
+      "Apache Kafka",
+      "Apache Spark",
+      "Databricks",
+      "AWS",
+      "PostgreSQL",
+      "Oracle"
+    ],
+    "experience": "7년 이상",
+    "location": "서울 영등포구 국제금융로 10, 3IFC 15층",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "넥스트증권",
+    "position": "Data Engineer(컨텐츠플랫폼개발)",
+    "tech_stack": [
+      "Python",
+      "Go",
+      "Kotlin",
+      "SQL",
+      "Apache Kafka",
+      "Apache Spark",
+      "Databricks",
+      "AWS",
+      "PostgreSQL",
+      "Oracle"
+    ],
+    "experience": "7년 이상의 데이터 엔지니어 경력",
+    "location": "서울 영등포구 국제금융로 10, 3IFC 15층"
+  },
+  "latency": 2.1043689250946045
+}

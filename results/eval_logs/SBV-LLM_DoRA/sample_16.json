@@ -1,0 +1,28 @@
+{
+  "model": "SBV-LLM (DoRA)",
+  "gold": {
+    "company": "컬리",
+    "position": "그로스 백엔드 개발자",
+    "tech_stack": [
+      "Kafka",
+      "MySQL",
+      "MongoDB"
+    ],
+    "experience": "5-8년",
+    "location": "서울특별시 강남구 테헤란로 133",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "컬리",
+    "position": "그로스 백엔드 개발자",
+    "tech_stack": [
+      "Kafka",
+      "MySQL",
+      "MongoDB"
+    ],
+    "experience": "5~8년",
+    "location": "서울특별시 강남구 테헤란로 133"
+  },
+  "latency": 1.659846305847168
+}

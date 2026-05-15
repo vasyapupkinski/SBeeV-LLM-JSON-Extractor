@@ -1,0 +1,20 @@
+{
+  "model": "Qwen 3.5 (Base)",
+  "gold": {
+    "company": "풀림",
+    "position": "프론트 엔지니어",
+    "tech_stack": [
+      "React",
+      "Next.js",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "experience": "3년 이상",
+    "location": "서울 강남구 테헤란로77길 11-8",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": null,
+  "latency": 4.633716821670532
+}

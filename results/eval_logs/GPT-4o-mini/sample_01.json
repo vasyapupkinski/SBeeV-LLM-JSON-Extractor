@@ -1,0 +1,33 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "풀림",
+    "position": "프론트 엔지니어",
+    "tech_stack": [
+      "React",
+      "Next.js",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "experience": "3년 이상",
+    "location": "서울 강남구 테헤란로77길 11-8",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "풀림",
+    "position": "프론트 엔지니어 (3년 이상)",
+    "tech_stack": [
+      "React",
+      "Next.js",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "REST API"
+    ],
+    "experience": "3-5년",
+    "location": "서울 강남구"
+  },
+  "latency": 2.0097928047180176
+}

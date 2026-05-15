@@ -1,0 +1,25 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "아마존(Amazon)",
+    "position": "Telecom Operations Engineer, Amazon Connect",
+    "tech_stack": [],
+    "experience": "3년 이상",
+    "location": "서울특별시 강남구 테헤란로 231 (역삼동, 센터필드 서관 12층)",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "아마존(Amazon)",
+    "position": "Telecom Operations Engineer, Amazon Connect",
+    "tech_stack": [
+      "SIP",
+      "VoIP",
+      "RTP",
+      "open source voice services"
+    ],
+    "experience": "3+ years",
+    "location": "서울특별시 강남구 테헤란로 231 (역삼동, 센터필드 서관 12층)"
+  },
+  "latency": 2.094553232192993
+}

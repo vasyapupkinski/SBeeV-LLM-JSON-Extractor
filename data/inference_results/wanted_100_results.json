@@ -1,0 +1,4289 @@
+[
+  {
+    "file_name": "353806.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "빗썸",
+      "position": "Wallet Security Engineer (블록체인)",
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Java",
+        "Kotlin",
+        "Rust"
+      ],
+      "experience": "신입 이상",
+      "location": "서울시 강남구 테헤란로 124, 삼원타워 14~18F",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "콜드/핫/웜 월렛 아키텍처 설계 및 고도화",
+        "프라이빗 키 관리 시스템 설계 및 개발",
+        "HSM/MPC 활용 아키텍처 개선",
+        "Policy as Code 기반 보안 자동화 시스템 개발",
+        "보안 모니터링 시스템 개발 및 운영",
+        "블록체인 연동 보안 취약점 검토 및 코드 개선"
+      ],
+      "requirements": [
+        "암호학 및 키 관리 원리에 대한 깊이 있는 이해",
+        "시스템 보안 아키텍처 설계 경험",
+        "Python/Go/Java/Kotlin/Rust 중 하나 이상의 언어 숙련도",
+        "Secure SDLC 및 Threat Modeling 실무 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "건강검진지원",
+        "복지포인트",
+        "식대지원",
+        "사내동호회",
+        "커피·스낵바",
+        "스낵바",
+        "휴가 150일",
+        "유연근무",
+        "휴가비",
+        "의료비",
+        "연차유급휴가",
+        "건강관리",
+        "식대지원",
+        "휴가비",
+        "의료비",
+        "연차유급휴가"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "353808.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "빗썸",
+      "position": "Senior Backend Engineer (블록체인)",
+      "tech_stack": [
+        "Java",
+        "Kotlin",
+        "Spring Boot",
+        "MySQL",
+        "Redis",
+        "Kafka"
+      ],
+      "experience": "8년 이상",
+      "location": "서울시 강남구 테헤란로 124, 삼원타워 14~18F",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "기술적 방향성 제시 및 핵심 의사결정 주도",
+        "비즈니스 로직 핵심 모듈 설계 및 구현",
+        "시스템 병목 개선 및 장애 원인 분석",
+        "자산 정합성 보장 및 동시성 이슈 해결",
+        "개발 문화 및 엔지니어링 품질 향상",
+        "팀 내 기술 멘토링 및 설계 리뷰"
+      ],
+      "requirements": [
+        "Java/Kotlin + Spring Boot 기반 서버 개발 8년 이상 실무 경험",
+        "복잡한 요구사항을 기술적 과제로 정의하고 아키텍처를 주도한 경험",
+        "RDBMS 트랜잭션 처리 및 대용량 테이블 설계/튜닝 경험",
+        "분산 시스템 설계/운영 및 장애 해결 경험",
+        "시스템 수준에서 근본적인 개선을 선호하는 태도",
+        "기술적·비기술적 언어를 오가며 명확히 설명할 수 있는 능력"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "건강검진지원",
+        "커피·스낵바",
+        "대출지원",
+        "어린이돌봄지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "353810.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "빗썸",
+      "position": "Research Engineer (블록체인)",
+      "tech_stack": [],
+      "experience": "신입 이상",
+      "location": "서울시 강남구 테헤란로 124, 삼원타워 14~18F",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "새로운 L1/L2, DeFi, Staking 프로토콜의 기술적 구조, 안정성, 보안성을 심층 분석하고 백서의 기술적 타당성을 검증합니다.",
+        "블록체인 노드의 핵심 소스코드나 주요 스마트 컨트랙트 코드를 직접 분석하여, 문서화되지 않은 특성이나 잠재적 보안 취약점, 버그 등을 파악하고 대응 방안을 수립합니다.",
+        "리서치한 기술을 실제 거래소 시스템에 적용하기 위한 기술 검증을 수행하고, 연동 아키텍처를 설계하며 기술적 위험 요소를 사전에 식별합니다.",
+        "빗썸의 미래 플랫폼 강화를 위해 필요한 핵심 블록체인 기술들(예: L2 기술 스택 등)을 선제적으로 리서치하여, 실제 시스템 구현에 필요한 기술적 기반을 다지고, 적용 전략 수립에 핵심적으로 기여합니다."
+      ],
+      "requirements": [
+        "블록체인, 암호학, 분산 시스템에 대한 깊이 있는 공학적 이해를 보유하신 분",
+        "기술 논문, 백서, 영문 기술 문서를 원활하게 읽고 핵심을 파악하는 능력을 보유하신 분",
+        "Geth, 비트코인 코어 등 오픈소스 블록체인 프로젝트의 소스코드 또는 스마트 컨트랙트 코드를 읽고 분석할 수 있는 능력을 보유하신 분",
+        "Python, Go, Rust, C++ 등 하나 이상의 언어를 활용한 PoC 개발 또는 시스템 분석 역량을 보유하신 분",
+        "복잡한 기술적 내용을 논리적으로 분석하고 명료하게 문서화하는 역량을 보유하신 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "건강검진지원",
+        "복지포인트",
+        "커피·스낵바",
+        "사내동호회"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "353818.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "빗썸",
+      "position": "Backend 개발자 (3년 이상)",
+      "tech_stack": [
+        "Java",
+        "Kotlin",
+        "Spring Boot",
+        "RDBMS",
+        "Redis",
+        "AWS",
+        "Git",
+        "JPA",
+        "QueryDSL"
+      ],
+      "experience": "3년 이상",
+      "location": "서울시 강남구 테헤란로 124, 삼원타워 14~18F",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "가상자산 거래소 플랫폼 서비스 개발 및 고도화",
+        "대고객 서비스 기능 설계 및 구현",
+        "안정적이고 확장 가능한 RESTful API 설계 및 개발",
+        "고성능 서비스 아키텍처 구성 및 최적화",
+        "서비스 품질 향상을 위한 성능·안정성 개선 및 운영 고도화"
+      ],
+      "requirements": [
+        "백엔드 개발 경력 3년 이상 보유",
+        "복잡한 비즈니스 로직을 안정적 아키텍처로 설계 및 구현 가능",
+        "Java / Kotlin 기반 Spring Boot 서비스 개발 경험 보유",
+        "RESTful API 설계 및 개발 경험 보유",
+        "RDBMS, Redis 등 데이터베이스 및 캐시 시스템 활용 경험 보유",
+        "AWS 환경에서의 개발·운영 경험 보유",
+        "Git을 활용한 소스 형상관리 경험 보유",
+        "JPA, QueryDSL 등 ORM 활용 경험 보유",
+        "트랜잭션 처리 및 데이터 정합성 유지에 대한 이해와 실무 경험 보유",
+        "다양한 직군과 원활히 협업할 수 있는 커뮤니케이션 능력 보유",
+        "단순 구현을 넘어 장기적 시스템 설계에 관심 보유",
+        "어려운 기술적 문제에 직면했을 때 주도적으로 해결책을 탐색하고 완성할 수 있는 문제 해결 능력 보유"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "건강검진지원",
+        "복지포인트"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "353819.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "빗썸",
+      "position": "Backend Engineering 팀장 (블록체인)",
+      "tech_stack": [
+        "Java",
+        "Kotlin",
+        "Spring Boot"
+      ],
+      "experience": "8-16년",
+      "location": "서울시 강남구 테헤란로 124, 삼원타워 14~18F",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "엔지니어링 조직 리딩 및 채용/온보딩/평가/조직 운영 책임",
+        "팀 아키텍처 방향 및 기술 스택/품질 기준 검토",
+        "기술 부채 상환 및 신규 기능 개발 우선순위 결정",
+        "JIRA 기반 스프린트 운영 및 애자일 프로세스 설계",
+        "팀원 성장 지원 및 저성과자 코칭/고성과자 성장 기회 설계",
+        "저항적 문화와 높은 기준을 통한 팀 성장 환경 조성"
+      ],
+      "requirements": [
+        "엔지니어링 조직 리딩 및 Tech Lead 역할 수행 역량",
+        "Java/Kotlin/Spring Boot 백엔드 기술 이해 및 엔지니어링 이슈 판단력",
+        "SOLID/디자인 패턴/아키텍처 패턴 등 소프트웨어 공학 지식",
+        "스프린트/칸반/백로그 관리 등 애자일 프로세스 적용 경험",
+        "성과 관리/피드백/1:1 미팅/목표 설정 경험 및 저성과자 개선 역량",
+        "유관 부서와의 협상 및 기술적 제약과 비즈니스 목표 간 합의 능력"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "합격보상",
+        "식대지원",
+        "건강검진지원",
+        "복지포인트"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "353826.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "디스터",
+      "position": "백엔드 개발자(AI Agent)",
+      "tech_stack": [
+        "TypeScript",
+        "PostgreSQL"
+      ],
+      "experience": "3년 이상",
+      "location": "서울 강남구 강남대로 364, 12층 패스트파이브",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "커머스 운영 효율화를 위한 AI Agent 및 백엔드 기능 개발",
+        "API, 데이터 모델, 비동기 처리 구조 설계 및 구현",
+        "운영 데이터 파이프라인 개발 및 실행 결과 검증·개선"
+      ],
+      "requirements": [
+        "백엔드 개발 3년 이상 경험",
+        "TypeScript 기반 서버 애플리케이션 설계·개발·운영 경험",
+        "PostgreSQL 등 RDB 기반 데이터 모델 설계 및 쿼리 작성·개선 경험",
+        "외부 서비스 연동을 실서비스에 안정적으로 적용·운영 경험",
+        "Queue, Worker 등 비동기 처리 구조 설계 및 운영 경험",
+        "분석, 대시보드, 자동화 기능 활용 가능한 데이터 파이프라인 또는 ETL/ELT 구조 설계·구현 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "워크샵",
+        "자율복장",
+        "유급휴가",
+        "자기계발지원",
+        "자유로운휴가",
+        "커피·스낵바"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "353835.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "CYTUR",
+      "position": "인프라 엔지니어(DevOps)",
+      "tech_stack": [
+        "Kubernetes",
+        "OpenSearch",
+        "MySQL",
+        "Ansible",
+        "Terraform",
+        "CI/CD",
+        "Linux",
+        "Shell Script",
+        "VLAN",
+        "RAID",
+        "iDRAC",
+        "IPMI",
+        "systemd",
+        "journalctl"
+      ],
+      "experience": "3년 이상",
+      "location": "서울 금천구 벚꽃로36길 30, 901~908호",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "클라우드 및 온프레미스 환경 구축 및 운영",
+        "폐쇄망 내 서버 및 네트워크 인프라 설치, 구성, 운영",
+        "리눅스 기반 시스템 환경 구축 및 장애 대응",
+        "Kubernetes 기반 애플리케이션 운영 및 클러스터 관리",
+        "OpenSearch, MySQL 등 데이터 서비스 구축 및 성능 관리",
+        "네트워크 스위치 및 방화벽 설정, VLAN 구성, 트래픽 모니터링",
+        "사내 인프라 운영 및 관리"
+      ],
+      "requirements": [
+        "리눅스 서버 운영 경험 3년 이상",
+        "네트워크 장비(스위치, 라우터 등) 구성 및 장애 대응 경험",
+        "Kubernetes 기반 클러스터 구축 및 운영 경험",
+        "CI/CD 파이프라인 구축·운영 경험 및 자동 배포·인프라 자동화 경험",
+        "하드웨어 및 스토리지 구성 이해 (RAID, iDRAC/IPMI 등)",
+        "기본적인 Shell Script 또는 자동화 스크립트 작성 능력",
+        "Ansible, Terraform 등 IaC 도구 사용 경험",
+        "장애 대응 및 로그 분석 능력 (systemd, journalctl, OpenSearch 등)"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "보너스",
+        "연봉상위6~10%"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "353839.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "CYTUR",
+      "position": "QA 엔지니어",
+      "tech_stack": [],
+      "experience": "3년 이상",
+      "location": "서울 금천구 벚꽃로36길 30, 901~908호",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "해양·선박사이버보안 솔루션의 QA 전략수립 및 테스트 수행/결과 보고",
+        "선내 OT/IT 네트워크와 데이터 흐름을 반영한 기능·통합 품질 검증",
+        "선박·선사 환경기반 테스트베드에서 보안이벤트 시나리오 검증",
+        "API, UI, 배치/스케줄러, 데이터 파이프라인 전반의 예외 상황 테스트 및 자동화",
+        "릴리즈 검증, 결함 관리, 유관 부서 협업을 통한 제품 품질 고도화 지원"
+      ],
+      "requirements": [
+        "플랫폼, 솔루션, 또는 B2B 시스템의 테스트 설계 및 수행 경험 3년 이상",
+        "API/UI/통합 테스트 및 결함 분석 경험 보유",
+        "간단한 스크립트(Bash/Python 등)를 활용한 테스트 수행 능력 보유",
+        "테스트 결과 문서화 및 기획/개발/운영 조직과의 협업 역량 보유"
+      ],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "353860.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "미리캔버스",
+      "position": "Product Engineer",
+      "tech_stack": [
+        "TypeScript",
+        "React",
+        "Next.js",
+        "PostgreSQL"
+      ],
+      "experience": "1년 이상",
+      "location": "서울 구로구 디지털로31길 12, 8층, 13층, 14층, 17층",
+      "salary_range": null,
+      "employment_type": "계약직",
+      "main_tasks": [
+        "디자인 온톨로지 데이터 등록/수정/검수/운영 내부 시스템 개발",
+        "AI 프레젠테이션 기능 검증 PoC 설계 및 구현",
+        "백오피스 및 실험 도구 개발을 통한 데이터 품질 및 운영 효율 개선",
+        "PM, AI Researcher, Backend Engineer와 협업하여 MVP 고도화",
+        "데이터 품질, 작업 속도, 기능 정확도 등 핵심 지표 개선"
+      ],
+      "requirements": [
+        "풀스택 또는 웹 기반 제품 개발 경험",
+        "TypeScript, React 또는 Next.js 개발 경험",
+        "PostgreSQL 등 관계형 데이터베이스 다루기",
+        "REST API 설계 또는 연동 경험",
+        "제품 중심의 문제 해결 능력",
+        "빠른 실험과 배포에 익숙함"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "연봉상위11~20%"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "353907.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "GC메디아이",
+      "position": "DevOps Engineer (4~9년)",
+      "tech_stack": [
+        "Azure",
+        "Python",
+        "AWS",
+        "Go",
+        "Bash",
+        "GCP",
+        "Nginx",
+        "Apache Kafka",
+        "Kubernetes",
+        "Grafana",
+        "Prometheus"
+      ],
+      "experience": "4년 이상 9년 이내",
+      "location": "서울 성동구 왕십리로 241, LF층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "클라우드 네이티브 플랫폼 설계 및 인프라 구축",
+        "개발 생산성 향상을 위한 플랫폼 기반 마련",
+        "플랫폼 안정성 확보 및 관찰성 강화",
+        "의료 데이터 보안 및 컴플라이언스 대응",
+        "플랫폼 운영 및 구축에 필요한 서비스 모듈 개발"
+      ],
+      "requirements": [
+        "경력 4년 이상 9년 이내",
+        "대졸(학사) 이상",
+        "Kubernetes 기반 클라우드 네이티브 환경 설계·운영 경험 (3년 이상)",
+        "AWS, Azure, GCP 중 1개 이상 실무 경험",
+        "Helm Chart 작성 및 CI/CD 파이프라인 설계·구축·운영 경험",
+        "컨테이너 오케스트레이션, 네트워킹, 스토리지에 대한 이해",
+        "Kafka 기반 메시지 스트리밍 환경 운영",
+        "WEB API 설계·개발·배포·운영 경험",
+        "자동화 스크립트/도구 개발 가능 (Go, Python, Bash 등)",
+        "AI Agent를 활용한 코드·스크립트 작성 및 자동화 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "단체보험",
+        "편의시설"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "353919.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "미트박스",
+      "position": "Front-end 개발자",
+      "tech_stack": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Next.js",
+        "Vue",
+        "Nuxt",
+        "RESTful API"
+      ],
+      "experience": "3년 이상",
+      "location": "서울 강남구 테헤란로34길 22, 미트박스글로벌빌딩",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "미트매치 및 MIT 프론트엔드 서비스 설계·개발·운영",
+        "UI/UX 개선 및 반응형 인터페이스 구현",
+        "API 연동 및 백엔드 협업을 통한 서비스 고도화",
+        "프론트엔드 아키텍처 개선 및 최적화",
+        "코드 품질 및 생산성 향상 활동"
+      ],
+      "requirements": [
+        "JavaScript(ES6+) 및 TypeScript 활용 능숙도",
+        "React 또는 Vue/Nuxt 기반 서비스 개발 경력 3년 이상",
+        "RESTful API 연동 및 비동기 처리 이해",
+        "Git 기반 협업 및 CI/CD 환경 경험",
+        "디자인 시스템 및 상태 관리(Vuex, Pinia, Recoil 등) 이해"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "장비지원",
+        "건강검진지원",
+        "식대지원",
+        "수평적조직",
+        "자유로운휴가"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "353940.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "Supercent",
+      "position": "데이터 사이언티스트",
+      "tech_stack": [
+        "Python",
+        "pandas",
+        "scikit-learn",
+        "numpy",
+        "SQL",
+        "XGBoost",
+        "LightGBM",
+        "TensorFlow",
+        "PyTorch",
+        "Apache Spark",
+        "Git",
+        "Docker",
+        "Kubernetest",
+        "Kubeflow Pipelines",
+        "Apache Airflow",
+        "Google Cloud Platform",
+        "Vertex AI",
+        "BigQuery",
+        "Cloud Storage",
+        "Dataflow",
+        "Tableau",
+        "Looker",
+        "Power BI"
+      ],
+      "experience": "3-35년",
+      "location": "서울 송파구 올림픽로 300, 롯데월드타워 9층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "예측 분석 및 머신러닝 모델 개발",
+        "LTV 및 ROAS 예측 모델 개발 및 최적화",
+        "고가치 유저 행동 예측 모델링",
+        "SKAN 4.0 기반 모바일 마케팅 attribution 모델 구축",
+        "사용자 세그멘테이션 및 개인화 추천 시스템 개발",
+        "ML 파이프라인 구축 및 모델 성능 모니터링",
+        "A/B 테스트 설계 및 실험"
+      ],
+      "requirements": [
+        "데이터 사이언스/통계학/컴퓨터공학 전공자 또는 실무 경험자",
+        "Python 및 SQL 능숙자",
+        "분류/회귀 모델 개발 및 하이퍼파라미터 튜닝 경험자",
+        "A/B 테스트 설계 및 통계적 유의성 검증 경험자"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "커피·스낵바",
+        "건강검진지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "353953.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "보살핌",
+      "position": "프로덕트 엔지니어(Lead 급)",
+      "tech_stack": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "TailwindCSS",
+        "NestJS",
+        "Ruby",
+        "Kotlin",
+        "PostgreSQL",
+        "GCP",
+        "AWS",
+        "Docker",
+        "Redis"
+      ],
+      "experience": "5-15년",
+      "location": "서울 강남구 역삼로 172, 마루 360",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "데이터 계층의 성능과 운영 효율 개선",
+        "공통 인프라 설계 및 운영",
+        "End-to-End 제품 개발",
+        "팀 생산성·품질 기준 수립",
+        "전사 Tech Lead로의 확장"
+      ],
+      "requirements": [
+        "제품 개발 경험이 풍부하면서 백엔드·인프라 영역에서도 깊이 있는 경험을 가진 분",
+        "프론트·백 경계 없이 성능·장애·제품 개선 문제를 끝까지 추적해 만들어주는 분",
+        "다른 엔지니어들에게 기술적 조언과 피드백을 줄 수 있는 분",
+        "AI·에이전트를 활용해 본인의 생산성을 높이고 비개발자까지 지원하는 자동화를 만들어 본 분",
+        "새로운 도메인·기술을 빠르게 학습하고 변화하는 팀 상황에 본인의 역할 경계를 유연하게 재정의할 수 있는 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "스톡옵션",
+        "식대지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354013.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "인핸스",
+      "position": "Backend Engineer",
+      "tech_stack": [
+        "Spring Boot",
+        "Fast API",
+        "SQL DB",
+        "SaprkSQL"
+      ],
+      "experience": "5년 이상",
+      "location": "서울 서초구 서초중앙로8길 89-17",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "Commerce OS Backend 시스템 설계 및 개발",
+        "Multi Agent 기반 시스템 구축",
+        "대규모 Socket / Stream 통신 처리",
+        "데이터 처리 워크플로우 개발 및 데이터 정규화 진행",
+        "Ontology 형태의 지식 DB 및 Graph 데이터 처리"
+      ],
+      "requirements": [
+        "Spring Boot 환경 또는 Fast API 개발 환경 내 백엔드 개발 경력 (5년 이상)",
+        "대규모 처리 및 Socket 처리 경험",
+        "SQL DB 및 SaprkSQL 개발 경험",
+        "Application 백엔드 시스템 설계 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "자기계발지원",
+        "커피·스낵바",
+        "50명이하",
+        "설립3년이하",
+        "인원 급성장",
+        "워크샵",
+        "연봉상위6~10%",
+        "보너스",
+        "AI 선도 기업",
+        "장비지원",
+        "재택근무"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354018.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "브이디로보틱스",
+      "position": "시니어 백엔드 개발자 (로봇 통합 미들웨어 코어 개발)",
+      "tech_stack": [
+        "Java",
+        "Spring Boot",
+        "Python",
+        "Node.js",
+        "Go",
+        "AWS",
+        "GCP",
+        "Kafka",
+        "Redis"
+      ],
+      "experience": "5년 이상 (대리·과장급)",
+      "location": "서울 금천구 가산디지털단지",
+      "salary_range": null,
+      "employment_type": "정규직",
+      "main_tasks": [
+        "정부 과제 PoC 연동 개발",
+        "이기종 통신 번역 및 중계 엔진 개발",
+        "대규모 실시간 데이터 파이프라인 구축",
+        "동시성 제어 및 임무 할당 로직 구현"
+      ],
+      "requirements": [
+        "백엔드 서버 및 클라우드 시스템 개발 경력 5년 이상",
+        "AWS/GCP 등 클라우드 환경을 독자적으로 구축한 경험",
+        "대규모 트래픽 분산 처리 시스템 실무 개발 및 튜닝 경험",
+        "RESTful API, WebSocket, MQTT 등 실시간 통신 프로토콜 활용 경험",
+        "복잡한 비즈니스 로직을 MSA 또는 모듈 구조로 나누어 구현해 본 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "354019.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "브이디로보틱스",
+      "position": "R&D 총괄 테크니컬 PM (로봇 플랫폼 미들웨어 기획 및 정부과제 리드)",
+      "tech_stack": [],
+      "experience": "7년 이상 (과·차장/팀장급)",
+      "location": "서울 금천구 가산디지털단지",
+      "salary_range": null,
+      "employment_type": "정규직",
+      "main_tasks": [
+        "로봇 플랫폼 아키텍처 및 API 기획",
+        "데이터 기반 서비스 시나리오 기획",
+        "외부 파트너 및 시스템 연동 관리",
+        "정부 R&D 과제 총괄 리딩",
+        "기술 IP 및 자산화 전략 관리"
+      ],
+      "requirements": [
+        "IT/SW 플랫폼 기획, B2B 솔루션 아키텍트 또는 Technical PM 경력 7년 이상",
+        "정부 R&D 과제의 기획 수행 정산까지 Full-cycle 리딩 경험 (PL급)",
+        "클라우드, API, 데이터베이스 등 시스템 구조에 대한 높은 이해도",
+        "복잡한 기술 구조를 비전문가도 이해할 수 있도록 문서화 및 설명할 수 있는 능력",
+        "다양한 이해관계자(개발, 사업, 외부기관)와 협업 및 조율 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "354023.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "티냅스",
+      "position": "Applied AI Engineer",
+      "tech_stack": [],
+      "experience": "5-11년",
+      "location": "서울 강남구 강남대로94길 69, 5층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "hallucination, jailbreak, prompt injection, data leakage 탐지 경량 모델 연구/개발",
+        "글로벌 벤치마크와 내부 평가 체계에서 모델 성능을 지속적으로 개선",
+        "Platform Engineer와 협업, 0.2초 SLA 안에서 서빙되는 모델 구현",
+        "Solution Engineer를 통해 들어오는 고객 failure case를 모델/평가 체계에 반영"
+      ],
+      "requirements": [
+        "ML/DL 모델 학습부터 프로덕션 적용까지 5년 이상의 경험",
+        "NLP 또는 LLM 관련 연구/개발 경험"
+      ],
+      "preferred_qualifications": [
+        "연구와 제품화를 한 사람이 오갈 수 있는 분",
+        "모델 정확도뿐 아니라 latency, serving, cost까지 함께 고민하시는 분"
+      ],
+      "benefits": [
+        "스톡옵션",
+        "매쉬업벤처스 투자기업"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354025.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "티냅스",
+      "position": "AI Evaluation & Policy Lead",
+      "tech_stack": [],
+      "experience": "6년 이상",
+      "location": "서울 강남구 강남대로94길 69, 5층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "금융, 공공, 의료, 제조 산업의 위험 시나리오와 실패 분류 체계 정의",
+        "각 산업별 허용/차단 정책 기준 설계",
+        "모델 출력에 대한 ground truth 기준 및 평가 데이터셋, 벤치마크, 회귀 기준 설계",
+        "라벨링 가이드라인, escalation 정책, 사람 검수 등 운영 체계 구축",
+        "Applied AI Engineer, Solution Engineer, 제품팀과 협업하여 고객 피드백과 실패 사례를 제품 개선과 정책 고도화로 연결",
+        "고객사별 요구사항을 일회성 커스텀이 아닌 재사용 가능한 정책·평가 체계로 구조화"
+      ],
+      "requirements": [
+        "AI 평가·정책·Trust & Safety, 또는 규제 산업의 위험·정책 분야에서 6년 이상의 경험",
+        "AI 시스템의 평가 기준, 정책 기준, 운영 체계 중 하나 이상을 직접 설계하고 운영해본 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "스톡옵션",
+        "매쉬업벤처스 투자"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354026.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "티냅스",
+      "position": "Platform Engineer",
+      "tech_stack": [
+        "Python",
+        "Go",
+        "Rust",
+        "C++"
+      ],
+      "experience": "6년 이상",
+      "location": "서울 강남구 강남대로94길 69, 5층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "Runtime Trust Layer의 플랫폼/서빙 아키텍처 설계 및 구현",
+        "AI 모델 파이프라인과 연동되는 실시간 탐지·차단·로깅 시스템 구축",
+        "0.2초 SLA를 위한 profiling, 성능 모니터링, 최적화 주도",
+        "온프렘, 프라이빗 클라우드, 퍼블릭 클라우드 등 다양한 배포 환경을 지원하는 공통 플랫폼 설계",
+        "observability, reliability, deployment automation 등 운영 신뢰성 체계 구축",
+        "Applied AI Engineer와 협업, 경량 탐지 모델이 최적으로 서빙되는 환경 구축",
+        "NVIDIA NeMo/NIM, AWS, enterprise runtime stack과 자연스럽게 연결되는 구조 설계"
+      ],
+      "requirements": [
+        "실시간 시스템, 분산 시스템, 또는 백엔드 플랫폼 아키텍처 설계 경험 6년 이상",
+        "Python, Go, Rust, C++ 중 하나 이상을 실무 수준으로 다룰 수 있음"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "스톡옵션",
+        "매쉬업벤처스 투자기업"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354044.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "카운트다운에이아이",
+      "position": "풀스택 개발자",
+      "tech_stack": [
+        "Python",
+        "React",
+        "PostgreSQL"
+      ],
+      "experience": "2년 이상 ~ 5년 이하",
+      "location": "서울 강남구 강남대로 372",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "AI 코딩 도구를 이용한 소프트웨어 개발",
+        "Python 및 React 기반 웹 서비스 개발",
+        "RDBMS 설계 및 쿼리 최적화",
+        "UI/UX 디자인 구현 및 프론트엔드/백엔드 연결"
+      ],
+      "requirements": [
+        "AI 코딩 도구를 능숙하게 활용하여 개발 생산성을 극대화한 경험",
+        "Python 및 React를 활용한 웹 서비스 개발 실무 경험 2년 이상",
+        "PostgreSQL 등 RDBMS 설계 및 쿼리 최적화 경험",
+        "Figma를 기반으로 UI/UX 디자인 의도를 정확히 파악한 경험",
+        "경력 2년 이상 ~ 5년 이하",
+        "대학교 졸업(4년) 이상"
+      ],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "354046.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "카운트다운에이아이",
+      "position": "프론트엔드 개발자",
+      "tech_stack": [
+        "React",
+        "Redux",
+        "Recoil",
+        "Figma"
+      ],
+      "experience": "2년 이상 ~ 5년 이하",
+      "location": "서울 강남구 강남대로 372",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "AI 코딩 도구를 이용한 SW 개발",
+        "React 기반 웹 서비스 개발 및 운영",
+        "디자이너 및 기획자와 협업하여 UI/UX 구현",
+        "컴포넌트 중심 설계 및 웹 성능 최적화"
+      ],
+      "requirements": [
+        "React 웹 서비스 개발 및 운영 실무 경험 2년 이상",
+        "Figma 기반 협업 및 UI/UX 코드로 구현 경험",
+        "컴포넌트 중심 설계 및 상태 관리 라이브러리 활용",
+        "웹 성능 최적화 경험",
+        "대학교 졸업 4년 이상"
+      ],
+      "preferred_qualifications": [
+        "AI 코딩 도구를 능숙하게 활용하여 개발 생산성을 극대화한 경험",
+        "코드 품질 향상을 위한 경험"
+      ],
+      "benefits": [
+        "유수의 투자 유치 및 TIPS 프로그램 선정 기업",
+        "글로벌 유저 150만 명 이상 확보",
+        "AI 이미지 기술 선도 기업"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354048.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "PROPER MARKET",
+      "position": "AI FDE(Forward Deployed Engineer, AX 매니저)",
+      "tech_stack": [
+        "Claude Code",
+        "OpenAI Codex",
+        "Google Antigravity",
+        "Cursor",
+        "LLM API",
+        "Anthropic Claude",
+        "OpenAI",
+        "Google AI"
+      ],
+      "experience": "신입-경력 8년",
+      "location": "서울 종로구 율곡로 33, 안국빌딩 11층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "경영지원 및 비즈니스·크리에이티브 조직에서 AI 기반 업무 자동화 및 최대화 프로젝트 수행",
+        "LLM API(OpenAI, Anthropic Claude 등)를 활용한 업무 자동화 솔루션 설계·개발·배포",
+        "코딩 에이전트(Cursor, Claude Code 등)를 활용한 빠른 프로토타이핑 및 구현",
+        "AI Creative Tool의 적재적소 활용을 통한 Creative에서 생산성 및 퀄리티 혁신",
+        "현업 담당자와 긴밀히 협업하여 자동화 대상 업무 발굴 및 요구사항 정의",
+        "현업 자동화 및 최대화를 위한 연관 데이터·시스템 파악 및 통합",
+        "자동화 결과물의 운영 안정화, 문서화 및 현업 이관 지원",
+        "새로운 AI 기술(모델, 에이전트, 툴 등)을 먼저 파악하고 깊이 이해하여 전사에 전파·교육"
+      ],
+      "requirements": [
+        "Claude Code, OpenAI Codex, Google Antigravity, Cursor 등 코딩 에이전트를 활용한 AI Native 개발 역량",
+        "LLM/AI API 활용 경험 (OpenAI, Anthropic, Google AI 등 1개 이상)",
+        "PO(Product Owner) 관점에서 문제 정의부터 솔루션 구현까지 독립적으로 수행 가능한 역량",
+        "비개발 직군과의 원활한 협업이 가능한 커뮤니케이션 역량",
+        "빠르게 변화하는 AI 기술 트렌드에 대한 높은 학습 의지와 적응력"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "휴가비",
+        "식대지원",
+        "보너스"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354177.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "바비톡",
+      "position": "Data Scientist",
+      "tech_stack": [
+        "AWS S3",
+        "Amazon Athena",
+        "Amazon Quicksight",
+        "Amplitude",
+        "Claude",
+        "Gemini",
+        "OpenClaw"
+      ],
+      "experience": "5년 이상",
+      "location": "서울특별시 서초구 강남대로363, 363타워 11층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "광고 과금 구조 분석 및 시뮬레이션 모델 구축",
+        "광고주/사용자/플랫폼 상생 구조 제안",
+        "성형/시술 이벤트 및 병원 랭킹 알고리즘 설계",
+        "사용자 세그먼트 정의 및 체계화",
+        "모델 배포 후 성능 모니터링 및 최적화"
+      ],
+      "requirements": [
+        "Data Scientist 경력 5년 이상",
+        "Cloud 기반 데이터 웨어하우스 환경에서의 대규모 데이터 핸들링 경험",
+        "비즈니스 모델 해석 및 최적화 능력",
+        "Multi-objective Ranking 모델 고도화 능력"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "커피·스낵바",
+        "건강검진지원",
+        "보너스",
+        "자기계발지원",
+        "유망산업",
+        "51~300명",
+        "일·가정 양립",
+        "임직원할인",
+        "설립10년이상",
+        "육아휴직",
+        "휴가비",
+        "뷰티산업",
+        "스톡옵션"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354192.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "토스씨엑스",
+      "position": "Information Security Manager (정보보안 정책/기획 담당)",
+      "tech_stack": [],
+      "experience": "3년 이상",
+      "location": "서울 구로구 경인로 662, 12,13층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "개인정보보호 관리체계 구축·운영 및 개선",
+        "개인정보 처리 흐름 기반 위험요인 점검 및 취약점 개선",
+        "외부 연계 시 보안 요건 확인 및 점검",
+        "정보보호 인증 유지 및 감사 대응",
+        "정보보호 관련 내부 정책 수립·개정 및 거버넌스 운영",
+        "수탁사 개인정보보호 수준 점검 및 관리체계 운영",
+        "내부 통제 점검 및 개선",
+        "보안 솔루션 운영 모니터링 및 후속 조치"
+      ],
+      "requirements": [
+        "정보보안 또는 개인정보보호 실무 경험 3년 이상",
+        "정보보호 인증 심사 대응 리딩 경험",
+        "정보보호 정책 수립 및 운영 경험",
+        "위탁 보안 관리 또는 외부 연계 보안 요건 검토 경험",
+        "경영진 및 유관 부서 커뮤니케이션 능력",
+        "금융/핀테크 보안 업무 경험",
+        "스타트업 보안 체계 구축 경험",
+        "CPO/CISO 협업 경험",
+        "개인정보 영향평가 또는 개인정보보호 인증 실무 경험"
+      ],
+      "preferred_qualifications": [
+        "스타트업에서 보안 체계를 구축한 경험",
+        "CPO/CISO와 협업하며 보안 거버넌스를 운영한 경험",
+        "개인정보 영향평가 또는 개인정보보호 인증 실무 경험"
+      ],
+      "benefits": [
+        "보너스",
+        "커피·스낵바",
+        "편의시설",
+        "단체보험",
+        "식대지원",
+        "건강검진지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354194.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "아정당 서울",
+      "position": "QA Engineer",
+      "tech_stack": [
+        "Confluence",
+        "JIRA",
+        "SQL",
+        "셀레니움"
+      ],
+      "experience": "4년이상 ~ 6년이하",
+      "location": "서울특별시 강남구 역삼1동 테헤란로 124 삼원타워 19층, 아정네트웍스 124",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "플랫폼 스쿼드 전담 QA로서 기획 단계부터 배포까지 전반적인 품질 관리 주도",
+        "CRM 서비스 및 QA 팀 내 유동적인 프로젝트 상황에 따른 유연한 테스트 수행 및 협업",
+        "DB 데이터 조작 및 Postman을 활용한 백엔드 로직 검증 및 배치(Batch) 결과 검증",
+        "유관 부서와 원활한 소통을 통해 결함 원인을 기술적으로 분석하고 품질 개선 프로세스 제안"
+      ],
+      "requirements": [
+        "대졸 이상",
+        "웹/모바일 소프트웨어 QA 경력 4년~6년 이하 또는 그에 준하는 경험을 보유하신 분",
+        "신규 서비스 설계 검토부터 QA 계획 수립, 테스트 실행, 운영 QA까지 전 과정 리딩 경험을 보유하신 분",
+        "SQL 쿼리를 활용한 데이터 조회 및 직접적인 데이터 수정을 통해 특정 테스트 시나리오를 강제 재현할 수 있는 분",
+        "Postman 등 도구를 활용하여 API 응답값 및 백엔드 비즈니스 로직을 검증할 수 있는 분",
+        "JIRA, Confluence 등 협업 도구를 활용한 요구사항 분석 및 능동적인 이슈 커뮤니케이션 역량을 보유하신 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "건강검진지원",
+        "커피·스낵바",
+        "스낵바",
+        "스낵바"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354196.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "똑똑한개발자",
+      "position": "AI Agent Engineer",
+      "tech_stack": [
+        "Claude Agent SDK",
+        "LangChain",
+        "LangGraph"
+      ],
+      "experience": "3-5년",
+      "location": "서울 마포구 홍익로5안길 28, 5층 똑똑한개발자",
+      "salary_range": null,
+      "employment_type": "계약직",
+      "main_tasks": [
+        "고객사 워크플로우에 맞는 AI 파이프라인 설계",
+        "실제 업무에서 작동하는 자동화 로직 구현",
+        "AI 거버넌스 설계 및 운영",
+        "프로젝트 간 기술 인사이트 공유 및 구조화"
+      ],
+      "requirements": [
+        "LLM/Agent 기술을 실제 문제에 적용한 경험",
+        "구조화되지 않은 조직 문제를 기술로 풀어본 경험",
+        "Claude Agent SDK/LangChain/LangGraph 활용 경험",
+        "빠르게 도메인 적응 및 기술 제안 능력"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "식대지원",
+        "자유로운휴가",
+        "건강검진지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354203.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "SDT",
+      "position": "임베디드 하드웨어 플랫폼 개발",
+      "tech_stack": [],
+      "experience": "3년 이상",
+      "location": "서울 강남구 테헤란로44길 5 대아빌딩 10층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "하드웨어 회로 설계 및 개발",
+        "PCB 설계 및 제작(외주관리)",
+        "제품 인증/양산화/기술문서 작성",
+        "프로토 타입 제작 및 테스트"
+      ],
+      "requirements": [
+        "하드웨어 회로 설계 및 개발 업무 경험",
+        "8층 이상의 PCB 설계 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "스톡옵션",
+        "건강검진지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354205.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "똑똑한개발자",
+      "position": "Product Builder",
+      "tech_stack": [],
+      "experience": "3-5년",
+      "location": "서울 마포구 홍익로5안길 28, 5층 똑똑한개발자",
+      "salary_range": null,
+      "employment_type": "계약직",
+      "main_tasks": [
+        "고객의 업무 구조를 분석하고 문제를 정의하여 해결 가능한 형태로 구조화한다",
+        "LLM, Agent, Automation 등 AI를 활용하여 실제 업무에서 작동하는 워크플로우와 시스템을 설계한다",
+        "서비스 및 기능을 workflow 단위로 설계하고 직접 구현 및 프로토타이핑을 진행한다",
+        "고객과의 지속적인 커뮤니케이션을 통해 방향성을 정렬하고 프로젝트를 리딩한다",
+        "프로젝트에서 얻은 인사이트를 구조화하여 다른 프로젝트에도 재사용 가능한 형태로 확장한다",
+        "프로젝트 과정에서 얻은 인사이트를 AI Agent Engineer 팀에 공유하여 조직 전반의 시스템 고도화에 기여한다"
+      ],
+      "requirements": [
+        "LLM(ChatGPT, Claude 등)을 활용한 문제 해결, Prompt 설계 및 AI 기반 workflow 구성 및 AI를 단순 도구가 아닌 시스템으로 활용해본 경험이 있는 분",
+        "모호한 상황을 명확한 문제로 정의하고 해결 가능한 구조로 정리할 수 있는 분",
+        "기획과 개발 사이를 이해하고 실제 구현까지 이어갈 수 있는 분",
+        "고객과 직접 소통하며 방향을 정리하고 설득할 수 있는 분",
+        "직접 만들고 검증하는 것에 익숙한 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "식대지원",
+        "자유로운휴가",
+        "건강검진지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354208.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "맘맘",
+      "position": "Backend Engineer",
+      "tech_stack": [
+        "Python"
+      ],
+      "experience": "3-8년",
+      "location": "서울 강남구 테헤란로52길 17, ES타워 8층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "E-Commerce 중계 시스템 개발 및 운영",
+        "시스템 스케일업에 따른 신규 서버 구성",
+        "멤버십 기능 구현",
+        "시스템 자동화 툴 개발",
+        "백오피스 구현"
+      ],
+      "requirements": [
+        "Python 언어 개발 경험자",
+        "서버 개발자로 실무 3년차 이상 또는 그에 준하는 역량을 보유하신 분",
+        "기획자, 개발자, 사업부문 등 다양한 분야의 동료와 명확하고 유연한 소통이 가능한 분",
+        "오너십과 집요함 - 그냥 '좋아요' 하고 넘어가지 않고, 의문과 찜찜함을 끝까지 파고드는 분",
+        "도전과 성장을 갈망하는 분, 불가능해 보이는 높은 목표에 흥분하고 달성코자 하는 높은 전투력 있는 분",
+        "요행과 행운이 아닌, 노력과 헌신이 성공의 필수 조건이라고 믿는 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "354219.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "하이퍼이지",
+      "position": "Forward Deploy Engineer (FDE)",
+      "tech_stack": [
+        "Python",
+        "TypeScript",
+        "LLM",
+        "RAG",
+        "GitHub",
+        "Docker",
+        "PostgreSQL"
+      ],
+      "experience": "신입-경력 4년",
+      "location": "경기 성남시 수정구 대왕판교로 815 메타버스 허브",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "고객 현장의 데이터, 프로세스를 깊이 있게 이해하고 실제 문제 진단",
+        "온톨로지 기반 AI Agent 설계 및 개발",
+        "Company OS(기업 맞춤형 AI 운영체제) 구축 및 배포",
+        "AI 기반 솔루션이 현장에서 안정적으로 작동하도록 책임지고 개선",
+        "프로토타입을 재사용 가능한 형태로 정리하여 스케일 가능한 구조로 전환",
+        "새로운 AI 기술을 파악한 후 고객 프로젝트 및 내부 운영 자동화에 적용"
+      ],
+      "requirements": [
+        "엔지니어링 역량을 기반으로 문제 정의부터 해결 설계, 실행까지 전 주기를 소화할 수 있는 분",
+        "Python 능숙 (필수)",
+        "LLM/RAG 기반 애플리케이션 개발 경험",
+        "비즈니스 감각과 고객 중심 사고를 갖춘 분",
+        "대규모/복잡한 고객사와 직접 커뮤니케이션할 수 있는 분",
+        "빠르게 변화하는 환경에서 자기 주도적으로 일할 수 있는 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "연봉 20% 현금 지급",
+        "휴가비 지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354221.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "GPA KOREA",
+      "position": "개발팀 팀장",
+      "tech_stack": [],
+      "experience": "5년 이상",
+      "location": "서울 강남구 삼성로96길 14, 중아빌딩 10층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "자체 모바일 앱 플랫폼 고도화 및 신규 앱 개발",
+        "자체 오퍼월/광고 SDK 아키텍처 설계 및 고도화",
+        "광고 성과 대시보드 및 리포트 자동화 시스템 개발",
+        "내부 운영 시스템(CRM, 캠페인 관리 등) 설계 및 구축",
+        "광고 API 연동 (Meta Ads, Google Ads, 네이버 검색광고 등)",
+        "AI 기반 자동화 도구 개발 및 신규 플랫폼 발굴",
+        "개발팀(2~3명) 구성, 채용, 업무 배분",
+        "기술 스택 선정 및 서비스/플랫폼 아키텍처 의사결정",
+        "코드 리뷰 및 개발 문화 구축",
+        "경영진·마케팅팀과 협업하여 기술 로드맵 수립 및 기술 부채 관리"
+      ],
+      "requirements": [
+        "경력 5년 이상",
+        "대학교졸업(4년)이상",
+        "소프트웨어 개발 실무 '5년 이상'",
+        "풀스택 개발 가능 (프론트엔드 + 백엔드)",
+        "서비스 아키텍처 설계부터 배포·운영까지 경험",
+        "클라우드(AWS, GCP 등) 기반 인프라 구축·운영 경험",
+        "원활한 커뮤니케이션 (비개발 부서와의 협업)"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "휴가비",
+        "보너스",
+        "커피·스낵바",
+        "식대지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354226.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "FPT SOFTWARE KOREA",
+      "position": "IT 컨설턴트(보험/금융)",
+      "tech_stack": [],
+      "experience": "10-19년",
+      "location": "서울 영등포구 여의공원로 115, 3층, 7층 (세우빌딩)",
+      "salary_range": null,
+      "employment_type": "계약직",
+      "main_tasks": [
+        "보험/금융 산업 대상 디지털 전환 프로젝트 리드",
+        "고객 요구사항 분석 후 IT 시스템 도입/개선 전략 수립 및 실행",
+        "신규 고객 유치를 위한 Pre-sales 지원",
+        "고객 및 해외개발팀 등 이해관계자 커뮤니케이션"
+      ],
+      "requirements": [
+        "보험/금융 업계 경력 10년 이상",
+        "대규모 프로젝트 리딩 또는 컨설팅 경험",
+        "우수한 영어 커뮤니케이션 능력"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "건강검진지원",
+        "보너스"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354230.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "원티드랩",
+      "position": "2D Vision & Foundation Model Engineer",
+      "tech_stack": [
+        "PyTorch",
+        "Python",
+        "SAM",
+        "DINOv2",
+        "CLIP",
+        "Triton Inference Server",
+        "TensorRT",
+        "ONNX",
+        "DDP",
+        "FSDP",
+        "MLflow",
+        "W&B"
+      ],
+      "experience": "신입-경력 10년",
+      "location": "서울특별시 강남구 도산대로 318, SB타워 8층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "Vision Foundation Model 기반 2D 인지 시스템 연구 및 개발",
+        "Multimodal Perception을 활용한 로봇의 시각적 환경 인식 및 작업 대상 이해",
+        "Large-scale 데이터 기반 Vision Model 개발 및 실시간 추론 시스템 구현",
+        "산업 환경에서 동작하는 Production-level 2D Vision Foundation Technology 구축"
+      ],
+      "requirements": [
+        "학사 이상",
+        "Detection, Segmentation 등 딥러닝 기반 2D 인지 모델 연구·개발 경험",
+        "Python 기반 개발 경험 및 PyTorch 활용 가능",
+        "딥러닝 모델 학습 및 평가 파이프라인 구축 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "건강검진지원",
+        "식대지원",
+        "커피·스낵바",
+        "편의시설",
+        "유망산업",
+        "인원 급성장",
+        "설립10년이상",
+        "연봉상위6~10%",
+        "적극 채용 중",
+        "누적투자100억이상"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354232.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "원티드랩",
+      "position": "3D Vision & Robot Guidance Engineer",
+      "tech_stack": [
+        "RGB-D",
+        "Point Cloud",
+        "SLAM",
+        "Multi-view Geometry",
+        "3D Reconstruction",
+        "Visual SLAM",
+        "LiDAR SLAM",
+        "Gaussian Splatting",
+        "NeRF",
+        "Neural Rendering",
+        "Point Cloud Registration",
+        "ICP",
+        "Object Pose Estimation",
+        "Sensor Calibration",
+        "Robot Guidance",
+        "Deep Learning",
+        "Python",
+        "C++"
+      ],
+      "experience": "신입-경력 10년",
+      "location": "서울특별시 강남구 도산대로 318",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "RGB-D, Point Cloud 데이터 기반 3D Object Detection 및 Segmentation 모델 연구·개발",
+        "Multi-view Geometry 기반 3D 인지 알고리즘 연구 및 구현",
+        "딥러닝 기반 3D 인지 모델과 전통적 Geometry 기법의 융합 연구",
+        "Visual SLAM / LiDAR SLAM 알고리즘 연구 및 실환경 적용",
+        "Gaussian Splatting, NeRF 등 Neural Rendering 기반 3D Reconstruction 연구·개발",
+        "Point Cloud Registration 및 3D Geometry Optimization 알고리즘 개발",
+        "카메라, Depth 센서, LiDAR 등 멀티센서 Calibration 파이프라인 설계 및 구현",
+        "Object Pose Estimation 알고리즘 개발 및 로봇 작업 위치 계산(Guidance) 파이프라인 구현",
+        "Perception Geometry Guidance로 이어지는 Robot Vision Pipeline 설계 및 최적화",
+        "실제 산업 환경에서 동작하는 Production-level Robot Vision 시스템 개발"
+      ],
+      "requirements": [
+        "학사 이상",
+        "Point Cloud 또는 3D Vision 관련 연구·개발 경험",
+        "Python 또는 C++ 기반 개발 경험",
+        "3D Geometry (카메라 모델, 좌표 변환, Projection 등)에 대한 기본적인 이해"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "건강검진지원",
+        "식대지원",
+        "커피·스낵바",
+        "편의시설",
+        "유망산업",
+        "인원 급성장",
+        "설립10년이상",
+        "연봉상위6~10%",
+        "적극 채용 중",
+        "누적투자100억이상"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354241.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "컨트롤엠",
+      "position": "AI 솔루션 시니어 백엔드 개발자",
+      "tech_stack": [
+        "Python",
+        "AWS"
+      ],
+      "experience": "6-10년",
+      "location": "서울 강남구 강남대로 364, 패스트파이브 강남2호점",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "백엔드 API 설계 및 구현",
+        "데이터 모델 및 SQL 최적화",
+        "배치, 크롤러 및 자동화 파이프라인 구축",
+        "운영 및 배포 안정성 확보",
+        "문제 해결 및 구조 개선 리드",
+        "개발 프로세스 및 품질 체계화"
+      ],
+      "requirements": [
+        "백엔드 개발 경력 6년 ~ 10년 차",
+        "Java + Spring Boot 기반 백엔드 설계 및 구현 경험",
+        "관계형 DBMS(SQL) 기반 CRUD 구조 이해 및 복잡한 조회/집계 쿼리 작성 능력",
+        "배치 시스템 또는 외부 데이터 수집 자동화 흐름 설계 및 운영 경험",
+        "AWS 클라우드 환경 및 Docker 등 컨테이너 기반 인프라 운영/배포 경험",
+        "라이브 서비스 환경에서 발생한 장애 대응 및 근본 원인(RCA) 분석 경험",
+        "시스템 전체의 흐름을 파악하고 아키텍처를 설계할 수 있는 사고력"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "스톡옵션",
+        "보너스"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354247.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "쿤텍",
+      "position": "테스트 코드 자동화 개발 엔지니어 (QA)",
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "Java",
+        "Shell"
+      ],
+      "experience": "3년 ~ 20년 이하",
+      "location": "경기 성남시 수정구 창업로 54, LH기업성장센터 가동 609호",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "웹 어플리케이션 신규 기능 및 개선 기능 QA 수행",
+        "테스트 전략 수립: 기능/회귀/통합/성능 테스트 계획·설계",
+        "테스트 자동화 스크립트 작성 및 테스트 환경 구성",
+        "요구사항 분석 및 테스트 케이스/시나리오 작성",
+        "버그 분석, 원인 파악, 개발자와의 협업 통한 품질 개선",
+        "CI/CD 파이프라인 기반 테스트 자동화 협업",
+        "대규모 데이터 처리 환경의 품질 안정성 검증"
+      ],
+      "requirements": [
+        "ISTQB 자격증 보유 (Foundation 이상)",
+        "SE(System Engineer) 또는 운영/인프라 엔지니어링 경험",
+        "스크립트 작성 능력 보유 (Shell, Python 등)",
+        "기본적인 개발 경험(예: Python/JavaScript/Java 등 중 1개 이상)",
+        "웹 서비스·API·DB에 대한 기본 이해",
+        "문제를 구조적으로 분석하고 소통할 수 있는 능력"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "50만원 이상 연봉",
+        "휴가 20일 이상",
+        "건강검진",
+        "휴가비",
+        "식대",
+        "의료비",
+        "교육비",
+        "건강보험",
+        "연금",
+        "주말근무",
+        "연차유급휴가"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354262.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "원티드랩",
+      "position": "데이터 엔지니어링 리드",
+      "tech_stack": [
+        "Apache Iceberg",
+        "Airflow",
+        "Dagster",
+        "Spark",
+        "SQL",
+        "Python",
+        "Datadog",
+        "Superset",
+        "Streamlit",
+        "FastAPI",
+        "ClickHouse",
+        "StarRocks",
+        "OLAP",
+        "Data Warehouse",
+        "Lakehouse",
+        "Data Observability",
+        "AIOps"
+      ],
+      "experience": "12년 이상",
+      "location": "경기도 성남시 분당구 판교역로 235 (H스퀘어, N동) 4층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "Data Warehouse 전략 수립",
+        "AI Agent 기반 자동 대응 시스템 구축",
+        "계층적 Observability Stack 설계",
+        "데이터 플랫폼 전략 수립 및 리딩",
+        "데이터 활용 기획 및 거버넌스",
+        "데이터 플랫폼 서비스 운영"
+      ],
+      "requirements": [
+        "데이터 엔지니어링 실무 경력 12년 이상",
+        "팀 리딩 경험",
+        "Data Warehouse / Lakehouse 설계 경험",
+        "AI/자동화 도구 적극 활용",
+        "Spark, Airflow, Dagster 등 대규모 운영 경험",
+        "데이터 활용 기획 역량",
+        "SQL, Python 등 데이터 처리 능숙"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "식대지원",
+        "자기계발지원",
+        "자율복장",
+        "휴가비",
+        "건강검진지원",
+        "어린이돌봄",
+        "워크샵"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354263.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "마미톡",
+      "position": "Senior Backend Engineer",
+      "tech_stack": [
+        "Node.js",
+        "NestJS",
+        "Socket",
+        "HTML5",
+        "CSS3",
+        "SASS",
+        "Typescript",
+        "React",
+        "React-Native",
+        "Electron",
+        "Swift",
+        "Kotlin",
+        "AWS RDS",
+        "Mysql",
+        "Jenkins",
+        "AWS Code Deploy",
+        "AWS Elastic beanstalk",
+        "AWS S3",
+        "AWS EFS",
+        "AWS ECS",
+        "Github Actions",
+        "AWS CloudWatch",
+        "Sentry",
+        "ELK",
+        "Python",
+        "C#"
+      ],
+      "experience": "10년 이상",
+      "location": "서울 강남구 봉은사로82길 21, YK 빌딩",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "국내 마미톡 백엔드 시스템의 아키텍처 설계 및 기술 방향성 리딩",
+        "API, 데이터베이스, 서비스 구조 전반에 대한 설계 원칙 정의 및 의사결정",
+        "대규모 트래픽 환경에서의 성능 최적화 및 안정성 확보",
+        "AWS 기반 클라우드 인프라의 구조 설계 및 운영 전략 수립",
+        "백엔드 개발팀의 기술 리딩 및 코드 품질 관리",
+        "서비스 성장에 맞는 시스템 확장 전략 및 기술 부채 관리",
+        "개발 생산성 향상을 위한 개발 프로세스 및 CI/CD 개선",
+        "복잡한 문제를 구조적으로 정의하고 기술적으로 해결 방향 제시"
+      ],
+      "requirements": [
+        "10년 이상의 백엔드 개발 경력 또는 그에 준하는 경험",
+        "Node.js (TypeScript), NestJS 기반 서비스에 대한 깊은 이해와 실무 경험",
+        "GraphQL 및 RESTful API에 대한 설계 철학과 트레이드오프 이해",
+        "MongoDB 등 NoSQL 및 RDB를 포함한 데이터 모델링 및 설계 경험",
+        "AWS 환경에서의 서비스 설계 및 운영 경험",
+        "대규모 서비스 또는 트래픽 환경에서의 성능 개선 및 장애 대응 경험",
+        "기술 선택 및 아키텍처에 대해 근거 기반으로 설명하고 팀을 설득할 수 있는 분",
+        "코드 레벨뿐 아니라 시스템 전체를 바라보고 문제를 정의할 수 있는 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "커피·스낵바",
+        "편의시설",
+        "건강검진지원",
+        "장비지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354269.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "레몬베이스",
+      "position": "QA Manager (QA 매니저)",
+      "tech_stack": [],
+      "experience": "3-10년",
+      "location": "서울 성동구 아차산로 68, 6층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "제품 전반의 품질 관리 및 테스트 수행",
+        "복잡한 제품 정책 구조화 및 테스트 전략 수립",
+        "기획/디자인/개발 산출물에 대한 피드백 제공",
+        "기능적 결함 및 버그 발견과 추적",
+        "테스트 시나리오와 테스트 케이스 구조화",
+        "품질 관리를 위한 테스트 파이프라인 구축"
+      ],
+      "requirements": [
+        "기획 단계에서 오류 도출 가능",
+        "다양한 테스트 시나리오와 테스트 케이스 구조화 경험",
+        "논리적이고 유연한 사고 및 커뮤니케이션 능력",
+        "애자일 개발 문화 경험",
+        "효율적인 프로세스 제안 및 개선 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "커피·스낵바",
+        "자기계발지원",
+        "유급휴가"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354270.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "온택트 헬스",
+      "position": "Senior MLOps 엔지니어",
+      "tech_stack": [
+        "Triton Inference Server",
+        "MLflow",
+        "Airflow",
+        "Python",
+        "Go"
+      ],
+      "experience": "유관경력 5년 이상",
+      "location": "서울 서대문구 이화여대길 50-5, 이룸타워 2F, 5F",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "심장초음파 AI 추론·운영 인프라 아키텍처 설계 및 최적화",
+        "CI/CD 및 배포 체계 표준 수립",
+        "MLOps 플랫폼 구축 및 기술 의사결정",
+        "QMS·의료기기 품질 대응 프로세스 리드"
+      ],
+      "requirements": [
+        "학사 이상(컴퓨터 공학, 의료공학 등 관련분야)",
+        "유관경력 5년 이상",
+        "ML/LLM 서비스를 구축하고 운영·개선해본 경험",
+        "MLflow, Airflow 등 ML 파이프라인 및 실험 관리 도구 구축·운영 경험",
+        "Python, Go 등 하나 이상의 언어에 능숙",
+        "CI/CD 및 배포 자동화 환경 구축 경험",
+        "로깅/모니터링 체계 구축 또는 운영 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "의료비지원",
+        "커피·스낵바",
+        "건강검진지원",
+        "식대지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354312.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "원티드랩",
+      "position": "데이터 정리 및 분석 지원",
+      "tech_stack": [],
+      "experience": "신입-경력 3년",
+      "location": "서울 강남구 도산대로 318 SB타워 8층",
+      "salary_range": null,
+      "employment_type": "계약직",
+      "main_tasks": [
+        "이미지 데이터 분류, 정리 및 파일 관리",
+        "라벨링 데이터 검수 및 오류 확인",
+        "데이터 품질 기준에 따른 정합성 체크",
+        "분석 결과 정리 및 리포트 작성 지원",
+        "데이터셋 구축 및 운영 업무 지원",
+        "반복 작업 효율화 및 관리 기준 정리",
+        "유관 부서와의 데이터 검토 및 이슈 공유"
+      ],
+      "requirements": [
+        "엑셀 사용 및 기본 문서 작성이 가능",
+        "반복 업무 수행에 강하며 꼼꼼함",
+        "기준에 맞춰 정확하게 작업할 수 있음",
+        "타 부서 인원들과 원활하게 소통할 수 있음"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "건강검진지원",
+        "식대지원",
+        "커피·스낵바",
+        "편의시설"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354337.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "쿠팡페이",
+      "position": "Technical Program Manager (Coupang Pay)",
+      "tech_stack": [],
+      "experience": "4-15년",
+      "location": "서울 송파구",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "쿠팡페이의 플랫폼, 프로덕트, 보안 엔지니어링 전반에 걸친 기술 프로그램을 주도",
+        "문제 진단 및 전략 수립부터 실행까지 전체 사이클을 책임지고, 분기·연간 목표 달성에 대한 오너십 보유",
+        "핀테크 조직의 전략 방향을"
+      ],
+      "requirements": [],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "354348.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "브이피피랩",
+      "position": "AI/Data Team Lead",
+      "tech_stack": [
+        "Python",
+        "Scikit-Learn",
+        "TensorFlow",
+        "PyTorch"
+      ],
+      "experience": "5-20년",
+      "location": "서울 강남구 역삼로 168, 팁스타운 S6",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "재생에너지 발전량 예측 모델 및 MLOps 체계 설계·개발 총괄",
+        "AI/Data 조직 리딩 및 기술 방향성 수립",
+        "정형 데이터 예측 모델 개발·최적화",
+        "실시간 대용량 데이터 수집·처리·분석 알고리즘 개발",
+        "모델 성능 최적화를 위한 데이터 수집, 전처리, 특성 추출 및 튜닝",
+        "실시간 데이터 모니터링과 예측 결과에 대한 리포팅"
+      ],
+      "requirements": [
+        "머신러닝/데이터 관련 경력 최소 5년 이상 또는 이에 준하는 경험",
+        "정형 및 시계열 데이터 예측 모델 개발 경험",
+        "모델 설계부터 학습, 배포(Serving), 운영까지 End-to-End 경험",
+        "Python 기반 ML/DL 프레임워크(Scikit-Learn, TensorFlow, PyTorch 등) 활용 경험",
+        "데이터/AI 프로젝트 또는 조직 리딩 경험",
+        "컴퓨터공학, 통계학, 인공지능 등 머신러닝 관련 분야 전공"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "유망산업",
+        "인원 급성장",
+        "연봉 업계평균이상",
+        "자기계발지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354351.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "쿤텍",
+      "position": "AX 전환용 개발자 (사내 자동화/AI 활용)",
+      "tech_stack": [
+        "Python",
+        "JavaScript",
+        "LLM",
+        "API"
+      ],
+      "experience": "5-11년",
+      "location": "경기 성남시 수정구 창업로 54",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "사내 반복 업무 자동화 및 시스템 개발",
+        "내부 운영 도구 및 유틸리티 개발",
+        "SaaS 및 내부 시스템 간 연동 개발",
+        "Agent 기반 자동화 설계 및 구현",
+        "LLM/API를 활용한 업무 자동화 도입",
+        "ERP/CRM/그룹웨어 등 시스템 연계 자동화",
+        "데이터 수집/처리/활용 파이프라인 구축",
+        "계정/권한 관리 자동화 및 정책 적용"
+      ],
+      "requirements": [
+        "개발 경력 5년 이상",
+        "Python, JavaScript 등 스크립트/백엔드 개발 경험",
+        "API 기반 서비스 연동 및 자동화 경험",
+        "업무 자동화 또는 내부 도구 개발 경험",
+        "문제 정의 설계 구현까지 주도한 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "354362.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "니어스랩",
+      "position": "기술전략 매니저",
+      "tech_stack": [],
+      "experience": "7년 이상",
+      "location": "서울 송파구 정의로8길 9 AJ빌딩 본관 3층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "CTO 대외 미팅 지원: 국내외 고위급 미팅 시 동행 및 논의 내용 구조화·정리·후속 액션 관리",
+        "CTO 지시사항 관리: CTO 지시 및 요청사항을 구조화하여 관련 팀에 전달하고 실행 상황 추적",
+        "전략 문서 작성: 사업기회, 기술·제품 전략 관련 보고자료, 브리핑 자료, 의사결정 자료 작성",
+        "내부 조율: CTO와 개발팀, 사업본부, 경영지원 등 유관 조직 간 커뮤니케이션 허브 역할",
+        "정보 종합 및 인사이트 제공: 시장·경쟁·기술 동향을 모니터링하고 CTO에게 필요한 인사이트를 적시에 제공"
+      ],
+      "requirements": [
+        "전략기획, 컨설팅, 사업개발, 또는 유사 직무 경험 7년 이상",
+        "복잡한 논의와 맥락을 빠르게 파악하고 명확하게 문서화하는 능력",
+        "고위급 인사와의 커뮤니케이션 경험 및 의전 감각",
+        "기술 조직과의 협업 경험 및 기술 내용에 대한 기본 이해",
+        "우선순위가 수시로 바뀌는 환경에서의 멀티태스킹 및 실행력"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "건강검진지원",
+        "자율복장",
+        "편의시설",
+        "51~300명",
+        "설립4~9년",
+        "연봉상위2~5%",
+        "복지포인트",
+        "자유로운휴가",
+        "누적투자100억이상",
+        "장비지원",
+        "AI 선도 기업",
+        "외국인 지원 가능"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354377.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "혜움",
+      "position": "AI Engineer",
+      "tech_stack": [
+        "LLM",
+        "RAG",
+        "Agent Framework",
+        "MCP",
+        "Multi-Agent Architecture"
+      ],
+      "experience": "4년 이상",
+      "location": "서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "Multi-Agent 협업 프로토콜 설계",
+        "Agent Runtime 표준화",
+        "Tool Registry 구축·운영",
+        "LLM 오케스트레이션",
+        "프롬프트 엔지니어링·최적화",
+        "하네스 엔지니어링",
+        "세무·회계 지식 기반 RAG 파이프라인 설계·운영",
+        "모델 성능 평가 체계 수립",
+        "HITL 설계",
+        "AI 안전성·신뢰성 프레임워크 구현"
+      ],
+      "requirements": [
+        "멀티 에이전트 아키텍처 실무 경험",
+        "Agent Framework 실무 경험",
+        "MCP 실무 경험",
+        "RAG 파이프라인 구현 경험",
+        "위 항목 관련 경력 합산 4년 이상"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "건강검진지원",
+        "스톡옵션"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354379.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "혜움",
+      "position": "AI Native Engineer (FE기반/7년+)",
+      "tech_stack": [
+        "Vue",
+        "AWS"
+      ],
+      "experience": "7년 이상",
+      "location": "서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "기업 재무 흐름 전반을 다루는 금융 플랫폼 개발",
+        "제품 통합을 빠르게 달성하기 위한 방법 주도",
+        "일관된 UI/UX와 공통 시스템 설계 및 운영",
+        "서비스 개발 전 과정에 대한 오너십",
+        "프론트엔드 개발 문화 전파"
+      ],
+      "requirements": [
+        "7년 이상의 프론트엔드 개발 경험",
+        "개발 및 운영 환경에 대한 폭넓은 이해",
+        "낯선 도메인에 대한 적극적인 학습 자세",
+        "복잡한 요구사항 속 문제 정의 및 해결 역량",
+        "동료와의 적극적인 소통과 협업",
+        "AWS 경험 및 배포 파이프라인 구축 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "스톡옵션",
+        "건강검진지원",
+        "자기계발지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354382.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "혜움",
+      "position": "AI Native Engineer (데이터엔지니어링 기반/7년+)",
+      "tech_stack": [
+        "RDB",
+        "NoSQL",
+        "BigQuery",
+        "Airflow",
+        "Composer"
+      ],
+      "experience": "5년 이상",
+      "location": "서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "외부 파트너 API 연동",
+        "웹 스크래핑/크롤링 파이프라인 설계·운영",
+        "배치·스트리밍 ETL/ELT 설계·운영",
+        "Data Lake 구축",
+        "데이터 파이프라인 모니터링 체계 구축",
+        "데이터 품질 정책 수립·운영",
+        "데이터 거버넌스 프레임워크 설계·관리"
+      ],
+      "requirements": [
+        "웹 사이트 스크래핑/크롤링 개발 및 운영 경험",
+        "RDB, NoSQL 설계 및 개발 능력 보유",
+        "BigQuery 실무 경험",
+        "Airflow/Composer 사용 경험",
+        "데이터 거버넌스 구축 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "자기계발지원",
+        "건강검진지원",
+        "스톡옵션",
+        "보너스"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354385.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "혜움",
+      "position": "AI Native Engineer (백엔드 기반/7년+)",
+      "tech_stack": [
+        "AWS",
+        "GCP",
+        "Docker",
+        "Kubernetes",
+        "RESTful API"
+      ],
+      "experience": "7년 이상",
+      "location": "서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "클라우드 운영 및 안정화",
+        "시스템 레거시 현대화",
+        "외부 시스템 연동 설계 및 구현",
+        "모니터링 및 장애 대응 프로세스 정립"
+      ],
+      "requirements": [
+        "AWS 또는 GCP 실무 경험",
+        "Docker/Kubernetes 운영 경험",
+        "RESTful API 설계 개발 경험",
+        "시스템 레거시 개선 경험",
+        "경력 합산 7년 이상"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "건강검진지원",
+        "자기계발지원",
+        "스톡옵션"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354401.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "빌드업코리아",
+      "position": "SIOS 핵심 시스템 CTO 및 PM급 엔지니어",
+      "tech_stack": [
+        "Python",
+        "Go",
+        "C++",
+        "Java",
+        "Docker",
+        "Kubernetes",
+        "Kafka",
+        "RabbitMQ",
+        "PostgreSQL",
+        "MongoDB",
+        "InfluxDB"
+      ],
+      "experience": "3-8년",
+      "location": "서울 마포구 매봉산로 37, DMC산학협력연구센터 403호",
+      "salary_range": null,
+      "employment_type": "계약직",
+      "main_tasks": [
+        "SIOS 아키텍처 설계",
+        "고성능 데이터 파이프라인 구축",
+        "시스템 통합(SI)",
+        "글로벌 SaaS 확장성 확보"
+      ],
+      "requirements": [
+        "Python, Go, C++, Java 중 1개 이상의 언어에 대한 깊은 숙련도",
+        "대규모 분산 시스템 환경 설계 및 운영 경험",
+        "대용량 Time-series DB 활용 능력",
+        "복잡한 시스템의 기술적 문제를 정의하고 해결책을 제시할 수 있는 역량"
+      ],
+      "preferred_qualifications": [
+        "영어 능통자"
+      ],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "354403.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "Ainex Corporation",
+      "position": "Medical Vision AI Engineer",
+      "tech_stack": [
+        "Python",
+        "PyTorch",
+        "OpenCV",
+        "YOLO",
+        "TensorRT",
+        "ONNX",
+        "Docker",
+        "Linux",
+        "Git",
+        "Weights & Biases"
+      ],
+      "experience": "3년 이상 (또는 석·박사 학위 + 프로젝트 경험)",
+      "location": "서울 강남구 테헤란로108길 22, 2층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "ENAD 핵심 모델(CADe/CADx/CAD-G/CAD-Gx) 설계, 학습, 성능 최적화",
+        "내시경 영상 실시간 병변 검출 및 분류 모델 개발",
+        "위암 전구 병변 등 신규 적응증 모델 확장",
+        "모델 경량화 및 추론 속도 최적화",
+        "내시경 영상 데이터 수집, 전처리, 증강 파이프라인 설계 및 운영",
+        "학습 데이터셋 버전 관리 및 실험 추적",
+        "모델 성능 평가 지표 설계 및 임상 검증 데이터 분석",
+        "인허가용 기술 문서 작성 지원",
+        "의료진과의 공동 연구 참여 및 논문 발표",
+        "차세대 ENAD 로드맵에 반영할 신규 기능 제안 및 PoC 개발"
+      ],
+      "requirements": [
+        "컴퓨터 비전 / 딥러닝 기반 개발 경력 3년 이상",
+        "PyTorch 기반 모델 학습, 평가, 배포 경험",
+        "Object Detection 또는 Image Classification/Segmentation 모델 개발 경험",
+        "Python 기반 데이터 전처리 및 실험 파이프라인 구축 역량",
+        "논문을 읽고 핵심 기법을 구현, 적용해 본 경험",
+        "Git 기반 협업에 익숙함"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "자기계발지원",
+        "육아휴직",
+        "장비지원",
+        "건강검진지원",
+        "유망산업",
+        "식대지원",
+        "50명이하",
+        "설립4~9년",
+        "인원 급성장",
+        "연봉상위6~10%",
+        "스톡옵션",
+        "AI 선도 기업"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354422.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "원티드랩",
+      "position": "인공지능 개발자 (서비스 개발 중심)",
+      "tech_stack": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "AWS",
+        "GCP",
+        "Azure"
+      ],
+      "experience": "1-5년",
+      "location": "서울 강서구 마곡중앙8로 14, 4층 413호",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "머신러닝 및 딥러닝 기반 AI 모델 설계, 개발 및 성능 개선",
+        "데이터 분석 및 전처리를 통한 모델 학습 파이프라인 구축",
+        "대규모 언어모델(LLM) 기반 서비스 설계 및 개발",
+        "프롬프트 엔지니어링 및 파인튜닝(Fine-tuning) 수행",
+        "RAG(Retrieval-Augmented Generation) 아키텍처 설계 및 구현",
+        "온디바이스 AI 또는 경량화 모델 개발 및 최적화",
+        "영상 및 이미지 분석을 위한 Computer Vision 모델 개발",
+        "객체 탐지, 행동 인식, 상황 인식 등 멀티모달 AI 기술 적용",
+        "개발된 AI 모델의 API화 및 서비스 연동",
+        "MLOps 기반의 모델 배포, 모니터링 및 성능 관리",
+        "클라우드 환경에서의 AI 서비스 운영",
+        "정부 R&D 과제 및 PoC 프로젝트 참여",
+        "기술 문서 작성, 연구 결과 정리 및 발표"
+      ],
+      "requirements": [
+        "컴퓨터공학, 인공지능, 데이터사이언스 등 관련 분야 학사 학위 보유자 (또는 이에 준하는 연구 및 실무 경험 보유자)",
+        "Python을 활용한 머신러닝/딥러닝 모델 개발 경험",
+        "TensorFlow 또는 PyTorch 등 딥러닝 프레임워크 사용 경험",
+        "데이터 전처리, 모델 학습, 평가 등 AI 개발 전 과정에 대한 이해",
+        "AI 모델을 실제 서비스에 적용하거나 API 형태로 배포한 경험",
+        "Git 기반 형상관리 및 협업 경험",
+        "문제 해결 능력과 논리적인 커뮤니케이션 역량"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "식대지원",
+        "스톡옵션",
+        "보너스",
+        "워크샵",
+        "자기계발지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354424.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "SEARCHDOC",
+      "position": "AI/ML 개발자 3년 이상 (AI 기반 건설/제조 등 도면 분석)",
+      "tech_stack": [],
+      "experience": "석사 DS/AI 또는 DS/AI Engineer 경력으로 3년 이상",
+      "location": "경기 성남시 분당구 대왕판교로 660, 패스트파이브 115",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "AI 기반의 건축 2D 도면 /3D BIM 분석",
+        "데이터 사이언스적 접근을 통한 실험·검증 및 서비스화",
+        "도메인 문제 해결을 위해 가설을 세우고, 데이터셋 구축·평가를 포함한 반복 실험을 수행합니다.",
+        "실제 현장 피드백과 성능 지표를 기반으로 모델과 서비스 기능을 지속적으로 고도화합니다.",
+        "글로벌 검색 수준의 Retrieval·Indexing 파이프라인을 설계·구축합니다.",
+        "생성형 AI를 활용해 도메인 문제 해결형 Multi-Agent 서비스를 개발·운영하며, 도메인의 문제를 해결합니다."
+      ],
+      "requirements": [
+        "건축 전공 (학사 이상)",
+        "경력 EPC/건설/플랜트 최소 2년 이상",
+        "석사 DS/AI 또는 DS/AI Engineer 경력으로 3년 이상",
+        "Linux · Docker · CI/CD 환경에서 모델 운영 경험"
+      ],
+      "preferred_qualifications": [
+        "해외여행 및 국내외 취업에 법적 결격사유가 없는 분",
+        "상호 존중을 기반으로 원활하게 소통하며 협업할 수 있는 분",
+        "문제 해결과 사용자 중심 제품 개발에 관심이 있고, 새로운 기술을 빠르게 학습하려는 자세를 가진 분",
+        "높은 책임감을 갖고 끝까지 결과를 만드는 분",
+        "고객 요구에 깊이 몰입하고 고객의 성공을 최우선으로 생각하는 태도",
+        "품질·성능·보안 등 모든 기준에서 탁월함을 추구하는 자세",
+        "완벽한 준비보다는 빠른 실행을 통해 성과를 만드는 행동",
+        "새로운 기술과 도전 과제에 대한 지속적인 탐구",
+        "정직과 일관성을 통해 팀과 고객의 신뢰를 구축하는 태도"
+      ],
+      "benefits": [
+        "유연 근무제 및 재택근무",
+        " 각종 보험·휴가·경조금",
+        "교육비 지원",
+        "보너스"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354437.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "HUINNO",
+      "position": "Firmware Engineer",
+      "tech_stack": [
+        "ARM Cortex-M",
+        "BLE",
+        "UART",
+        "I2C",
+        "SPI"
+      ],
+      "experience": "3년 이상",
+      "location": "서울시 강남구 압구정로 79길19, 3,4층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "웨어러블 의료기기 임베디드 펌웨어 개발 및 유지보수",
+        "저전력 시스템 설계 및 최적화",
+        "BLE 무선 통신 기능 개발 및 프로토콜 설계",
+        "MCU Peripherals 및 주요 하드웨어 제어를 위한 Low-level 디바이스 드라이버 설계 및 개발",
+        "HW / SW / QA 조직과의 협업을 통한 이슈 디버깅 및 원인 분석"
+      ],
+      "requirements": [
+        "전자공학, 컴퓨터공학, 임베디드 시스템 등 관련 전공 학사 이상 보유",
+        "ARM Cortex-M 기반 MCU 펌웨어 개발 실무 경력 3년 이상",
+        "제품 출시 이후 펌웨어 유지 보수 및 필드 이슈 대응 경험 보유",
+        "회로에 대한 이해를 바탕으로 하드웨어/펌웨어 간 이슈 디버깅 경험 보유",
+        "디버깅 툴(JTAG/SWD, Logic Analyzer, Oscilloscope 등)을 활용한 문제 분석 능력"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "건강검진지원",
+        "유연근무"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354494.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "퍼플아카데미",
+      "position": "프론트엔드 개발자 2년 이상 (계약직)",
+      "tech_stack": [
+        "React",
+        "Next.js",
+        "React Native",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Android Studio",
+        "Xcode",
+        "Google Play Console",
+        "App Store Connect"
+      ],
+      "experience": "2년 이상",
+      "location": "서울시 양천구 목동동로 233-1 7층 702호",
+      "salary_range": null,
+      "employment_type": "계약직",
+      "main_tasks": [
+        "React 활용 프론트 개발",
+        "HTML/CSS/JS 활용 프론트 개발",
+        "애니메이션 등을 활용한 학습 웹 개발"
+      ],
+      "requirements": [
+        "고용형태 : 계약직 12개월 (수습기간 3개월)",
+        "학력 : 초대졸이상",
+        "경력 : 경력 2년 이상",
+        "React 또는 Next.js 기반 프론트엔드 개발 경험",
+        "JavaScript 또는 TypeScript 활용 개발 경험",
+        "React Native를 활용한 iOS 또는 Android WebView 앱 배포 경험 (필수)",
+        "반응형 웹 개발에 대한 이해가 있으신 분",
+        "REST API 연동 및 비동기 통신 처리 경험",
+        "Git과 Github에 대한 기본적인 사용법을 알고 있고, Git Flow를 이해하고 계신 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "건강검진지원",
+        "육아휴직",
+        "임직원할인",
+        "보너스"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354496.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "에이아이커넥트",
+      "position": "Flutter 앱개발자",
+      "tech_stack": [
+        "Flutter",
+        "Dart",
+        "Git",
+        "RESTful API",
+        "Swagger"
+      ],
+      "experience": "신입-경력 2년",
+      "location": "서울 금천구 서부샛길 606, B동 426호",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "Flutter 프레임워크를 활용한 모바일 애플리케이션 개발",
+        "UI/UX 디자인을 반영한 사용자 친화적 인터페이스 구현",
+        "백엔드와의 효율적 연동을 통한 원활한 데이터 통신 처리",
+        "앱 성능 최적화 및 버그 수정",
+        "기술 문서 작성과 코드 리뷰를 통한 앱 서비스 품질 개선"
+      ],
+      "requirements": [
+        "컴퓨터 공학 또는 관련 전공 학사 학위 소지자",
+        "Flutter를 이용한 모바일 앱 개발 가능자",
+        "Dart 프로그래밍 언어에 대한 깊은 이해 보유자",
+        "RESTful API 및 Swagger 연동 경험자",
+        "Git 등 버전 관리 도구 사용에 능숙자",
+        "영어 기술 문서 독해 및 작문 능력 보유자"
+      ],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "354498.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "스카이칩스",
+      "position": "반도체 Test 엔지니어",
+      "tech_stack": [
+        "C",
+        "C++",
+        "Python"
+      ],
+      "experience": "5년 이상",
+      "location": "경기 수원시 권선구 효원로266번길 11, 스페이스&이룸타워 16층, 17층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "Test Plan 수립",
+        "Test Program(Wafer, Package) 개발 및 디버깅",
+        "개발 및 양산 Test Setup(Wafer, Package) 구축 및 최적화",
+        "제품 특성 평가 및 불량 분석",
+        "Yield 분석 및 개선",
+        "Test 조건 및 스펙 검토, 최적화",
+        "개발 검토 및 양산성 평가",
+        "Test Process 및 Infra 구축",
+        "Probe Card / Final Test Board Design Review 및 수정"
+      ],
+      "requirements": [
+        "학력 : 관련 전공자 학사 이상",
+        "경력 : 5년 이상",
+        "전공 : 전자공학, 반도체공학 등 관련 전공",
+        "주도적으로 문제를 해결하고, 유관 부서와 원활한 커뮤니케이션이 가능한 자",
+        "반도체 Wafer 또는 Package Test 경험",
+        "Test Program 개발 또는 Test Setup 경험",
+        "Test Flow에 대한 이해",
+        "C, C++, Python 등 Program 가능자",
+        "운전가능자"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "건강검진지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354505.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "하이로컬",
+      "position": "경량화 IoT 하드웨어 연동 개발자",
+      "tech_stack": [
+        "STT",
+        "NMT",
+        "TTS",
+        "WebRTC",
+        "Python",
+        "C++",
+        "Rust"
+      ],
+      "experience": "5-11년",
+      "location": "서울 송파구 문정동 644, 문정현대지식산업센터 A동 1004호",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "산업현장용 온디바이스 통번역 AI 시스템 개발",
+        "STT / NMT / TTS 경량화 및 디바이스 최적화",
+        "스마트 헬멧 / 글라스 / 웨어러블 디바이스에 탑재 가능한 AI 모델 경량화 및 추론 엔진 개발",
+        "엣지 서버(Edge Server) 기반 실시간 통신 구조 설계",
+        "WebRTC / 스트리밍 / 저지연 처리",
+        "저전력 환경에서의 성능 최적화",
+        "latency ＜ 1초 목표",
+        "산업현장 소음 환경 대응",
+        "Noise robustness 개선 및 모델 튜닝",
+        "클라우드(OpenAI 등) + 온디바이스 하이브리드 구조 설계",
+        "디바이스-서버-클라우드 간 통신 아키텍처 구축"
+      ],
+      "requirements": [
+        "관련 경력 5년 이상",
+        "온디바이스 AI / Edge AI 개발 경험",
+        "IoT 디바이스 연동 및 임베디드 시스템 개발 경험",
+        "AI 모델 경량화 (Quantization, Pruning, Distillation 등)",
+        "모바일 / 임베디드 환경에서 ML inference 최적화 경험",
+        "실시간 스트리밍 / 저지연 시스템 개발 경험",
+        "Python, C++, 또는 Rust 기반 개발 경험",
+        "Linux 기반 시스템 이해"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "보너스",
+        "스톡옵션"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354520.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "티오더",
+      "position": "오더플랫폼 PM(Product Manager)",
+      "tech_stack": [],
+      "experience": "4년 이상",
+      "location": "서울시 영등포구 여의대로 108 파크원타워2 46층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "고객의 목소리에 귀 기울여 본질적인 불편을 찾아내고 해결합니다",
+        "제품의 기획부터 개발, 운영, 개선까지의 전 과정 주도",
+        "태블릿 및 관리자 시스템의 서비스 정책 기획 및 설계",
+        "운영 데이터 분석을 통한 어드민 기능 및 운영 프로세스 개선",
+        "유관 부서 요청사항 분석을 통한 우선 순위와 일정 산정 및 체계적으로 백로그 관리",
+        "시장 조사와 고객 요구 사항 분석을 바탕으로 신규 제품 기획 및 개발"
+      ],
+      "requirements": [
+        "온라인 서비스 기획 관련 4년 이상의 경력",
+        "단순한 론칭이 아닌, 출시 이후 운영·성과 개선까지 책임져 본 경험",
+        "고객의 문제를 깊이 이해하고, 가설-전략-실행으로 연결해본 경험",
+        "다양한 부서와 능동적으로 협업하며 성과를 만들어 낸 경험",
+        "여러 업무의 우선순위를 명확하게 세우고 효율적으로 관리할 수 있는 능력",
+        "데이터 기반으로 문제를 정의하고 근거 있는 의사결정을 내린 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "자기계발지원",
+        "편의시설",
+        "사내동호회",
+        "식대지원",
+        "커피·스낵바",
+        "장비지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354521.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "티오더",
+      "position": "시니어 PM (통합인증·회원 플랫폼)",
+      "tech_stack": [],
+      "experience": "5-11년",
+      "location": "서울시 영등포구 여의대로 108 파크원타워2 46층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "통합 인증·회원(Account/Identity) 플랫폼 기획 및 고도화",
+        "간편로그인(Kakao, Naver, Google, Apple 등) 및 SSO 설계·운영",
+        "회원 구조, 식별자(ID), 권한 및 계정 정책 정의",
+        "회원 라이프사이클(가입·휴면·탈퇴) 정책 설계",
+        "개발, 보안, 운영 조직과 협업하여 빠른 실행 및 개선"
+      ],
+      "requirements": [
+        "통합인증 또는 회원/계정 시스템 관련 5년 이상의 PM 경험이 있으신 분",
+        "간편로그인 또는 인증 시스템을 설계·통합·개편한 경험이 있으신 분",
+        "멀티 서비스 환경에서 회원 체계 통합 또는 표준화 경험이 있으신 분",
+        "개발 조직과 원활히 협업 가능한 기술 이해(API, 인증 플로우 등)가 있으신 분",
+        "로그인과 회원을 기능이 아닌 플랫폼으로 바라보는 시야를 가지신 분",
+        "문제를 구조적으로 정의하고 주도적으로 해결하는 역량을 보유하신 분",
+        "빠른 실행과 높은 기준을 동시에 추구하는 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "자기계발지원",
+        "편의시설",
+        "사내동호회",
+        "식대지원",
+        "커피·스낵바",
+        "장비지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354546.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "프론트라인 엔지니어",
+      "position": "프론트라인 엔지니어 (Frontline Engineer)",
+      "tech_stack": [
+        "React",
+        "Fast API",
+        "k8s",
+        "Gitops",
+        "SQL"
+      ],
+      "experience": "경력 5-10년",
+      "location": "경기 성남시 분당구 정자일로 95 네이버 1784",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "비즈니스 최전선에서 고객의 의견을 듣고 고객 성공을 가속화 할 수 있도록 개발하여 제품에 반영합니다.",
+        "프로덕트 방향성을 고객 입장에서 주도합니다.",
+        "SQL을 활용한 ELT 프로세스 개발",
+        "3rd Party API를 이용한 데이터 소싱 및 통합",
+        "Fast API를 활용한 Serverful 백엔드 개발",
+        "React 기반 웹 프론트엔드 개발",
+        "Gitops, k8s 기반 인프라 개발"
+      ],
+      "requirements": [
+        "시드 ~ 시리즈 A 라운드 스타트업 경험",
+        "데이터 엔지니어 경력 (데이터 파이프라인 개발 경험)",
+        "실서비스 운영 경험 (게임, 앱 등)",
+        "k8s에 대한 이해",
+        "국내외 유수의 대학에서 정량적, 분석적 분야와 관련된 전공 (예. 수학, 컴퓨터공학, 물리학, 산업공학, 금융공학 등)으로 학사, 석사 혹은 박사학위를 취득하신 분",
+        "컴퓨터 공학 전공자 혹은 그에 준하는 전공 지식을 보유한 자"
+      ],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "354548.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "에비드넷",
+      "position": "CDM 기반 연구지원 및 병원 네트워크 운영 담당자",
+      "tech_stack": [
+        "Python",
+        "R",
+        "SAS",
+        "SQL"
+      ],
+      "experience": "1-5년",
+      "location": "서울특별시 강남구 강남대로 292, 3층(뱅뱅빌딩)",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "CDM(Common Data Model) 활용 교육 및 강의 진행",
+        "병원 연구자 대상 데이터 분석 결과 및 해석 지원",
+        "수도권 및 지방 협력기관 방문을 통한 연구 지원 및 네트워크 관리"
+      ],
+      "requirements": [
+        "학사 이상 (간호학, 약학, 통계학, 보건학, 의료정보학, 임상역학 등)",
+        "의료 데이터 또는 임상연구 관련 경력 1년 이상",
+        "데이터 분석 도구 1개 이상 활용 가능 (SQL, R, Python, SAS 등)",
+        "원활한 대면 커뮤니케이션 및 출장 수행에 결격 사유가 없는 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "건강검진지원",
+        "커피·스낵바",
+        "식대지원",
+        "장비지원",
+        "사내동호회",
+        "보너스",
+        "의료비지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354571.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "휴먼퍼포먼스랩",
+      "position": "3D AI 파이프라인 및 서빙 엔지니어",
+      "tech_stack": [
+        "Python",
+        "C++"
+      ],
+      "experience": "3-8년",
+      "location": "서울 서대문구 이화여대길 52, 연구협력관",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "3D 데이터 처리 및 AI 모델 서빙을 위한 파이프라인 설계 및 구현",
+        "AI 모델의 성능 최적화를 위한 데이터 전처리 및 후처리 작업",
+        "다양한 AI 모델의 서빙 환경 구축 및 운영",
+        "데이터 정규화 (scaling, translation 등) 및 전처리 파이프라인 구축",
+        "GNN inference API와의 연동 및 end-to-end pipeline 구성",
+        "서버 인프라 관리"
+      ],
+      "requirements": [
+        "컴퓨터 공학 또는 관련 분야 학사 이상",
+        "Python, C++ 등 프로그래밍 언어에 대한 숙련도",
+        "AI 모델 서빙 및 데이터 파이프라인 구축 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "보너스"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354598.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "원티드랩",
+      "position": "엑셀 산식 개발자 (금융 견적 산식 모델링)",
+      "tech_stack": [
+        "JavaScript",
+        "TypeScript",
+        "Python"
+      ],
+      "experience": "1-5년",
+      "location": "경기 구리시 인창2로 13, 근린생활시설동 207호",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "자동차 금융 비교견적 웹엔진 개발",
+        "엑셀 기반 자동차 견적서의 숨은 산식, 참조 구조, 조건식 분석",
+        "재무함수 기반 계산 로직을 웹 계산 엔진으로 구현",
+        "리스,렌트,할부 견적 계산 API 설계 및 개발",
+        "금융사/렌트사별 조건 공통 비교 가능하도록 표준화",
+        "차량가, 할인, 보증금, 선수금, 잔존가치, 금리, 수수료, 등록비 등 계산 로직 구현",
+        "비교견적 결과 화면에 필요한 데이터 구조 설계",
+        "관리자에서 월별 조건표를 관리할 수 있는 구조 설계",
+        "엑셀 결과와 웹 결과를 대조하는 검증 로직 및 테스트 케이스 작성"
+      ],
+      "requirements": [
+        "엑셀을 토대로 웹 개발 실무 경험",
+        "엑셀 수식 분석 및 복잡한 계산 로직 해석 가능",
+        "재귀함수 능력 필수",
+        "PMT, RATE, PV, FV, IPMT, PPMT, IRR, XIRR 등 재무함수 이해 및 구현 가능",
+        "JavaScript / TypeScript 기반 계산 로직 구현 가능",
+        "백엔드 API 설계 및 DB 구조 설계 경험",
+        "복잡한 비즈니스 로직을 서비스 코드로 구조화해본 경험",
+        "숫자 오차, 반올림, 예외 케이스 검증 경험",
+        "계산 엔진 중심으로 사고 가능",
+        "AI로 빠른 분석 및 개발 가능"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "자유로운휴가",
+        "자기계발지원",
+        "식대지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354616.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "리빌더에이아이",
+      "position": "QA 엔지니어",
+      "tech_stack": [
+        "JIRA",
+        "GitHub"
+      ],
+      "experience": "5-15년",
+      "location": "경기도 성남시 분당구 정자일로 95, 4층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "테스트 전략 및 QA 프로세스 구축.운영",
+        "이슈 관리 및 협업",
+        "데이터 기반 품질 분석",
+        "릴리즈 및 품질 관리",
+        "자동화 및 효율화"
+      ],
+      "requirements": [
+        "QA 또는 유관 경험 5년 이상",
+        "JIRA 를 활용한 이슈 관리 경험",
+        "Github와 JIRA를 연동해 협업 구조 셋팅 및 관리",
+        "테스트 케이스 작성 및 QA 프로세스 운영 경험",
+        "데이터 기반(버그 데이터, 오류율, 품질 지표 등)을 기반으로 인사이트를 도출하고 관리해본 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "유연근무"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354671.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "헤이딜러",
+      "position": "백엔드 개발자 (python)",
+      "tech_stack": [
+        "python",
+        "django",
+        "docker",
+        "AWS"
+      ],
+      "experience": "4-8년",
+      "location": "서울 서초구 서초대로74길 14, 8층, 헤이딜러",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "헤이딜러 서비스에 필요한 모든 API 개발",
+        "트래픽이 많아져도 안정적으로 서비스를 제공하기 위해 인프라 설계 및 관리",
+        "중고차 시장의 복잡한 정보를 소화해서 고객에게 쉽게 전달"
+      ],
+      "requirements": [
+        "백엔드 개발 경력 4년 이상 또는 그에 상응하는 역량을 갖추신 분",
+        "python / django 사용 경험 2년 이상 있는 분",
+        "docker 사용 경험이 있으신 분",
+        "도메인 설계를 능숙하게 할 수 있는 분",
+        "AWS를 활용한 서버 배포 경험이 있는 분",
+        "더 좋은 고객 경험을 위해 의견을 적극적으로 내시는 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "자기계발지원",
+        "편의시설",
+        "건강검진지원",
+        "휴가비",
+        "식대지원",
+        "51~300명",
+        "연봉상위11~20%"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354685.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "휴윈",
+      "position": "SW 개발 엔지니어",
+      "tech_stack": [
+        "C#",
+        "C++",
+        "Visual Studio",
+        "WinForm"
+      ],
+      "experience": "신입-경력 8년",
+      "location": "경기 성남시 분당구 성남대로331번길 8, 4층 403호 휴윈",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "Huwin 자체 솔루션 'ACVS' (AI 반도체 패키지 성능 분석 시뮬레이터) 개발",
+        "DevExpress 를 이용한 UI 개발",
+        "삼성 전자 , SK하이닉스 등 고객 사 이슈 대응 업무"
+      ],
+      "requirements": [
+        "대학교졸업(4년)이상, 졸업 예정자 지원가능 (석/박사 우대)",
+        "전공: 유관 전공 (컴퓨터 공학, SW 공학, 전산학부 등)",
+        "자격증: 정보처리기사",
+        "C++, C# 중 한가지 이상의 언어에 대한 깊이 있는 지식과 경험",
+        "TOEIC 700 점 이상 또는 그에 준하는 어학점수 보유자"
+      ],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "354744.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "Nota",
+      "position": "Senior AI Engineer",
+      "tech_stack": [],
+      "experience": "7년 이상",
+      "location": "서울특별시 강남구 테헤란로 521 파르나스 타워 16층 Nota",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "Vision 기반 데이터를 활용하여 산업 현장의 문제 정의 및 AI 기반 해결 전략 수립",
+        "Computer Vision 및 Vision-Language Model(VLM)을 활용하여 영상 내 객체 및 맥락을 이해하는 모델 및 시스템 설계·개발",
+        "모델 성능뿐만 아니라 latency, robustness를 고려한 서비스 수준의 모델 파이프라인을 설계 및 실제 환경에서 요구되는 성능 기준을 정의 및 검증",
+        "신규 프로젝트의 기술 적합성 검토 및 고객과의 기술 논의를 통해 아키텍처 및 솔루션 방향 정의"
+      ],
+      "requirements": [
+        "Computer Vision 또는 Multimodal AI 기반 모델 개발 및 성능 개선 경험",
+        "실제 문제 해결을 위한 AI 시스템을 end-to-end로 설계하고 개선한 경험",
+        "데이터, 모델, 평가 방식을 종합적으로 분석하여 성능 개선 사이클을 수행한 경험",
+        "비즈니스 요구사항을 기술 문제로 정의하고 협업을 통해 해결한 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "건강검진지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354775.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "핵클",
+      "position": "Cloud Infrastructure Engineer",
+      "tech_stack": [
+        "AWS",
+        "Terraform",
+        "Kubernetes",
+        "Docker",
+        "Prometheus",
+        "Grafana",
+        "ELK",
+        "CDK"
+      ],
+      "experience": "5-10년",
+      "location": "서울 서초구 강남대로 241, 5층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "AWS 기반 인프라 아키텍처 설계 및 구축",
+        "안정적이고 확장 가능한 서비스 운영을 위한 인프라 구조 개선",
+        "Terraform, CloudFormation 등을 활용한 Infrastructure as Code(IaC) 환경 구축 및 운영",
+        "Kubernetes 기반 컨테이너 오케스트레이션 환경 구성 및 운영",
+        "모니터링 및 로깅 시스템 구축을 통한 서비스 가시성 확보",
+        "장애 대응 및 원인 분석(RCA), 재발 방지를 위한 구조 개선",
+        "시스템 성능 개선 및 비용 최적화",
+        "보안 정책에 따른 IAM 권한 관리",
+        "반복 작업 자동화를 통한 운영 효율성 향상",
+        "고객사의 핵클 솔루션 적용 과정에서 인프라 구성, 운영 전략, 성능 개선에 대한 기술 컨설팅 제공"
+      ],
+      "requirements": [
+        "AWS 등 클라우드 플랫폼 기반 서비스 인프라 구축, 운영 및 고도화 경험",
+        "네트워크 인프라 아키텍처 설계 및 운영 경험",
+        "Docker, Kubernetes등 기반 컨테이너 환경 운영 경험",
+        "Prometheus, Grafana 등 모니터링 도구 활용 경험",
+        "IaC(Terraform, CDK 등)를 활용한 인프라 관리 경험",
+        "Observability 환경 구축 및 운영 경험",
+        "1개 이상의 개발언어 사용 경험 (java, go, rust, Python 등)"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "자기계발지원",
+        "커피·스낵바",
+        "건강검진지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354801.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "세이지",
+      "position": "프론트엔드 개발자",
+      "tech_stack": [
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Linux",
+        "Windows",
+        "Git",
+        "Notion",
+        "Azure DevOps",
+        "Storybook",
+        "C/C++",
+        "C#"
+      ],
+      "experience": "4년 이상",
+      "location": "서울 강남구 강남대로 374 케이스퀘어강남2 3층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "SAIGE VISION 제품 개발",
+        "SAIGE VIMS 제품 개발",
+        "SAIGE SAFETY 제품 개발",
+        "제품 로드맵 달성",
+        "UI/UX 개선",
+        "리팩터링 및 코드 리뷰"
+      ],
+      "requirements": [
+        "React와 TypeScript 기반 프론트엔드 개발 경력 4년 이상",
+        "Canvas, Konva 등 그래픽/비주얼 라이브러리 활용 경험",
+        "주도적으로 일정과 개발 방향을 관리할 수 있는 능력",
+        "복잡한 UI/UX 요구사항 반영을 위한 프론트엔드 구조 설계 경험",
+        "디자이너, 기획자, 백엔드 등 다양한 이해관계자와 커뮤니케이션 능력",
+        "사용자 경험에 대한 고민 및 개선 노력",
+        "코드 품질 및 성능 최적화를 위한 리팩터링/리뷰 문화 경험"
+      ],
+      "preferred_qualifications": null,
+      "benefits": [
+        "식대지원",
+        "휴가비",
+        "건강검진지원",
+        "커피/스낵바",
+        "보너스"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354807.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "딥오토",
+      "position": "AI Engineer",
+      "tech_stack": [
+        "Hadoop",
+        "PyTorch",
+        "Spark",
+        "Python",
+        "OpenCV"
+      ],
+      "experience": "신입~경력 3년",
+      "location": "서울 강남구 테헤란로 216, 신웅타워 7층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "멀티모달 에이전트 개발",
+        "Agentic System 고도화",
+        "하이브리드 로직 최적화",
+        "OCR 파이프라인 구축",
+        "Object Detection 파이프라인 구축",
+        "SFT(Supervised Fine-Tuning)",
+        "최신 강화학습(RL) 리서치 및 적용",
+        "벤치마크 평가 체계 구축",
+        "비정형 데이터 파이프라인 구축",
+        "데이터 레이크하우스 설계"
+      ],
+      "requirements": [
+        "컴퓨터 공학, 인공지능, 수학/통계학 등 관련 분야 학사 학위 이상 전공자 (재학/휴학/졸업생 모두 가능) 또는 그에 준하는 프로그래밍 역량을 갖추신 분",
+        "Python 및 PyTorch 등 딥러닝 프레임워크를 능숙하게 다룰 수 있는 분",
+        "최신 AI 논문의 핵심 아이디어를 빠르게 파악하고 코드로 구현해 보는 것을 즐기시는 분",
+        "정답이 없는 환경에서 주도적으로 가설을 세우고, 실험을 통해 검증하는 문제 해결 능력을 갖추신 분",
+        "동료 및 협력사와의 능동적인 커뮤니케이션을 통해 모호한 요구사항을 기술적 언어로 구체화할 수 있는 분",
+        "남성의 경우 병역 필 또는 면제",
+        "해외 출장 결격 사유 없음"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "유연근무",
+        "재택근무"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354812.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "다겸",
+      "position": "비전 AI 데이터사이언티스트 (전문연구요원 가능)",
+      "tech_stack": [
+        "PyTorch",
+        "Tensorflow",
+        "C#",
+        "Python",
+        "OpenCV"
+      ],
+      "experience": "신입 지원 가능",
+      "location": "서울 금천구 가산디지털1로 146, 대륭테크노타운 22차 8층 802호",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "딥러닝 기반 컴퓨터비전 객체탐지/이상탐지 모델 개발",
+        "Pytorch 딥러닝 프레임워크를 활용한 모델 개발",
+        "이미지 기반 AI 모델 연구 및 개발",
+        "개발한 딥러닝 모델의 경량화 및 최적화",
+        "다양한 제조업 산업 현장 데이터 분석",
+        "논문, 특허, 연구보고서, 사업계획서 작성"
+      ],
+      "requirements": [
+        "컴퓨터공학, 수학, 통계학, 인공지능 등 데이터사이언스 유사전공 석사 이상",
+        "컴퓨터 비전 이론 및 파이썬 라이브러리 활용 (OpenCV 등)",
+        "딥러닝 이론 및 프레임워크 활용 (pytorch, tensorflow, keras 등)"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "커피·스낵바"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354815.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "다겸",
+      "position": "ML Engineer (전문연구요원 가능)",
+      "tech_stack": [
+        "PyTorch",
+        "TensorFlow",
+        "C#",
+        "Python",
+        "OpenCV",
+        "FastAPI"
+      ],
+      "experience": "신입 이상",
+      "location": "서울 금천구 가산디지털1로 146, 대륭테크노타운 22차 8층 802호",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "딥러닝 기반 컴퓨터비전 객체탐지/이상탐지 모델 개발",
+        "FASTAPI, Pytorch, NVIDIA Triton 프레임워크를 사용한 개발",
+        "실시간 추론 환경에서의 모델 성능(FPS/Latency) 모니터링 및 튜닝",
+        "C# 기반 산업용 비전 카메라 모듈과의 실시간 통신(WebSocket/TCP) 연동",
+        "고객사 현장 이슈 대응 및 소프트웨어 패치/개선"
+      ],
+      "requirements": [
+        "컴퓨터공학, 수학, 통계학, 인공지능 등 석사 이상 전문연구요원 자격 요건 해당자",
+        "컴퓨터비전 이론에 대한 이해 및 Python 기반 라이브러리(OpenCV 등) 활용 경험",
+        "Python 및 머신러닝 프레임워크 활용 경험 (PyTorch, TensorFlow, Keras 등)",
+        "Linux OS 기반 개발 환경에서의 개발 경험",
+        "고객사 현장 방문을 위한 운전면허 소지자"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "유연근무"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354816.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "딥오토",
+      "position": "Backend Engineer (AI Platform)",
+      "tech_stack": [
+        "Azure",
+        "Python",
+        "Rust",
+        "SQL",
+        "TypeScript",
+        "AWS",
+        "NoSQL",
+        "GCP",
+        "Golang",
+        "Kubernetes",
+        "Grafana"
+      ],
+      "experience": "신입-경력 3년",
+      "location": "서울 강남구 테헤란로 216, 신웅타워 7층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "Agent 및 Workflow 기반 AI 플랫폼의 백엔드 서버 개발 및 운영",
+        "에이전트간 비동기 워크로드를 고려한 API 및 워커 시스템 설계·구현",
+        "클라우드 및 온프레미스 환경에서의 서비스 배포, 운영, 자동화",
+        "정형/비정형 데이터 ingestion, 저장, 조회, 분석 파이프라인 구축 및 개선",
+        "워크플로우 운용: Temporal, Airflow",
+        "데이터 플랫폼: Clickhouse, Snowflake / Databricks, Postgres, Vector DB, NATS 등",
+        "GPU 기반 모델 서빙 및 ML 워크로드를 위한 인프라 구성 및 운영서비스 안정성을 위한 모니터링, 로깅, 장애 대응",
+        "컴퓨팅 인프라: AWS 및 Neocloud (Nebius 등) 기반 GPU 인프라 (H100, B200 운용 및 보유중. 확장 예정)",
+        "GPU 기반 인프라: SkyPilot, Ray, SGLang, vLLM 등",
+        "모니터링: OpenTelemetry, Grafana",
+        "엔터프라이즈 환경을 고려한 보안, 권한, 멀티테넌시 구조 설계",
+        "고객 환경(On-prem / Hybrid Cloud)에 대한 배포 및 운영 이슈 해결"
+      ],
+      "requirements": [
+        "백엔드 구현 편의가 아닌, 실제 사용자의 경험과 제품 목표를 기준으로 시스템을 설계하는 자세",
+        "영어 기술 문서를 읽고 레퍼런스를 기반으로 문제를 해결할 수 있는 능력",
+        "웹 서버 및 아키텍처 설계 경험 (Python 선호)",
+        "필요시 Golang, Typescript, Rust 등 다양한 언어를 다룰 수 있는 의지",
+        "다양한 Workflow 시스템에 대한 경험 (Temporal, Airflow, Celery 등)",
+        "REST HTTP 이외의 다양한 프로토콜 및 분산시스템 분석 능력",
+        "클라우드 인프라 구축 및 관리 경험 (AWS, GCP, Azure 중 하나 이상)",
+        "데이터베이스 설계 및 성능 최적화 경험 (SQL, NoSQL)",
+        "CI/CD 파이프라인 구축 및 관리 경험",
+        "코딩 에이전트를 이용한 문제해결 능력",
+        "남성의 경우 병역 필 또는 면제",
+        "해외 출장 결격 사유 없음"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "유망산업",
+        "50명이하",
+        "설립3년이하",
+        "연봉상위6~10%",
+        "장비지원",
+        "커피·스낵바",
+        "AI 선도 기업",
+        "유연근무",
+        "재택근무"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354817.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "다겸",
+      "position": "기술지원 필드 엔지니어",
+      "tech_stack": [],
+      "experience": "2-6년",
+      "location": "서울 금천구 가산디지털1로 146, 대륭테크노타운 22차 8층 802호",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "데이터 검증 및 현장 기술 지원",
+        "스마트팩토리 구축 현장에서 카메라, 조명 등 비전 설비 세팅 및 유지 보수",
+        "시리얼 통신(RS-232/485 등) 을 통한 기기 인터페이스 구현 및 설정",
+        "전류, 진동, 온도 등 센서 설치 및 데이터 수집 환경 구성",
+        "사업관리를 위한 문서작업",
+        "사업기획을 위한 문서작업 보조"
+      ],
+      "requirements": [
+        "대학교졸업(4년)이상",
+        "운전면허증 소지자 및 자차 보유자",
+        "기계설비 설치 및 유지보수 유경험자",
+        "한글, 워드, 엑셀, 파워포인트 등 문서작업 가능자",
+        "인프라 및 네트워크, 머신비전, PLC 엔지니어 경력 2년 이상자"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "보너스"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354851.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "유닛블랙",
+      "position": "풀스택 개발자(프로덕트/백오피스 운영)",
+      "tech_stack": [
+        "TypeScript",
+        "React",
+        "Framer",
+        "AWS",
+        "Github CI",
+        "ArgoCD",
+        "Elasticsearch",
+        "Fluentbit",
+        "Kibana"
+      ],
+      "experience": "4-8년",
+      "location": "서울시 강남구 테헤란로70길 12 H타워 2층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "프로덕트 운영 및 비개발 조직 개발 지원",
+        "외주 서비스 관리 및 내재화",
+        "업무 자동화 및 내부 도구 개선"
+      ],
+      "requirements": [
+        "풀스택 개발 경험",
+        "TypeScript 기반 프론트엔드/백엔드 개발 경험",
+        "서비스 안정적 관리 및 개선 경험",
+        "다양한 이해관계자와 원활한 소통 능력",
+        "프론트엔드/백엔드/인프라 폭넓은 이해"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "보너스",
+        "커피·스낵바"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354868.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "S2W",
+      "position": "AI Platform Engineer (SAIP)",
+      "tech_stack": [
+        "Git",
+        "Hadoop",
+        "MongoDB",
+        "PyTorch",
+        "Java",
+        "Python",
+        "Jenkins",
+        "Docker",
+        "HBase",
+        "ElasticSearch",
+        "RabbitMQ",
+        "Kubernetes",
+        "Kubeflow",
+        "FastAPI"
+      ],
+      "experience": "경력 4년 이상",
+      "location": "경기도 성남시 분당구 판교역로192번길 12, 3층 (삼평동, 판교미래에셋센터)",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "AI 기반 서비스 운영을 위한 플랫폼 아키텍처 및 실행 환경(Runtime)을 설계하고, 다양한 고객 환경에 적합한 형태로 시스템을 구현합니다.",
+        "데이터 수집, 처리, 저장, 실행까지 이어지는 End-to-End 데이터 및 실행 파이프라인을 설계하고 구현합니다.",
+        "분산 환경에서 동작하는 워크플로우 및 작업 실행 시스템을 설계하고, 안정적인 실행과 확장을 위한 오케스트레이션 구조를 구현합니다.",
+        "플랫폼 전반의 데이터 접근, 실행, 제어를 위한 API 및 공통 서비스 레이어를 설계하고 구현합니다.",
+        "AI 서비스 운영 과정에서 발생하는 데이터 품질, 모델 성능, 파이프라인 장애 등의 문제를 식별하고 시스템 관점에서 원인을 분석 및 개선합니다.",
+        "온프레미스 및 보안 환경에서도 안정적으로 동작할 수 있도록 배포 및 운영 구조를 표준화하고 보안 요구사항을 반영합니다."
+      ],
+      "requirements": [
+        "Linux 환경 및 CLI 기반으로 시스템을 운영하고 문제를 진단·해결할 수 있는 역량을 보유한 분",
+        "컨테이너 및 Kubernetes 기반의 분산 환경에서 서비스 배포, 운영 및 트러블슈팅 경험이 있는 분",
+        "CI/CD 파이프라인을 설계·구축·운영하거나, 소프트웨어 전달 과정을 자동화한 경험이 있는 분",
+        "메트릭, 로그, 트레이싱 기반의 관측성 시스템을 이해하고, 운영 환경에서 발생하는 문제를 분석·해결한 경험이 있는 분",
+        "Python 기반 서비스 또는 데이터/워크플로우 실행 환경을 설계하고 운영 가능한 형태로 구현한 경험이 있는 분",
+        "복잡한 시스템에서 발생하는 문제를 끝까지 추적하여 해결하고, 표준화·자동화·재현성을 통해 시스템 품질을 개선하려는 태도를 가진 분",
+        "시스템 문제 해결 및 자동화를 위해 필요한 도구나 기능을 직접 구현할 수 있는 개발 역량을 보유한 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "스낵바",
+        "건강검진지원",
+        "자기계발지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354875.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "인크로스",
+      "position": "Front-end개발",
+      "tech_stack": [
+        "Vue 3",
+        "TypeScript",
+        "JavaScript",
+        "Vite",
+        "Pinia",
+        "TanStack Query",
+        "SCSS",
+        "CSS",
+        "GitLab",
+        "Slack",
+        "Jira",
+        "Figma"
+      ],
+      "experience": "4-6년",
+      "location": "서울 관악구 남부순환로1926 경동제약빌딩 3,5,8층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "UX 플랫폼 개발",
+        "사용자 경험을 실제 제품으로 구현",
+        "서비스의 방향성과 사용자 경험을 함께 고민",
+        "기획자, 디자이너, 백엔드 개발자와 협업",
+        "서비스 운영 과정에서 발생하는 이슈 분석",
+        "개선 방향 제안",
+        "공통 컴포넌트, 화면 구조, 상태 관리 등 유지보수성을 고려한 구조 설계",
+        "코드 리뷰, 리팩토링, 개발 프로세스 개선 참여",
+        "AI 개발 도구를 활용한 구현, 문서화, 테스트, 코드 품질 개선"
+      ],
+      "requirements": [
+        "대졸 학사 이상",
+        "Front-end 개발 경력 4년 이상 ~ 6년 이하",
+        "Vue 3 프레임워크와 JavaScript/TypeScript에 대한 이해",
+        "사용자 흐름과 인터랙션을 고려한 UI/UX 구현 경험",
+        "복잡한 화면 구조를 컴포넌트 단위로 설계하고 재사용 가능한 형태로 구현한 경험",
+        "공통 컴포넌트, 상태 관리 구조 기반의 서비스 개발 경험",
+        "기획·디자인 결과물을 구현 가능한 구조로 이해하고 개발한 경험",
+        "협업 과정에서 요구사항을 이해하고 원활하게 소통할 수 있는 역량",
+        "AI 기반 개발 도구를 활용한 경험 또는 높은 활용 의지"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "건강검진지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354908.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "원티드랩",
+      "position": "클라우드 서포트 엔지니어",
+      "tech_stack": [
+        "Python",
+        "Linux",
+        "NVIDIA GPU",
+        "CUDA",
+        "NCCL",
+        "Docker",
+        "Kubernetes"
+      ],
+      "experience": "3-10년",
+      "location": "서울 강남구 테헤란로 445, 7층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "엘리스 클라우드 사용자가 겪는 가상머신, 컨테이너, GPU 할당, 네트워크 설정 등 기술적 문제를 진단하고 해결책을 제시합니다.",
+        "NVIDIA GPU 아키텍처에 대한 이해를 바탕으로 Driver, CUDA, NCCL 관련 이슈를 코드 및 커널 레벨에서 심층 분석합니다.",
+        "시스템 로그, 커널 메시지(dmesg), 애플리케이션 로그를 분석하여 반복되는 장애 패턴을 추출하고 대응 프로세스를 수립합니다.",
+        "반복되는 이슈를 효율적으로 해결하기 위해 스크립트 및 내부 관리용 툴을 직접 설계하고 개발합니다.",
+        "사용자를 위한 매뉴얼, FAQ, 그리고 내부 팀을 위한 장애 대응 매뉴얼을 작성하고 관리합니다.",
+        "GPU 자원 사용량 및 시스템 상태를 모니터링하여 잠재적인 장애 요인을 파악하고 공지합니다."
+      ],
+      "requirements": [
+        "Linux 시스템 (커널, 네트워크, 파일 시스템 등)에 대한 깊은 이해를 바탕으로 한 수준 높은 문제 해결 능력을 갖추신 분",
+        "가상머신 또는 컨테이너 환경에서 워크로드를 운영하거나 트러블슈팅해 본 경험이 있으신 분",
+        "Python을 활용하여 반복 업무를 자동화하거나, 필요한 내부 도구를 직접 개발할 수 있는 역량을 보유하신 분",
+        "복잡한 기술적 문제를 사용자 수준에 맞춰 쉽고 명확하게 설명할 수 있는 논리적 소통 능력이 있으신 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "건강검진지원",
+        "보너스"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354910.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "혜움",
+      "position": "AI Engineer (System Orchestration)",
+      "tech_stack": [
+        "LangGraph",
+        "CrewAI",
+        "LangChain",
+        "MCP",
+        "RAG"
+      ],
+      "experience": "4년 이상",
+      "location": "서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "에이전트 워크플로우 설계",
+        "AI 오케스트레이션 시스템 고도화",
+        "에이전트 커버리지 확대",
+        "RAG 파이프라인 최적화",
+        "시스템 성능 모니터링"
+      ],
+      "requirements": [
+        "만 4년 이상의 실무 경력",
+        "AI 오케스트레이션 실전 경험",
+        "추상적 요구사항을 워크플로우로 구체화하는 설계 능력",
+        "상용 LLM 활용 및 운영 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "건강검진지원",
+        "스톡옵션"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354915.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "원티드랩",
+      "position": "Principal Humanoid Whole-Body Control RL",
+      "tech_stack": [
+        "Reinforcement Learning",
+        "PPO",
+        "SAC",
+        "Whole-body control",
+        "Dynamics",
+        "Control",
+        "Robotics",
+        "Legged robot",
+        "Humanoid",
+        "Domain Randomization",
+        "Curriculum Learning",
+        "Reward Shaping",
+        "Simulation",
+        "Real-world testing",
+        "End-to-end learning systems",
+        "Policy optimization",
+        "Inference latency",
+        "Stability",
+        "Robustness",
+        "Data collection",
+        "Sim-to-real gap",
+        "Noise handling",
+        "Delay handling",
+        "Partial observability",
+        "End-to-end project",
+        "Mentoring",
+        "Technical leadership"
+      ],
+      "experience": "신입-경력 5년",
+      "location": "서울 성동구 연무장5가길 25, 605호",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "휴머노이드 전신 제어를 위한 강화학습 알고리즘 개발",
+        "Interaction 기반 학습 시스템 구축",
+        "모델 최적화 및 개선",
+        "Reward 설계 및 학습 안정성 개선",
+        "정책의 안정성 및 일반화 성능 개선",
+        "실제 로봇 시스템과의 통합"
+      ],
+      "requirements": [
+        "AI, Robotics, Computer Science 등 관련 분야 석사 학위 이상",
+        "Reinforcement Learning: PPO, SAC 등 로보틱스 적용 강화학습 알고리즘 경험",
+        "Dynamics & Control: 로봇 동역학 및 제어 이론에 대한 탄탄한 이해",
+        "Engineering & Leadership: 복잡한 제어 또는 RL 프로젝트를 end-to-end로 수행한 경험"
+      ],
+      "preferred_qualifications": [
+        "특히 legged robot 또는 humanoid 시스템 제어 경험",
+        "주니어 엔지니어를 멘토링하거나 기술 리딩한 경험"
+      ],
+      "benefits": [
+        "50명이하",
+        "연봉 업계평균이상",
+        "AI 선도 기업",
+        "유망산업",
+        "자기계발지원",
+        "워크샵",
+        "커피·스낵바"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354916.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "ROBROS",
+      "position": "Robotics ML Deployment Engineer",
+      "tech_stack": [
+        "PyTorch",
+        "Python",
+        "C++"
+      ],
+      "experience": "신입-경력 4년",
+      "location": "서울 성동구 연무장5가길 25, 605호",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "Multimodal Manipulation Model을 실제 로봇에 적용",
+        "시뮬레이션 실제 환경으로의 전환 (Sim-to-Real)",
+        "현장에서 발생하는 문제 디버깅 및 개선",
+        "고객/현장 문제 해결",
+        "다양한 로봇 작업 환경에서 요구사항 분석",
+        "실제 사용 환경에서 발생하는 edge case 해결",
+        "문제 정의 실험 개선의 빠른 반복",
+        "inference latency, stability, robustness 개선",
+        "데이터 수집 및 모델 성능 향상",
+        "RL / IL 기반으로 policy 개선",
+        "실제 환경에서 데이터 수집 및 정제",
+        "학습/평가/배포 파이프라인 설계 및 개선",
+        "offline online learning 루프 구축",
+        "Robotics / Hardware 팀과 협업하여 시스템 통합",
+        "Research 팀과 협업하여 모델 개선 방향 제안",
+        "실제 환경에서의 피드백을 연구에 반영"
+      ],
+      "requirements": [
+        "Machine Learning / AI",
+        "Vision / Multimodal 모델 활용 경험",
+        "모델 inference 및 최적화 경험",
+        "Python 또는 C++ 기반 개발 능력",
+        "디버깅 및 문제 해결 능력",
+        "실제 시스템을 끝까지 구현해본 경험",
+        "로봇 시스템 또는 시뮬레이션 환경 경험",
+        "perception action pipeline 이해",
+        "실제 환경에서의 불확실성 처리 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "354929.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "마임하임",
+      "position": "AI 데이터 분석 및 딥러닝 알고리즘 엔지니어",
+      "tech_stack": [
+        "PyTorch",
+        "TensorFlow",
+        "MLP",
+        "EKF"
+      ],
+      "experience": "3년 이상",
+      "location": "경기 성남시 수정구 대왕판교로 815",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "BLE 비콘 기반의 RSSI 데이터 및 스마트폰 IMU센서 데이터 수집, 전처리 및 노이즈 필터링",
+        "다중 경로 반사(Multipath)로 인한 비선형적 신호 왜곡을 보정하기 위한 다층 퍼셉트론(MLP) 및 확장 칼만 필터(EKF) 기반 딥러닝 모델 최적화",
+        "사용자 행동 맥락(Context) 인식 및 분류 모델(Classification Model) 개발",
+        "협력사와 협업하여 센서 데이터 처리 오작동 방지 알고리즘 튜닝 및 내재화"
+      ],
+      "requirements": [
+        "AI/ML 실무 경력 3년 이상",
+        "PyTorch 또는 TensorFlow 등 딥러닝 프레임워크 환경에서 머신러닝 최적화 경험",
+        "시계열·센서 데이터(IMU, RSSI 등) 처리 및 필터링 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "354931.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "마임하임",
+      "position": "모바일 앱 및 결제 플랫폼 API 연동 개발자",
+      "tech_stack": [
+        "REST API",
+        "Flutter",
+        "React Native"
+      ],
+      "experience": "3-7년",
+      "location": "경기 성남시 수정구 대왕판교로 815",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "REST API 서버 및 운영자용 대시보드 백엔드 구축",
+        "백그라운드 상태에서 위치를 인식해 자동 실행(Wake-up)시키는 스마트폰 앱(Android/iOS) 개발",
+        "파트너사 앱 연동을 위한 SDK(Software Development Kit) 개발"
+      ],
+      "requirements": [
+        "모바일 앱 개발 및 API 설계/연동 실무 경력 3년 이상",
+        "Flutter, React Native 등 크로스 플랫폼 또는 네이티브 앱 풀스택 개발 가능",
+        "B2B 파트너사 연동 SDK 개발 및 통합 테스트 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "지원자, 추천인 각 현금 50만원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354940.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "현대캐피탈",
+      "position": "AI Platform Engineer",
+      "tech_stack": [
+        "Linux",
+        "Docker",
+        "Kubernetes",
+        "Python",
+        "C++",
+        "Go",
+        "CI/CD",
+        "LLM",
+        "Agent"
+      ],
+      "experience": "8년 이상",
+      "location": "서울 중구 세종대로 14 그랜드센트럴 A동",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "AI Agent 플랫폼 아키텍처 설계 및 Agent 서빙 파이프라인 구축 운영",
+        "MLOps/LLMOps 체계 수립",
+        "인프라 보안 및 거버넌스 수립",
+        "기술 리더십 수행",
+        "AI Agent 및 LLM 관련 최신 기술 트렌드 연구"
+      ],
+      "requirements": [
+        "컴퓨터 공학/사이언스, 산업공학, 인공지능, 소프트웨어 공학 또는 관련 분야 학사 이상",
+        "총 실무 경력 8 년 이상 (그 중 플랫폼/인프라/AI 관련 분야 실무 경력 4 년 이상)",
+        "Linux(RHEL, Rocky, Ubuntu) 전반에 관한 이해와 활용 능력",
+        "컨테이너 오케스트레이션: Docker, Kubernetes (k8s) 기반 프로덕션 환경 구축 및 운영 능력",
+        "ML/LLM 모델의 배포, 모니터링, 재학습 등 라이프사이클 전반에 대한 이해 및 설계 능력",
+        "Python, C++, Go 등 프로그래밍 언어 및 shell 스크립팅 능력",
+        "CI/CD 파이프라인 구축 및 운영 능력"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "의료비지원",
+        "자기계발지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354946.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "서브원",
+      "position": "Data Analytics Engineer",
+      "tech_stack": [
+        "Python",
+        "SQL",
+        "Data Analysis",
+        "Tableau",
+        "AWS",
+        "CRM",
+        "SQL 서버"
+      ],
+      "experience": "5년 이상",
+      "location": "서울 종로구 새문안로 76, 콘코디언빌딩 6~8층, 10층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "EDA 기반 데이터 구조 이해 및 가설 도출",
+        "통계/ML 기반 예측 분석 및 모델링",
+        "고객 행동 분석 및 경험 고도화",
+        "인사이트 도출 및 실행 전략 제안"
+      ],
+      "requirements": [
+        "데이터 분석 관련 업무 실무 경력 5년 이상",
+        "과제 발굴부터 데이터 탐색까지 End-to-End로 과제를 완수하고 비즈니스 임팩트를 만들어낸 경험이 있는 분",
+        "커머스 고객 행동 로그 및 CRM 데이터를 분석하여, 고객에 대한 깊은 이해를 바탕으로 유의미한 인사이트를 도출해 본 경험이 풍부하신 분",
+        "SQL과 Python(또는 R)을 활용해 능숙하게 대용량 데이터를 추출하고 고급 분석 및 모델링을 수행할 수 있는 분",
+        "데이터 기반으로 비즈니스 가설을 수립하고 실험을 통해 가설을 검증하여 실제 서비스 개선이나 매출 증대 등 성과를 창출한 경험이 있으신 분",
+        "비개발 직군(현업 및 기획자) 및 경영진에게 복잡한 데이터 분석 및 개발 결과를 명확하고 설득력 있게 커뮤니케이션 및 보고할 수 있는 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "건강검진지원",
+        "자기계발지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354958.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "THE CSR",
+      "position": "생성형 AI(Gen AI) Engineer",
+      "tech_stack": [
+        "Python",
+        "FastAPI",
+        "LangChain",
+        "LlamaIndex",
+        "LLaMA",
+        "Vector DB"
+      ],
+      "experience": "1-5년",
+      "location": "서울 서초구 서초중앙로22길 80, 백아빌딩 3층 더씨에스알",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "팀 핏",
+        "생성형 AI 모델링",
+        "RAG 파이프라인 고도화",
+        "API 백엔드 연동"
+      ],
+      "requirements": [
+        "1~5년 차의 AI/ML 개발 경력을 가지신 분 (또는 석사 졸업 후 실무 역량을 갖추신 분)",
+        "LangChain, LlamaIndex 등을 활용해 RAG 아키텍처를 직접 구성해 본 경험이 있으신 분",
+        "Python, FastAPI 등을 활용하여 AI 모델을 실제 API 형태로 배포해 본 분",
+        "실서비스 운영 시 발생하는 응답속도(Latency) 저하, 예외 처리 등을 꼼꼼히 고려하며 API를 개발하고 배포해 본 경험이 있는 분",
+        "완벽하지 않아도 괜찮습니다. 초기 모델을 빠르게 띄워보고, 문제를 부딪히며 개선해 나가는 '실행력'과 '프로덕트 오너십'을 갖추신 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "354965.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "루미다",
+      "position": "피지컬 AI 미디어 제어 소프트웨어 개발자",
+      "tech_stack": [
+        "C/C++",
+        "Windows",
+        "TCP/IP",
+        "Serial",
+        "EtherCAT",
+        "CAN",
+        "RS-232",
+        "RS-485"
+      ],
+      "experience": "10년 이상",
+      "location": "서울 강남구 논현로 733, 5층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "피지컬 미디어(MiniCube) 모션 제어 SW 설계·개발",
+        "서보/액추에이터 기반 다축 모션 제어 로직 구현",
+        "실시간 통신 연동 및 현장 디버깅",
+        "설비/시운전/운영 안정화",
+        "원격 모니터링 관제 서비스 및 운영 자동화 로직 고도화",
+        "기구/전장/콘텐츠/프로덕션 협업"
+      ],
+      "requirements": [
+        "제어 SW 개발 실무 10년 이상 또는 이에 준하는 역량",
+        "C/C++ 기반 PC 제어/장비 연동 응용 프로그램 개발 경험",
+        "TCP/IP(Socket) 또는 Serial(RS-232/485) 통신 처리 경험",
+        "Windows 환경 기반 소프트웨어 개발 및 디버깅 경험",
+        "제어 대상 통신 연동부터 현장 시운전까지 End-to-End 문제 해결 경험",
+        "원활한 협업을 위한 기술 문서화 역량",
+        "현장 설치 및 운영 안정화 과정에 대한 높은 이해도"
+      ],
+      "preferred_qualifications": [
+        "영어/일본어/중국어 능통자",
+        "D-3(기술연수), D-8(기업투자), D-9(무역경영) 비자 소지자"
+      ],
+      "benefits": [
+        "커피·스낵바",
+        "건강검진지원",
+        "워크샵",
+        "장비지원",
+        "자기계발지원",
+        "휴가비"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354979.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "에이버튼",
+      "position": "IT 인프라 엔지니어(시니어)",
+      "tech_stack": [
+        "Confluence",
+        "JIRA",
+        "Slack",
+        "Azure",
+        "Linux",
+        "AWS",
+        "VM웨어",
+        "Jenkins",
+        "VPN",
+        "GCP",
+        "DLP",
+        "Perforce"
+      ],
+      "experience": "7년 이상",
+      "location": "경기 성남시 분당구 판교로 323, 벤처포럼벤처타워 3층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "200명+ 규모로 확장해가는 에이버튼의 사내(On-premise) 및 클라우드 인프라를 구축하고 운영, 관리합니다.",
+        "네트워크/VPN 구성 및 운용",
+        "On-premise 서버 장비",
+        "소스 저장소(Perforce) 서버, 빌드 머신, NAS 등",
+        "CI/CD 솔루션(Jenkins), AWS, Azure, GCP 등 클라우드 인프라",
+        "EDR, DLP 등 보안에 필요한 시스템",
+        "담당 시스템/서비스의 상태와 성능을 모니터링하고 트러블슈팅 상황에 대응합니다.",
+        "사용자와 조직의 새로운 요구사항이나 니즈를 반영하여 지속 개선하고, 새로운 시스템을 기획 및 구축합니다."
+      ],
+      "requirements": [
+        "컴퓨터, 정보통신, 소프트웨어 등 IT관련 전공 학사 이상 학위",
+        "7년 이상의 IT 인프라 / 시스템 엔지니어 경험",
+        "OS, 서버, 네트워크 인프라에 대한 전문적인 지식 및 경험",
+        "Linux 및 Windows 운영 경험",
+        "모니터링 시스템 구축 및 운영 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "식대지원",
+        "건강검진지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "354986.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "넥스트블록",
+      "position": "풀스택 엔지니어",
+      "tech_stack": [
+        "Node.js",
+        "React",
+        "Vue.js"
+      ],
+      "experience": "3년 ~ 8년",
+      "location": "서울 강남구 논현로151길 41",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "기관 트레이딩 플랫폼 프론트엔드/백엔드 개발",
+        "실시간 금융 데이터 시각화 및 대시보드 구축",
+        "내부 운영 시스템 및 관리자 플랫폼 개발",
+        "글로벌 거래 인프라 연동 및 API 통합"
+      ],
+      "requirements": [
+        "개발 경력 3년 ~ 8년",
+        "팀워크를 중요시 하는 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "354988.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "티시스아이티",
+      "position": "IFRS17 담당자",
+      "tech_stack": [
+        "SQL",
+        "ARK 결산 시스템"
+      ],
+      "experience": "5-12년",
+      "location": "서울 중구 남대문로 15",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "AR K 결산 시스템 운영 및 관리",
+        "장기 원수/재보험 상품정보 관리",
+        "장기 원수/재보험 현금흐름 최선추정부채 산출 및 변동분석",
+        "현금흐름 시스템 고도화 및 유지관리",
+        "대내/외 감사 및 공시 대응",
+        "IFRS17 업무 전반지원"
+      ],
+      "requirements": [
+        "직무 관련 경력 5~12년 이하",
+        "C 중급 이상",
+        "SQL 중급 이상"
+      ],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "354993.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "러너소프트",
+      "position": "DB 관리 및 인프라 관리자",
+      "tech_stack": [
+        "ClickHouse",
+        "SQL",
+        "Analytics Engineering",
+        "Telemetry",
+        "Data Warehouse",
+        "Data Pipeline",
+        "OLAP"
+      ],
+      "experience": "3-5년",
+      "location": "서울 강남구 삼성로100길 12, 5층 러너소프트",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "고성능 분석 DB 운영",
+        "ClickHouse를 활용한 OLAP 시스템 구축 및 관리",
+        "Materialized View 설계 및 데이터 마트(Data Warehouse) 구축",
+        "대용량 쿼리 최적화(SQL Tuning) 및 인덱싱 전략 수립",
+        "게임 내 발생하는 실시간 이벤트 데이터(Event Pipeline) 수집 및 가공",
+        "Telemetry 기반의 게임 분석(Game Analytics) 인프라 구축 지원",
+        "데이터 가용성 확보를 위한 Analytics Engineering 프로세스 정립",
+        "클라우드/온프레미스 기반 서버 운영 및 모니터링"
+      ],
+      "requirements": [
+        "3-5년차"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "식대지원",
+        "보너스"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "355001.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "짐싸",
+      "position": "백엔드 시니어 개발자(10년 이상)",
+      "tech_stack": [
+        "Spring boot",
+        "Java",
+        "Jpa",
+        "RDB",
+        "NoSQL"
+      ],
+      "experience": "10년 이상",
+      "location": "서울 성동구 상원길 19, 2층 짐싸",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "백엔드 시스템 개발",
+        "장애 대응",
+        "운영 프로세스 정비",
+        "AI 기반 개발 방식 고도화"
+      ],
+      "requirements": [
+        "Spring boot(Java), Jpa 기반의 서비스를 10년 이상 개발/운영 경험",
+        "DB(RDB, NoSQL) 테이블 설계 능력",
+        "개발 전반에서 AI를 실질적으로 활용한 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "자유로운휴가",
+        "휴가비",
+        "식대지원",
+        "보너스"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "355006.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "타이탄컴퍼니",
+      "position": "백엔드 개발자(Nest.js)",
+      "tech_stack": [
+        "TypeScript",
+        "Nest.js",
+        "TypeORM",
+        "Redis",
+        "AWS",
+        "Git"
+      ],
+      "experience": "2-7년",
+      "location": "서울 강남구 언주로106길 41, 2층",
+      "salary_range": null,
+      "employment_type": "계약직",
+      "main_tasks": [
+        "Nest.js 기반 웹/앱 백엔드 API 개발",
+        "교육 · 강의 커뮤니티 서비스 서버 구축 및 기능 개발",
+        "서버 구조 설계 및 모듈화",
+        "DB 스키마 설계 및 ORM 기반 비즈니스 로직 개발",
+        "Redis 기반 캐싱, 큐, 레이트리밋 시스템 활용",
+        "AWS 인프라(ECS/EC2 등) 기반 서비스 운영 및 호스팅 관리",
+        "배포 파이프라인 및 운영 자동화 환경 구축",
+        "모니터링 인프라 관리 ( kibana & sentry )"
+      ],
+      "requirements": [
+        "TypeScript 기반 개발 경험",
+        "Nest.js 실무 경험 또는 이에 준하는 백엔드 프레임워크 경험이 2 년 이상이신 분",
+        "새로운 기술 스택 학습 및 사용에 거리낌 없는 분",
+        "TypeORM 사용경험",
+        "Redis 활용 경험 (캐싱/세션/Queue 등)",
+        "RDB 사용 경험 (postgreSQL or MySQL)",
+        "AWS(ECS 또는 EC2 기반) 서비스 운영 경험",
+        "Git 기반 협업 및 코드리뷰 경험"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "자기계발지원",
+        "커피·스낵바",
+        "자유로운휴가",
+        "식대지원",
+        "장비지원",
+        "보너스",
+        "유급휴가",
+        "편의시설"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "355012.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "도프텍",
+      "position": "AI Research/Engineering",
+      "tech_stack": [
+        "PyTorch",
+        "TensorFlow",
+        "Python"
+      ],
+      "experience": "1-10년",
+      "location": "서울 중구 통일로 86, 401, 401호",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "플랜트 도면, 2D/3D CAD, 각종 문서 등 비정형/반정형 데이터에 대한 AI 기반 인식·추출 기능 개발",
+        "OCR/VLM/멀티모달 모델을 활용한 텍스트, 심볼, 표, 속성 추출 파이프라인 설계 및 개선",
+        "배관/케이블 3D 환경 자동 라우팅을 위한 AI 기반 로직 설계 및 고도화",
+        "온톨로지/그래프/시뮬레이션/디지털 트윈으로 확장 가능한 데이터 모델 설계",
+        "모델 성능 평가 체계 구축, 학습 데이터 생성/정제, 배포 및 운영 프로세스 개선",
+        "고객 요구사항과 현업 설계 흐름을 분석 및 구체화"
+      ],
+      "requirements": [
+        "Python 기반 AI/데이터 처리 개발 경험이 있으신 분",
+        "TensorFlow 또는 PyTorch 등 딥러닝 프레임워크 사용 경험이 있으신 분",
+        "LLM/VLM 등을 활용한 모델링부터 데이터 파이프라인(RAG) 및 추론 효율화에 대한 실무 경험이 있으신 분",
+        "데이터 전처리, 평가 지표 설계, 에러 분석, 성능 개선 사이클을 스스로 돌릴 수 있는 분",
+        "문제를 모호한 상태로 두지 않고, 입력/출력/예외 케이스를 구조적으로 정의할 수 있는 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": []
+    },
+    "error": null
+  },
+  {
+    "file_name": "355015.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "랭디",
+      "position": "백엔드 개발자(3~5년)",
+      "tech_stack": [
+        "Kotlin",
+        "Spring Boot",
+        "JPA",
+        "QueryDSL",
+        "Redis",
+        "Git"
+      ],
+      "experience": "3-5년",
+      "location": "서울 관악구 남부순환로 1922 4층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "Kotlin + Spring Boot 기반 도메인 및 서비스 설계·구현",
+        "JPA/QueryDSL 기반 데이터 접근 성능 및 트랜잭션 최적화",
+        "서버 인프라 및 코드베이스 마이그레이션 수행"
+      ],
+      "requirements": [
+        "Kotlin 및 Spring Boot 기반 백엔드 서비스 개발·운영 경험이 있는 분",
+        "RDBMS 설계 및 트랜잭션 처리에 대한 이해가 깊은 분",
+        "RESTful API 또는 WebSocket 등 네트워크 인터페이스 설계 경험이 있는 분",
+        "단위 테스트 및 기본적인 테스트 코드 작성에 익숙한 분",
+        "제품의 기술 방향을 함께 고민하고, 구조적 개선을 주도할 수 있는 분",
+        "문제를 빠르게 해결하기보다, 지속 가능한 방식으로 해결하려는 태도를 가진 분"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "자기계발지원",
+        "커피·스낵바",
+        "건강검진지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "355021.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "뱅크샐러드",
+      "position": "데이터 애널리스트 (Data Analyst, 건강 PA)",
+      "tech_stack": [
+        "Snowflake",
+        "Metabase",
+        "Amplitude",
+        "Python",
+        "SQL",
+        "pandas",
+        "scikit-learn",
+        "KoNLPy",
+        "LLM",
+        "GA",
+        "pandas",
+        "scikit-learn",
+        "KoNLPy"
+      ],
+      "experience": "7년 이상",
+      "location": "서울 마포구",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "상담 내역 데이터를 기반으로 고전환·저전환 상담 패턴을 식별하고 전환율에 영향을 미치는 핵심 요인을 정량화합니다.",
+        "자연어 분석을 활용하여 상담 텍스트에서 유의미한 패턴을 추출하고 효과적인 상담 화법과 시나리오를 도출합니다.",
+        "비즈니스/제품에 대한 원인 분석 및 가설 검정을 통해 실행 가능한 인사이트를 도출하고 전략을 제시합니다.",
+        "뱅크샐러드 사용자의 건강·보험 관련 행동 데이터를 바탕으로 분석 및 모델링하여 제품에 대한 이해를 높입니다.",
+        "제품의 성장에 연결되는 핵심 지표들을 설계하고 구현합니다.",
+        "상담사별·시나리오별 전환 성과를 추적할 수 있는 이벤트 로그를 설계하고 경험을 측정합니다.",
+        "구성원들이 지표를 쉽게 이해하고 활용할 수 있도록 데이터를 가공하고 시각화합니다.",
+        "건강팀 PM/PA, GA 매니저와 긴밀히 협업하여 분석 결과를 상담 운영에 반영합니다.",
+        "분석 효율성을 높이기 위한 데이터 마트(Data Mart)를 설계하고 구축합니다.",
+        "상담사의 상담 방식을 통제 변인으로 설정하여 준실험(Quasi-experiment)을 설계·수행합니다.",
+        "실험 결과의 통계적 유의성을 검증하고 인과적 효과를 해석하여 의사결정에 활용합니다.",
+        "A/B 테스트를 설계·수행하고 실험 결과의 통계적 유의성을 검증합니다."
+      ],
+      "requirements": [
+        "데이터 분석 경력 7년 이상 또는 이에 준하는 제품/성장 의사결정에 영향을 준 분석 프로젝트를 리드한 경험이 있어야 합니다.",
+        "SQL을 활용해 대규모 데이터를 다루고, 핵심 지표 설계·원인 규명·전략 제안까지 End-to-End로 수행한 경험이 있어야 합니다.",
+        "금융데이터 구조를 이해하고 행동 데이터와 결합해 사용자 가치와 수익 기여를 함께 설명할 수 있는 역량이 있어야 합니다.",
+        "통계 모델링, 머신러닝 기법 등 고급 분석 방법론 활용 경험이 있어야 합니다.",
+        "A/B 테스트 및 가설 검정에 대한 이해와 실무 적용 경험(지표 정의, 실험 설계, 결과 해석)이 있어야 합니다.",
+        "데이터 기반으로 문제를 구조화하고, 다양한 직군/리더십과 협업하며 조직의 의사결정 수준을 끌어올린 커뮤니케이션/리딩 역량이 있어야 합니다."
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "커피·스낵바",
+        "편의시설",
+        "장비지원",
+        "유급휴가",
+        "연봉상위2~5%",
+        "보너스",
+        "건강검진지원"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "355033.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "VNTG",
+      "position": "AI 기반 개발자 플랫폼 엔지니어",
+      "tech_stack": [
+        "React",
+        "Node.js",
+        "TypeScript"
+      ],
+      "experience": "3년 이상",
+      "location": "서울 마포구 양화로 45 세아타워 3,6층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "Internal Developer Platform 구축",
+        "AI-Powered 개발 도구 구축",
+        "공통 컴포넌트 및 공통 서비스 개발"
+      ],
+      "requirements": [
+        "Full Stack 개발 실무 경험 3년 이상",
+        "TypeScript 숙련",
+        "React 기반 프론트엔드 개발 경험",
+        "NestJS 또는 Node.js 기반 백엔드 서비스 개발 경험",
+        "RESTful API 설계 및 구현 경험",
+        "AI Coding Assistant 활용 경험",
+        "프롬프트 엔지니어링 실무적 이해",
+        "CI/CD 파이프라인 설계 경험",
+        "클라우드 네이티브 아키텍처 이해",
+        "DX 고려한 설계 마인드",
+        "기술 문서 작성 역량"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "자기계발지원",
+        "리프레시휴가",
+        "휴가비",
+        "건강검진지원",
+        "커피·스낵바"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "355045.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "애자일소다",
+      "position": "생성형 AI 데이터 사이언티스트",
+      "tech_stack": [
+        "LLM",
+        "RAG",
+        "ML",
+        "Python",
+        "LangChain",
+        "LangGraph"
+      ],
+      "experience": "3년 이상",
+      "location": "서울시 강남구 선릉로 525 인포스톰빌딩 3층",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "AI Agent/Agentic AI 아키텍처 설계 및 개발",
+        "LLM, RAG, ML 기반으로 데이터 분석부터 서비스 운영까지 End-to-End 프로세스 개발",
+        "Prompt Engineering 및 지속적인 성능 개선을 통한 응답 품질 및 사용자 경험 향상",
+        "외부 고객사 대상 생성형 AI 기반 프로젝트 기획 및 수행",
+        "비즈니스 도메인(금융, 제조 등)에 최적화된 AI 모델 설계, 개발 및 운영",
+        "요구사항 분석, PoC 수행, 기술 컨설팅 및 결과 리포팅"
+      ],
+      "requirements": [
+        "AI 관련 전공 (컴퓨터공학/과학, 산업공학, 통계학, 수학 등) 학사 이상",
+        "ML/LLM 관련 3년 이상의 실무 경험",
+        "LLM API(OpenAI, Anthropic, Gemini 등) 활용 서비스 개발 경험",
+        "AI Agent 프레임워크(LangChain, LangGraph 등) 활용 경험",
+        "Python 기반 AI 라이브러리 활용 경험",
+        "다양한 이해관계자와의 원활한 커뮤니케이션 및 협업 역량"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "보너스",
+        "커피·스낵바",
+        "식대지원",
+        "유연근무"
+      ]
+    },
+    "error": null
+  },
+  {
+    "file_name": "355050.md",
+    "is_valid_json": true,
+    "extracted_data": {
+      "company": "원티드 픽",
+      "position": "Technical Data Project Manager",
+      "tech_stack": [],
+      "experience": "3-8년",
+      "location": "서울 강남구 역삼로3길 19, 하나진빌딩",
+      "salary_range": null,
+      "employment_type": null,
+      "main_tasks": [
+        "고객 및 외부 파트너와의 커뮤니케이션 주도",
+        "데이터 관련 프로젝트 관리 및 진행",
+        "프로젝트 이슈 식별 및 해결",
+        "자율주행 데이터 워크플로우 프로세스 개선",
+        "데이터 분석 및 자동화 지원",
+        "프로젝트 문서화 및 관리"
+      ],
+      "requirements": [
+        "학사 학위 이상 또는 동등 실무 경험",
+        "프로젝트/운영/고객 역할 3년 이상 또는 데이터/엔지니어링 역할 동등 경험",
+        "강력한 커뮤니케이션 및 문서 작성 능력",
+        "유창한 영어 구사 능력",
+        "다중 프로젝트 및 이해관계자 동시 관리 능력",
+        "MS Office, Confluence, JIRA 등 문서/프로젝트 관리 도구 숙련"
+      ],
+      "preferred_qualifications": [],
+      "benefits": [
+        "보너스",
+        "스톡옵션"
+      ]
+    },
+    "error": null
+  }
+]

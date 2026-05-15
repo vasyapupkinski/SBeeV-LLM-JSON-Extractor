@@ -1,0 +1,65 @@
+{
+  "model": "SBV-LLM (DoRA)",
+  "gold": {
+    "company": "넥스트증권",
+    "position": "Data Engineer(컨텐츠플랫폼개발)",
+    "tech_stack": [
+      "Python",
+      "Go",
+      "Kotlin",
+      "SQL",
+      "Apache Kafka",
+      "Apache Spark",
+      "Databricks",
+      "AWS",
+      "PostgreSQL",
+      "Oracle"
+    ],
+    "experience": "7년 이상",
+    "location": "서울 영등포구 국제금융로 10, 3IFC 15층",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "넥스트증권",
+    "position": "Data Engineer(컨텐츠플랫폼개발)",
+    "tech_stack": [
+      "Kafka",
+      "Databricks",
+      "Delta Lake",
+      "Delta Live Tables",
+      "Lakeflow",
+      "AWS",
+      "Python",
+      "Go",
+      "Kotlin",
+      "SQL"
+    ],
+    "experience": "7년 이상",
+    "location": "서울 영등포구 국제금융로 10, 3IFC 15층",
+    "salary_range": null,
+    "employment_type": null,
+    "main_tasks": [
+      "실시간 데이터 수집 파이프라인 구축",
+      "데이터 레이크하우스 설계 및 운영",
+      "AI 서비스 데이터 서빙",
+      "데이터 거버넌스 및 규제 준수",
+      "크로스팀 협업"
+    ],
+    "requirements": [
+      "7년 이상의 데이터 엔지니어 경력",
+      "Python 능숙 사용",
+      "Go 또는 Kotlin 중 하나 이상 경험",
+      "SQL 활용 능력",
+      "Apache Kafka 기반 실시간 스트리밍 데이터 처리 경험",
+      "Apache Spark 또는 Databricks 사용 경험",
+      "AWS 등 퍼블릭 클라우드 환경 경험",
+      "RDBMS 이해"
+    ],
+    "preferred_qualifications": [],
+    "benefits": [
+      "건강검진지원"
+    ]
+  },
+  "latency": 3.940162420272827
+}

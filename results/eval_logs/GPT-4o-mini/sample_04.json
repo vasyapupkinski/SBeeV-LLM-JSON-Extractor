@@ -1,0 +1,32 @@
+{
+  "model": "GPT-4o-mini",
+  "gold": {
+    "company": "혜움",
+    "position": "AI Native Engineer (백엔드 기반/7년+)",
+    "tech_stack": [
+      "AWS",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "RESTful API"
+    ],
+    "experience": "7년 이상",
+    "location": "서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": {
+    "company": "혜움",
+    "position": "AI Native Engineer (백엔드 기반/7년+)",
+    "tech_stack": [
+      "AWS",
+      "GCP",
+      "Docker",
+      "Kubernetes",
+      "RESTful API"
+    ],
+    "experience": "7년 이상",
+    "location": "서울특별시 강남구 테헤란로86길 13, 2/3/4/5/6/7층"
+  },
+  "latency": 1.8041467666625977
+}

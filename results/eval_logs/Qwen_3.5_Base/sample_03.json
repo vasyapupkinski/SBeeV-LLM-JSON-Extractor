@@ -1,0 +1,38 @@
+{
+  "model": "Qwen 3.5 (Base)",
+  "gold": {
+    "company": "라포랩스",
+    "position": "Server Platform Engineer",
+    "tech_stack": [
+      "Kotlin",
+      "Java",
+      "Spring Boot",
+      "Spring WebFlux",
+      "Kubernetes (EKS)",
+      "Istio",
+      "ArgoCD",
+      "Helm",
+      "MySQL (Aurora)",
+      "Redis",
+      "Kafka",
+      "DynamoDB",
+      "Elasticsearch",
+      "DataDog",
+      "Grafana",
+      "VictoriaMetrics",
+      "VictoriaLogs",
+      "GitHub Actions",
+      "Argo Rollouts",
+      "Argo Workflow",
+      "Claude Code",
+      "Claude Agent Skills",
+      "MCP"
+    ],
+    "experience": "3-15년",
+    "location": "서울 강남구 테헤란로98길 8, KT&G 코스모 대치타워",
+    "salary_range": null,
+    "employment_type": null
+  },
+  "pred": null,
+  "latency": 3.766209840774536
+}
