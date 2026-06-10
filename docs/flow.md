@@ -10,7 +10,7 @@ flowchart TD
     end
 
     subgraph "Phase 2: Label Generation"
-        C -->|Gemini 3.1 Pro| D["data/labeled/ (input-output pairs)"]
+        C -->|GPT-4o-mini| D["data/labeled/ (input-output pairs)"]
         D -->|수동 검수 50건| E["data/golden/ (평가 전용)"]
     end
 
@@ -37,7 +37,7 @@ flowchart TD
     subgraph "Phase 6: Evaluation"
         E --> P[벤치마크 평가]
         N --> P
-        Q[Gemini 2.5 Flash] --> P
+        Q[GPT-4o-mini] --> P
         P --> R["results_v2/benchmark_report.md"]
     end
 ```
@@ -50,7 +50,7 @@ flowchart LR
     B -->|json.loads 성공| C[구조화 JSON]
     B -->|json.loads 실패| D{Retry x2}
     D -->|성공| C
-    D -->|실패| E["Gemini 2.5 Flash (Fallback)"]
+    D -->|실패| E["GPT-4o-mini (Fallback)"]
     E -->|response_schema 강제| C
 ```
 

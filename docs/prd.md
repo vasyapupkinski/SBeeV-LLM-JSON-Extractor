@@ -46,7 +46,7 @@ Qwen 3.5 (9B)를 DoRA 파인튜닝하여 채용 공고 → 구조화 JSON을 95%
 - **VRAM:** 12GB (RTX 5070) — QLoRA 4-bit 필수
 - **모델:** Qwen 3.5 (9B) (Base 우선, 없으면 IT)
 - **법적:** 포트폴리오 용도, 크롤링 데이터 비공개, robots.txt 준수
-- **Fallback:** SBV-LLM 실패 시 Gemini 2.5 Flash API로 동일 스키마 폴백
+- **Fallback:** SBV-LLM 실패 시 GPT-4o-mini API로 동일 스키마 폴백
 
 ## Downstream Consumer
 Devoffs (채용 플랫폼)가 SBV-LLM의 JSON 출력을 DB에 저장 → 검색/필터링에 활용. 원문은 별도 저장하며, 요약은 범용 LLM이 담당.

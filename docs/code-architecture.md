@@ -7,7 +7,7 @@ SBeeV-LLM-JSON-Extractor/
 ├── docs/                          # 이 문서들
 ├── scripts/
 │   ├── 01_crawl_wanted.py         # 원티드 크롤러
-│   ├── 03_generate_labels_v2.py   # Gemini 정답 생성
+│   ├── 03_generate_labels_v2.py   # GPT-4o-mini 정답 생성
 │   ├── 04_augment_dataset_v2.py   # 데이터 증강
 │   ├── 05_train_dora_v2.py        # DoRA 파인튜닝 (주 학습)
 │   ├── 06_merge_model_v2.py       # 모델 병합
@@ -16,7 +16,7 @@ SBeeV-LLM-JSON-Extractor/
 │   └── 09_bulk_inference_v2.py    # 벌크 추론 및 정보 추출
 ├── data/
 │   ├── raw/wanted/*.md            # 원티드 크롤링 원문
-│   ├── labeled/*.jsonl            # Gemini 생성 정답
+│   ├── labeled/*.jsonl            # GPT-4o-mini 생성 정답
 │   ├── splits_v2/{train,val}.jsonl# 학습/검증 분리
 │   └── golden/golden_50.jsonl     # 평가 전용 (학습 미사용)
 ├── models/
@@ -42,9 +42,9 @@ SBeeV-LLM-JSON-Extractor/
 ### scripts/03: Label Generator
 - **입력:** `data/raw/*.md`
 - **출력:** `data/labeled/labeled_dataset.jsonl`
-- **의존:** `google-generativeai`
+- **의존:** `openai`
 - **형식:** `{"instruction": "...", "input": "원문", "output": "{JSON}"}`
-- **주의:** Gemini의 `response_schema`로 스키마 강제. 실패 건 로그 + 재시도.
+- **주의:** OpenAI의 JSON mode 및 스키마 검증으로 안정성 강제. 실패 건 로그 + 재시도.
 
 ### scripts/04: Augmenter
 - **입력:** `data/labeled/*.jsonl`
@@ -68,7 +68,7 @@ SBeeV-LLM-JSON-Extractor/
   ```
 
 ### scripts/07: Evaluator
-- **입력:** `data/golden/golden_50.jsonl` + 3개 모델(DoRA, LoRA, Gemini)
+- **입력:** `data/splits_v2/test.jsonl` + 3개 모델(DoRA, Base, GPT-4o-mini)
 - **출력:** `results/*.json`, `results/benchmark_report.md`
 - **비교 로직:** 대소문자 무시, 순서 무시, recall 기준 (see ADR-004)
 
@@ -85,7 +85,7 @@ bitsandbytes     # 4-bit 양자화
 transformers     # 모델 로드
 datasets         # 데이터셋 처리
 crawl4ai         # 웹 스크래핑
-google-generativeai  # Gemini API
+openai  # OpenAI API
 ollama           # 로컬 LLM 서빙
 jsonschema       # 스키마 검증
 ```

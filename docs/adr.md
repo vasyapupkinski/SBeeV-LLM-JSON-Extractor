@@ -71,14 +71,14 @@
 
 ---
 
-## ADR-005: Fallback Strategy — Gemini 2.5 Flash
+## ADR-005: Fallback Strategy — GPT-4o-mini
 
 **Status:** Accepted
 **Context:** SBV-LLM이 유효하지 않은 JSON을 출력할 경우 대응.
-**Decision:** Retry 2회 → 실패 시 Gemini 2.5 Flash API에 동일 스키마로 폴백.
+**Decision:** Retry 2회 → 실패 시 GPT-4o-mini API에 동일 스키마로 폴백.
 **Rationale:**
-- Gemini의 `response_schema` 기능으로 **동일 JSON 스키마를 서버사이드에서 강제** 가능
-- 다운스트림 코드가 SBV 출력이든 Gemini 출력이든 동일하게 처리 가능
+- OpenAI API의 JSON Mode 기능으로 **동일 JSON 스키마를 서버사이드에서 강제** 가능
+- 다운스트림 코드가 SBV 출력이든 GPT-4o-mini 출력이든 동일하게 처리 가능
 - 폴백 비율이 높으면(>5%) 학습 데이터 품질을 재검토해야 한다는 신호
 
 ---
@@ -93,7 +93,7 @@
 - 800건 × ~2.5 증강 = 2,000건 → Base 모델이라도 안정적 수렴
 - 1,000건 이상 수집은 시간 대비 한계 효용 체감
 - 증강 유형: 전체 추출(750) + 부분 추출(750) + 지시어 변형(375) + 엣지(~100)
-- **골든 데이터셋 50건**: 학습에 절대 미사용, 평가 전용. Gemini가 생성한 라벨을 수동 검수하여 정답 보장.
+- **골든 데이터셋 50건**: 학습에 절대 미사용, 평가 전용. GPT-4o-mini가 생성한 라벨을 수동 검수하여 정답 보장.
 
 ---
 

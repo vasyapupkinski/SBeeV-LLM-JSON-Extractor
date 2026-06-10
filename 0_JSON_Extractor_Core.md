@@ -36,7 +36,7 @@
 | **Base Model** | **Qwen 3.5 (9B, Base)** | 12GB VRAM에서 가장 효율적으로 학습 가능한 최신 아키텍처 모델. |
 | **Optimization** | **Unsloth**, QLoRA (4-bit NF4) | 메모리 70% 절감 및 학습 속도 2배 향상. |
 | **Tuning** | **DoRA** (Weight-Decomposed LoRA) | 가중치 분해 학습을 통한 고정밀 튜닝. |
-| **Data Strategy** | Crawl4AI, Synthetic Data | 마크다운 수집 및 교사 모델(Gemini) 기반 지식 증류. |
+| **Data Strategy** | Crawl4AI, Synthetic Data | 마크다운 수집 및 교사 모델(GPT-4o-mini) 기반 지식 증류. |
 | **Deployment** | FastAPI, Ollama, Docker | 경량 API 서버 및 로컬 LLM 추론 환경. |
 
 ---
@@ -53,7 +53,7 @@
 
 ### 데이터 구축 흐름
 1. **Raw Data Collection**: Crawl4AI로 채용 공고 원문 1,000건 마크다운 수집.
-2. **Distillation (교사 모델)**: Gemini 3.1 Pro로 JSON 정답 자동 생성.
+2. **Distillation (교사 모델)**: GPT-4o-mini로 JSON 정답 자동 생성.
 3. **Data Augmentation**: 지시어 변형 / 부분 추출 / 엣지 케이스 추가로 **3,000건+** 학습 데이터 구축.
 4. **Golden Dataset**: 50건 수동 검수 → 평가 전용 (학습에 사용 금지).
 5. **Evaluation**: 파인튜닝 전후의 'JSON Schema 준수율' 및 '추론 속도' 측정.
@@ -74,11 +74,11 @@
 | **Latency (Token/s)** | 양자화 후 초당 생성 토큰 속도 (TPS) |
 | **VRAM Usage** | 4-bit 양자화 상태에서 추론 시 점유하는 메모리 크기 |
 
-### 상용 모델 대비 비교 (SBV-LLM vs Gemini)
+### 상용 모델 대비 비교 (SBV-LLM vs GPT-4o-mini)
 
 동일한 **골든 데이터셋**(정답지가 검수된 채용 공고 50건)을 기준으로, 상용 API와 SBV-LLM의 성능을 정량 비교합니다.
 
-| 비교 지표 | Gemini 3.1 Pro (상용) | SBV-LLM (DoRA 파인튜닝) |
+| 비교 지표 | GPT-4o-mini (상용) | SBV-LLM (DoRA 파인튜닝) |
 | :--- | :---: | :---: |
 | **JSON 유효율** | ~95% | 99%+ (목표) |
 | **필드별 F1-Score** | ~0.90 | 0.92+ (목표) |
