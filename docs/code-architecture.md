@@ -7,38 +7,35 @@ SBeeV-LLM-JSON-Extractor/
 ├── docs/                          # 이 문서들
 ├── scripts/
 │   ├── 01_crawl_wanted.py         # 원티드 크롤러
-│   ├── 02_crawl_zighang.py        # 직행 크롤러
-│   ├── 03_generate_labels.py      # Gemini 정답 생성
-│   ├── 04_augment_dataset.py      # 데이터 증강
-│   ├── 05_train_dora.py           # DoRA 파인튜닝 (주 학습)
-│   ├── 06_train_lora.py           # LoRA 파인튜닝 (비교용)
-│   ├── 07_evaluate.py             # 벤치마크 평가
-│   ├── 08_export_gguf.py          # GGUF 변환 + Ollama 등록
-│   └── 09_push_to_hub.py          # HuggingFace 업로드
+│   ├── 03_generate_labels_v2.py   # Gemini 정답 생성
+│   ├── 04_augment_dataset_v2.py   # 데이터 증강
+│   ├── 05_train_dora_v2.py        # DoRA 파인튜닝 (주 학습)
+│   ├── 06_merge_model_v2.py       # 모델 병합
+│   ├── 07_evaluate_v2.py          # 벤치마크 평가
+│   ├── 08_export_gguf_v2.py       # GGUF 변환 + Ollama 등록
+│   └── 09_bulk_inference_v2.py    # 벌크 추론 및 정보 추출
 ├── data/
-│   ├── raw/{wanted,zighang}/*.md  # 크롤링 원문
+│   ├── raw/wanted/*.md            # 원티드 크롤링 원문
 │   ├── labeled/*.jsonl            # Gemini 생성 정답
-│   ├── augmented/*.jsonl          # 증강 완료 데이터
-│   ├── golden/golden_50.jsonl     # 평가 전용 (학습 미사용)
-│   └── splits/{train,val}.jsonl   # 학습/검증 분리
+│   ├── splits_v2/{train,val}.jsonl# 학습/검증 분리
+│   └── golden/golden_50.jsonl     # 평가 전용 (학습 미사용)
 ├── models/
 │   ├── sbv-dora-adapter/          # DoRA 어댑터 (~50MB)
-│   ├── sbv-lora-adapter/          # LoRA 어댑터 (비교)
-│   └── sbv-llm-q4_k_m.gguf       # 배포 모델
-├── results/                       # 벤치마크 결과
+│   └── sbv-llm-q4_k_m.gguf        # 배포 모델
+├── results_v2/                    # 벤치마크 결과
 ├── configs/
 │   ├── schema.json                # JSON 추출 스키마
 │   ├── crawl_config.yaml          # 크롤러 설정
-│   └── train_config.yaml          # 학습 하이퍼파라미터
-├── Modelfile                      # Ollama 모델 정의
+│   └── train_config_v2.yaml       # 학습 하이퍼파라미터
+├── Modelfile_v2                   # Ollama 모델 정의
 └── requirements.txt
 ```
 
 ## Module Responsibilities
 
-### scripts/01-02: Crawlers
+### scripts/01: Crawlers
 - **입력:** 사이트 URL + 크롤 설정
-- **출력:** `data/raw/{source}/{id}.md`
+- **출력:** `data/raw/wanted/{id}.md`
 - **의존:** `crawl4ai`
 - **주의:** robots.txt 준수, 2초 딜레이, User-Agent 명시, 체크포인트 저장(중단 재개 가능)
 
@@ -61,7 +58,7 @@ SBeeV-LLM-JSON-Extractor/
 - **의존:** `unsloth`, `peft`, `bitsandbytes`, `transformers`
 - **핵심 설정:**
   ```yaml
-  base_model: google/gemma-4-e4b  # 또는 e4b-it
+  base_model: Qwen/Qwen3.5-9B  # 또는 Qwen3.5-9B-Instruct
   quant: nf4, double_quant
   lora_r: 16, lora_alpha: 32
   use_dora: true  # 05에서 true, 06에서 false

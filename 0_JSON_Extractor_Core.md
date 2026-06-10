@@ -20,7 +20,7 @@
 
 ## 🚀 핵심 해결책 (Solution)
 
-*   **Instruction Tuning from Base Model**: 대화형 튜닝이 되지 않은 **Gemma-4-E4B (8B, Base)** 모델을 기반으로, JSON 추출 태스크에 최적화된 인스트럭션 튜닝을 직접 수행.
+*   **Instruction Tuning from Base Model**: 대화형 튜닝이 되지 않은 **Qwen 3.5 (9B, Base)** 모델을 기반으로, JSON 추출 태스크에 최적화된 인스트럭션 튜닝을 직접 수행.
 *   **Unsloth Memory Optimization**: Unsloth의 커스텀 CUDA 커널을 적용하여 12GB VRAM 환경에서 메모리 효율을 70% 개선하고 학습 속도를 극대화.
 *   **PEFT (DoRA)**: 최신 **DoRA(Weight-Decomposed LoRA)** 기법을 적용하여 Base 모델의 가중치 분해 학습을 통한 정밀한 정보 추출 정확도 확보.
 *   **QLoRA 파인튜닝**: 4-bit 양자화 상태에서 파인튜닝을 진행하여 저사양 하드웨어에서도 GPT-5.5급의 성능 확보.
@@ -33,7 +33,7 @@
 
 | 구분 | 상세 스택 | 비고 |
 | :--- | :--- | :--- |
-| **Base Model** | **Gemma-4-E4B (8B, Base)** | 12GB VRAM에서 가장 효율적으로 학습 가능한 최신 4세대 아키텍처 모델. |
+| **Base Model** | **Qwen 3.5 (9B, Base)** | 12GB VRAM에서 가장 효율적으로 학습 가능한 최신 아키텍처 모델. |
 | **Optimization** | **Unsloth**, QLoRA (4-bit NF4) | 메모리 70% 절감 및 학습 속도 2배 향상. |
 | **Tuning** | **DoRA** (Weight-Decomposed LoRA) | 가중치 분해 학습을 통한 고정밀 튜닝. |
 | **Data Strategy** | Crawl4AI, Synthetic Data | 마크다운 수집 및 교사 모델(Gemini) 기반 지식 증류. |
@@ -46,16 +46,15 @@
 ### 수집 소스 및 규모
 | 소스 | 수집량 | 비고 |
 | :--- | :---: | :--- |
-| **원티드** (wanted.co.kr) | ~400건 | 개발자 채용 주력 |
-| **직행** (zighang.com/it) | ~400건 | 28개 플랫폼 통합 애그리게이터 |
-| **합계 (원본)** | **800건** | |
+| **원티드** (wanted.co.kr) | **1,000건** | 개발자 IT 채용 주력 |
+| **합계 (원본)** | **1,000건** | |
 
 > **크롤러 안전 설정:** `robots.txt` 준수, 요청 간격 2초, User-Agent 명시, 동시 요청 1개.
 
 ### 데이터 구축 흐름
-1. **Raw Data Collection**: Crawl4AI로 채용 공고 원문 800건 마크다운 수집.
+1. **Raw Data Collection**: Crawl4AI로 채용 공고 원문 1,000건 마크다운 수집.
 2. **Distillation (교사 모델)**: Gemini 3.1 Pro로 JSON 정답 자동 생성.
-3. **Data Augmentation**: 지시어 변형 / 부분 추출 / 엣지 케이스 추가로 **2,000건+** 학습 데이터 구축.
+3. **Data Augmentation**: 지시어 변형 / 부분 추출 / 엣지 케이스 추가로 **3,000건+** 학습 데이터 구축.
 4. **Golden Dataset**: 50건 수동 검수 → 평가 전용 (학습에 사용 금지).
 5. **Evaluation**: 파인튜닝 전후의 'JSON Schema 준수율' 및 '추론 속도' 측정.
 
@@ -186,7 +185,7 @@ quantization_config = BitsAndBytesConfig(
 
 # 최적화된 설정으로 베이스 모델 로드
 model = AutoModelForCausalLM.from_pretrained(
-    "google/gemma-4-e4b",                 # E4B Base 모델 (8B Dense)
+    "Qwen/Qwen3.5-9B",                    # Qwen 3.5 Base 모델 (9B Dense)
     quantization_config=quantization_config,
     device_map="auto"
 )
@@ -257,7 +256,7 @@ from peft import PeftModel
 from transformers import AutoModelForCausalLM
 
 # 베이스 모델 로드 (FP16)
-base_model = AutoModelForCausalLM.from_pretrained("google/gemma-4-e4b")
+base_model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen3.5-9B")
 # 학습된 어댑터 로드
 model = PeftModel.from_pretrained(base_model, "sbv-lora-adapter")
 # 병합 → 하나의 독립 모델로 생성
